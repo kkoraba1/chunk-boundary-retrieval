@@ -304,7 +304,7 @@ The command rebuilds the numerical summaries used for the controlled probe, docu
 
 ## Testing
 
-The repo contains 170 automated tests covering the data pipeline, segmentation, retrieval, evaluation, analysis regeneration, and experiment behavior.
+The repo contains 164 automated tests covering the data pipeline, segmentation, retrieval, evaluation, analysis regeneration, and experiment behavior.
 
 Run the full test suite with:
 

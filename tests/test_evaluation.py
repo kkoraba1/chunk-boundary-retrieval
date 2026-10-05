@@ -6,14 +6,12 @@ from document_chunking_utility.chunkers import TextChunk
 from boundary_retrieval.evaluation import (
     best_evidence_chunk_index,
     bootstrap_mean_overlap_efs_reduction,
-    bootstrap_mean_overlap_rr_mitigation,
     bootstrap_mean_rr_difference,
     bootstrap_mean_rr_difference_by_document,
     build_efs_rr_plot_data,
     build_fragmentation_pairs,
     build_full_index_fragmentation_pairs,
     build_overlap_fragmentation_comparison,
-    build_overlap_retrieval_comparison,
     build_within_query_spearman,
     evidence_fragmentation_score,
     evidence_overlap_fraction,
@@ -24,7 +22,6 @@ from boundary_retrieval.evaluation import (
     select_error_cases,
     summarize_full_index_fragmentation,
     summarize_overlap_fragmentation,
-    summarize_overlap_retrieval,
     summarize_within_query_spearman,
 )
 
@@ -976,167 +973,9 @@ def test_bootstrap_mean_overlap_efs_reduction_for_constant_effect():
     assert stat["ci_high"] == pytest.approx(0.125)
 
 
-def test_overlap_retrieval_comparison_measures_mitigation():
-    base = []
-    overlap = []
-
-    for retriever in ("bm25", "e5"):
-        base.extend(
-            _make_overlap_comparison_rows(
-                "query-1", retriever, [0.0, 0.4], [1.0, 0.5], [1.0, 0.6], [1.0, 0.8]
-            )
-        )
-        overlap.extend(
-            _make_overlap_comparison_rows(
-                "query-1", retriever, [0.0, 0.2], [1.0, 0.8], [1.0, 0.9], [1.0, 0.95]
-            )
-        )
-
-    comparisons = build_overlap_retrieval_comparison(base, overlap)
-
-    assert len(comparisons) == 2
-
-    for row in comparisons:
-        assert row["baseline_rr_difference"] == pytest.approx(-0.5)
-        assert row["overlap_rr_difference"] == pytest.approx(-0.2)
-        assert row["rr_mitigation"] == pytest.approx(0.3)
-        assert row["baseline_ndcg_at_5_difference"] == pytest.approx(-0.4)
-        assert row["overlap_ndcg_at_5_difference"] == pytest.approx(-0.1)
-        assert row["ndcg_at_5_mitigation"] == pytest.approx(0.3)
-        assert row[
-            "baseline_oracle_normalized_coverage_at_5_difference"
-        ] == pytest.approx(-0.2)
-        assert row[
-            "overlap_oracle_normalized_coverage_at_5_difference"
-        ] == pytest.approx(-0.05)
-        assert row["oracle_normalized_coverage_at_5_mitigation"] == pytest.approx(0.15)
-
-
-def test_overlap_retrieval_comparison_skips_undefined_overlap_contrast():
-    base = []
-    overlap = []
-
-    for retriever in ("bm25", "e5"):
-        base.extend(
-            _make_overlap_comparison_rows(
-                "query-1", retriever, [0.0, 0.4], [1.0, 0.5], [1.0, 0.6], [1.0, 0.8]
-            )
-        )
-        overlap.extend(
-            _make_overlap_comparison_rows(
-                "query-1", retriever, [0.0, 0.0], [1.0, 0.5], [1.0, 0.6], [1.0, 0.8]
-            )
-        )
-
-    assert build_overlap_retrieval_comparison(base, overlap) == []
-
-
-def test_overlap_retrieval_comparison_uses_only_shared_defined_contrasts():
-    base = []
-    overlap = []
-
-    for retriever in ("bm25", "e5"):
-        base.extend(
-            _make_overlap_comparison_rows(
-                "query-1", retriever, [0.0, 0.4], [1.0, 0.5], [1.0, 0.6], [1.0, 0.8]
-            )
-        )
-        overlap.extend(
-            _make_overlap_comparison_rows(
-                "query-1", retriever, [0.0, 0.2], [1.0, 0.8], [1.0, 0.9], [1.0, 0.95]
-            )
-        )
-
-        base.extend(
-            _make_overlap_comparison_rows(
-                "query-2", retriever, [0.0, 0.5], [1.0, 0.25], [1.0, 0.5], [1.0, 0.7]
-            )
-        )
-        overlap.extend(
-            _make_overlap_comparison_rows(
-                "query-2", retriever, [0.0, 0.0], [1.0, 0.5], [1.0, 0.8], [1.0, 0.9]
-            )
-        )
-
-    comparisons = build_overlap_retrieval_comparison(base, overlap)
-
-    assert len(comparisons) == 2
-    assert {row["query_id"] for row in comparisons} == {"query-1"}
-    assert {row["retriever"] for row in comparisons} == {"bm25", "e5"}
-
-
-def test_overlap_retrieval_comparison_rejects_mismatched_raw_query_sets():
-    base = _make_overlap_comparison_rows(
-        "query-1", "bm25", [0.0, 0.4], [1.0, 0.5], [1.0, 0.6], [1.0, 0.8]
-    )
-    overlap = _make_overlap_comparison_rows(
-        "query-2", "bm25", [0.0, 0.2], [1.0, 0.8], [1.0, 0.9], [1.0, 0.95]
-    )
-
-    with pytest.raises(ValueError, match="retrieval query sets do not match"):
-        build_overlap_retrieval_comparison(base, overlap)
-
-
-def test_summarize_overlap_retrieval_keeps_retrievers_separate():
-    comparisons = [
-        {
-            "retriever": "bm25",
-            "baseline_rr_difference": -0.4,
-            "overlap_rr_difference": -0.1,
-            "rr_mitigation": 0.3,
-            "baseline_ndcg_at_5_difference": -0.2,
-            "overlap_ndcg_at_5_difference": -0.1,
-            "ndcg_at_5_mitigation": 0.1,
-            "baseline_oracle_normalized_coverage_at_5_difference": -0.1,
-            "overlap_oracle_normalized_coverage_at_5_difference": 0.0,
-            "oracle_normalized_coverage_at_5_mitigation": 0.1,
-        },
-        {
-            "retriever": "e5",
-            "baseline_rr_difference": -0.2,
-            "overlap_rr_difference": -0.3,
-            "rr_mitigation": -0.1,
-            "baseline_ndcg_at_5_difference": -0.1,
-            "overlap_ndcg_at_5_difference": -0.2,
-            "ndcg_at_5_mitigation": -0.1,
-            "baseline_oracle_normalized_coverage_at_5_difference": 0.0,
-            "overlap_oracle_normalized_coverage_at_5_difference": -0.1,
-            "oracle_normalized_coverage_at_5_mitigation": -0.1,
-        },
-    ]
-
-    summary = summarize_overlap_retrieval(comparisons, "bm25")
-
-    assert summary["n_queries"] == 1
-    assert summary["mean_rr_mitigation"] == pytest.approx(0.3)
-    assert summary["mean_ndcg_at_5_mitigation"] == pytest.approx(0.1)
-    assert summary["mean_oracle_normalized_coverage_at_5_mitigation"] == pytest.approx(
-        0.1
-    )
-
-
-def test_bootstrap_mean_overlap_rr_mitigation_for_constant_effect():
-    comparisons = [{"retriever": "bm25", "rr_mitigation": 0.2} for _ in range(5)]
-
-    stat = bootstrap_mean_overlap_rr_mitigation(
-        comparisons, "bm25", n_resamples=100, seed=5
-    )
-
-    assert stat["n_queries"] == 5
-    assert stat["mean_rr_mitigation"] == pytest.approx(0.2)
-    assert stat["ci_low"] == pytest.approx(0.2)
-    assert stat["ci_high"] == pytest.approx(0.2)
-
-
 def test_overlap_analysis_rejects_missing_data():
     with pytest.raises(ValueError, match="no overlap fragmentation"):
         summarize_overlap_fragmentation([])
 
     with pytest.raises(ValueError, match="no overlap fragmentation"):
         bootstrap_mean_overlap_efs_reduction([])
-
-    with pytest.raises(ValueError, match="no overlap retrieval"):
-        summarize_overlap_retrieval([], "bm25")
-
-    with pytest.raises(ValueError, match="no overlap retrieval"):
-        bootstrap_mean_overlap_rr_mitigation([], "bm25")
