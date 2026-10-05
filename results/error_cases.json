@@ -1,0 +1,797 @@
+{
+  "failures": [
+    {
+      "category": "failures",
+      "query_id": "09f69dbfbbb5ab0b90ce0faf73e5166b_1",
+      "document_id": "About New York State Inspections#3_0",
+      "query": "I just moved to New York and registered my car here. I need help with understanding vehicle inspection rules.",
+      "evidence_text": "If your vehicle was registered in another state which issues an inspection sticker , ",
+      "low_efs": 0.0,
+      "high_efs": 0.4285714285714286,
+      "bm25_rr_difference": -0.75,
+      "e5_rr_difference": -0.6547619047619048,
+      "low_conditions": [
+        {
+          "phase": 0,
+          "efs": 0.0,
+          "best_chunk_index": 1,
+          "evidence_overlap_fraction": 1.0,
+          "passage": "See the Inspection Groups and Fee Chart PDF [7] VS-77. \n\nWhat is checked \nThe DMV brochure, New York State Vehicle Safety / Emissions Inspection Program for Cars and Light Trucks [3] C-50 lists the equipment items checked during a safety inspection, and a description of the safety inspection. \n\nI bought a vehicle from a dealer \nThe dealer must have the vehicle inspected within 30 days of the date of sale and prior to delivery. \n\nI bought a vehicle from a private seller (not a dealer) \nIf you buy or get a vehicle from someone other than a dealer registered with the New York State DMV , you will receive an inspection extension that will last 10 days from the date of the registration. An inspection issued to the previous registrant is not valid. \n\nI have moved to New York and registered my vehicle here \nIf your vehicle was registered in another state which issues an inspection sticker , you do not need to have your vehicle inspected immediately. Your out - of - state inspection remains valid until it expires or for one year after the registration date, whichever comes first. When your out - of - state inspection expires",
+          "bm25_rr": 1.0,
+          "e5_rr": 1.0
+        },
+        {
+          "phase": 25,
+          "efs": 0.0,
+          "best_chunk_index": 2,
+          "evidence_overlap_fraction": 1.0,
+          "passage": "for Cars and Light Trucks [3] C-50 lists the equipment items checked during a safety inspection, and a description of the safety inspection. \n\nI bought a vehicle from a dealer \nThe dealer must have the vehicle inspected within 30 days of the date of sale and prior to delivery. \n\nI bought a vehicle from a private seller (not a dealer) \nIf you buy or get a vehicle from someone other than a dealer registered with the New York State DMV , you will receive an inspection extension that will last 10 days from the date of the registration. An inspection issued to the previous registrant is not valid. \n\nI have moved to New York and registered my vehicle here \nIf your vehicle was registered in another state which issues an inspection sticker , you do not need to have your vehicle inspected immediately. Your out - of - state inspection remains valid until it expires or for one year after the registration date, whichever comes first. When your out - of - state inspection expires , you must get a New York State vehicle inspection. If the previous inspection was performed in a jurisdiction that does not issue an inspection",
+          "bm25_rr": 1.0,
+          "e5_rr": 1.0
+        },
+        {
+          "phase": 50,
+          "efs": 0.0,
+          "best_chunk_index": 2,
+          "evidence_overlap_fraction": 1.0,
+          "passage": "a vehicle from a dealer \nThe dealer must have the vehicle inspected within 30 days of the date of sale and prior to delivery. \n\nI bought a vehicle from a private seller (not a dealer) \nIf you buy or get a vehicle from someone other than a dealer registered with the New York State DMV , you will receive an inspection extension that will last 10 days from the date of the registration. An inspection issued to the previous registrant is not valid. \n\nI have moved to New York and registered my vehicle here \nIf your vehicle was registered in another state which issues an inspection sticker , you do not need to have your vehicle inspected immediately. Your out - of - state inspection remains valid until it expires or for one year after the registration date, whichever comes first. When your out - of - state inspection expires , you must get a New York State vehicle inspection. If the previous inspection was performed in a jurisdiction that does not issue an inspection sticker , you must have your vehicle inspected in New York. \n\nI need an extension (I am not in New York right now) \nIf you",
+          "bm25_rr": 1.0,
+          "e5_rr": 1.0
+        },
+        {
+          "phase": 75,
+          "efs": 0.0,
+          "best_chunk_index": 2,
+          "evidence_overlap_fraction": 1.0,
+          "passage": "bought a vehicle from a private seller (not a dealer) \nIf you buy or get a vehicle from someone other than a dealer registered with the New York State DMV , you will receive an inspection extension that will last 10 days from the date of the registration. An inspection issued to the previous registrant is not valid. \n\nI have moved to New York and registered my vehicle here \nIf your vehicle was registered in another state which issues an inspection sticker , you do not need to have your vehicle inspected immediately. Your out - of - state inspection remains valid until it expires or for one year after the registration date, whichever comes first. When your out - of - state inspection expires , you must get a New York State vehicle inspection. If the previous inspection was performed in a jurisdiction that does not issue an inspection sticker , you must have your vehicle inspected in New York. \n\nI need an extension (I am not in New York right now) \nIf you are out of state when your inspection will expire , you can apply for an extension. First , determine if an expired out - of",
+          "bm25_rr": 1.0,
+          "e5_rr": 1.0
+        },
+        {
+          "phase": 100,
+          "efs": 0.0,
+          "best_chunk_index": 2,
+          "evidence_overlap_fraction": 1.0,
+          "passage": "the New York State DMV , you will receive an inspection extension that will last 10 days from the date of the registration. An inspection issued to the previous registrant is not valid. \n\nI have moved to New York and registered my vehicle here \nIf your vehicle was registered in another state which issues an inspection sticker , you do not need to have your vehicle inspected immediately. Your out - of - state inspection remains valid until it expires or for one year after the registration date, whichever comes first. When your out - of - state inspection expires , you must get a New York State vehicle inspection. If the previous inspection was performed in a jurisdiction that does not issue an inspection sticker , you must have your vehicle inspected in New York. \n\nI need an extension (I am not in New York right now) \nIf you are out of state when your inspection will expire , you can apply for an extension. First , determine if an expired out - of - state inspection is a violation of law in that state. Ask the authorities if a New York State inspection extension sticker prevents a ticket",
+          "bm25_rr": 1.0,
+          "e5_rr": 0.3333333333333333
+        },
+        {
+          "phase": 125,
+          "efs": 0.0,
+          "best_chunk_index": 2,
+          "evidence_overlap_fraction": 1.0,
+          "passage": "issued to the previous registrant is not valid. \n\nI have moved to New York and registered my vehicle here \nIf your vehicle was registered in another state which issues an inspection sticker , you do not need to have your vehicle inspected immediately. Your out - of - state inspection remains valid until it expires or for one year after the registration date, whichever comes first. When your out - of - state inspection expires , you must get a New York State vehicle inspection. If the previous inspection was performed in a jurisdiction that does not issue an inspection sticker , you must have your vehicle inspected in New York. \n\nI need an extension (I am not in New York right now) \nIf you are out of state when your inspection will expire , you can apply for an extension. First , determine if an expired out - of - state inspection is a violation of law in that state. Ask the authorities if a New York State inspection extension sticker prevents a ticket for the violation. The extension allows you 10 days from the date the vehicle returns to New York State to get an inspection. Allow 14",
+          "bm25_rr": 1.0,
+          "e5_rr": 1.0
+        },
+        {
+          "phase": 175,
+          "efs": 0.0,
+          "best_chunk_index": 1,
+          "evidence_overlap_fraction": 1.0,
+          "passage": "that reads ,' Official Inspection Station. ' Motorcycle inspection stations display a blue and orange sign. Find an inspection station near you [6 ] \n\nFees \nSee the Inspection Groups and Fee Chart PDF [7] VS-77. \n\nWhat is checked \nThe DMV brochure, New York State Vehicle Safety / Emissions Inspection Program for Cars and Light Trucks [3] C-50 lists the equipment items checked during a safety inspection, and a description of the safety inspection. \n\nI bought a vehicle from a dealer \nThe dealer must have the vehicle inspected within 30 days of the date of sale and prior to delivery. \n\nI bought a vehicle from a private seller (not a dealer) \nIf you buy or get a vehicle from someone other than a dealer registered with the New York State DMV , you will receive an inspection extension that will last 10 days from the date of the registration. An inspection issued to the previous registrant is not valid. \n\nI have moved to New York and registered my vehicle here \nIf your vehicle was registered in another state which issues an inspection sticker , you do not need to have your vehicle inspected immediately. Your out - of - state inspection",
+          "bm25_rr": 1.0,
+          "e5_rr": 1.0
+        }
+      ],
+      "high_conditions": [
+        {
+          "phase": 150,
+          "efs": 0.4285714285714286,
+          "best_chunk_index": 2,
+          "evidence_overlap_fraction": 0.5714285714285714,
+          "passage": "another state which issues an inspection sticker , you do not need to have your vehicle inspected immediately. Your out - of - state inspection remains valid until it expires or for one year after the registration date, whichever comes first. When your out - of - state inspection expires , you must get a New York State vehicle inspection. If the previous inspection was performed in a jurisdiction that does not issue an inspection sticker , you must have your vehicle inspected in New York. \n\nI need an extension (I am not in New York right now) \nIf you are out of state when your inspection will expire , you can apply for an extension. First , determine if an expired out - of - state inspection is a violation of law in that state. Ask the authorities if a New York State inspection extension sticker prevents a ticket for the violation. The extension allows you 10 days from the date the vehicle returns to New York State to get an inspection. Allow 14 days for the DMV to process and mail your extension sticker. You will need it before you return your vehicle to New York. To receive",
+          "bm25_rr": 0.25,
+          "e5_rr": 0.25
+        }
+      ],
+      "focus_retriever": "bm25"
+    },
+    {
+      "category": "failures",
+      "query_id": "b55dafba91b47f076435e58d02a0659b_1",
+      "document_id": "About New York State Inspections#3_0",
+      "query": "Hi, recently I moved to New York and registered my vehicle here, what about my inspection tag?",
+      "evidence_text": "If your vehicle was registered in another state which issues an inspection sticker , ",
+      "low_efs": 0.0,
+      "high_efs": 0.4285714285714286,
+      "bm25_rr_difference": -0.75,
+      "e5_rr_difference": -0.2857142857142857,
+      "low_conditions": [
+        {
+          "phase": 0,
+          "efs": 0.0,
+          "best_chunk_index": 1,
+          "evidence_overlap_fraction": 1.0,
+          "passage": "See the Inspection Groups and Fee Chart PDF [7] VS-77. \n\nWhat is checked \nThe DMV brochure, New York State Vehicle Safety / Emissions Inspection Program for Cars and Light Trucks [3] C-50 lists the equipment items checked during a safety inspection, and a description of the safety inspection. \n\nI bought a vehicle from a dealer \nThe dealer must have the vehicle inspected within 30 days of the date of sale and prior to delivery. \n\nI bought a vehicle from a private seller (not a dealer) \nIf you buy or get a vehicle from someone other than a dealer registered with the New York State DMV , you will receive an inspection extension that will last 10 days from the date of the registration. An inspection issued to the previous registrant is not valid. \n\nI have moved to New York and registered my vehicle here \nIf your vehicle was registered in another state which issues an inspection sticker , you do not need to have your vehicle inspected immediately. Your out - of - state inspection remains valid until it expires or for one year after the registration date, whichever comes first. When your out - of - state inspection expires",
+          "bm25_rr": 1.0,
+          "e5_rr": 0.25
+        },
+        {
+          "phase": 25,
+          "efs": 0.0,
+          "best_chunk_index": 2,
+          "evidence_overlap_fraction": 1.0,
+          "passage": "for Cars and Light Trucks [3] C-50 lists the equipment items checked during a safety inspection, and a description of the safety inspection. \n\nI bought a vehicle from a dealer \nThe dealer must have the vehicle inspected within 30 days of the date of sale and prior to delivery. \n\nI bought a vehicle from a private seller (not a dealer) \nIf you buy or get a vehicle from someone other than a dealer registered with the New York State DMV , you will receive an inspection extension that will last 10 days from the date of the registration. An inspection issued to the previous registrant is not valid. \n\nI have moved to New York and registered my vehicle here \nIf your vehicle was registered in another state which issues an inspection sticker , you do not need to have your vehicle inspected immediately. Your out - of - state inspection remains valid until it expires or for one year after the registration date, whichever comes first. When your out - of - state inspection expires , you must get a New York State vehicle inspection. If the previous inspection was performed in a jurisdiction that does not issue an inspection",
+          "bm25_rr": 1.0,
+          "e5_rr": 0.25
+        },
+        {
+          "phase": 50,
+          "efs": 0.0,
+          "best_chunk_index": 2,
+          "evidence_overlap_fraction": 1.0,
+          "passage": "a vehicle from a dealer \nThe dealer must have the vehicle inspected within 30 days of the date of sale and prior to delivery. \n\nI bought a vehicle from a private seller (not a dealer) \nIf you buy or get a vehicle from someone other than a dealer registered with the New York State DMV , you will receive an inspection extension that will last 10 days from the date of the registration. An inspection issued to the previous registrant is not valid. \n\nI have moved to New York and registered my vehicle here \nIf your vehicle was registered in another state which issues an inspection sticker , you do not need to have your vehicle inspected immediately. Your out - of - state inspection remains valid until it expires or for one year after the registration date, whichever comes first. When your out - of - state inspection expires , you must get a New York State vehicle inspection. If the previous inspection was performed in a jurisdiction that does not issue an inspection sticker , you must have your vehicle inspected in New York. \n\nI need an extension (I am not in New York right now) \nIf you",
+          "bm25_rr": 1.0,
+          "e5_rr": 0.25
+        },
+        {
+          "phase": 75,
+          "efs": 0.0,
+          "best_chunk_index": 2,
+          "evidence_overlap_fraction": 1.0,
+          "passage": "bought a vehicle from a private seller (not a dealer) \nIf you buy or get a vehicle from someone other than a dealer registered with the New York State DMV , you will receive an inspection extension that will last 10 days from the date of the registration. An inspection issued to the previous registrant is not valid. \n\nI have moved to New York and registered my vehicle here \nIf your vehicle was registered in another state which issues an inspection sticker , you do not need to have your vehicle inspected immediately. Your out - of - state inspection remains valid until it expires or for one year after the registration date, whichever comes first. When your out - of - state inspection expires , you must get a New York State vehicle inspection. If the previous inspection was performed in a jurisdiction that does not issue an inspection sticker , you must have your vehicle inspected in New York. \n\nI need an extension (I am not in New York right now) \nIf you are out of state when your inspection will expire , you can apply for an extension. First , determine if an expired out - of",
+          "bm25_rr": 1.0,
+          "e5_rr": 0.5
+        },
+        {
+          "phase": 100,
+          "efs": 0.0,
+          "best_chunk_index": 2,
+          "evidence_overlap_fraction": 1.0,
+          "passage": "the New York State DMV , you will receive an inspection extension that will last 10 days from the date of the registration. An inspection issued to the previous registrant is not valid. \n\nI have moved to New York and registered my vehicle here \nIf your vehicle was registered in another state which issues an inspection sticker , you do not need to have your vehicle inspected immediately. Your out - of - state inspection remains valid until it expires or for one year after the registration date, whichever comes first. When your out - of - state inspection expires , you must get a New York State vehicle inspection. If the previous inspection was performed in a jurisdiction that does not issue an inspection sticker , you must have your vehicle inspected in New York. \n\nI need an extension (I am not in New York right now) \nIf you are out of state when your inspection will expire , you can apply for an extension. First , determine if an expired out - of - state inspection is a violation of law in that state. Ask the authorities if a New York State inspection extension sticker prevents a ticket",
+          "bm25_rr": 1.0,
+          "e5_rr": 1.0
+        },
+        {
+          "phase": 125,
+          "efs": 0.0,
+          "best_chunk_index": 2,
+          "evidence_overlap_fraction": 1.0,
+          "passage": "issued to the previous registrant is not valid. \n\nI have moved to New York and registered my vehicle here \nIf your vehicle was registered in another state which issues an inspection sticker , you do not need to have your vehicle inspected immediately. Your out - of - state inspection remains valid until it expires or for one year after the registration date, whichever comes first. When your out - of - state inspection expires , you must get a New York State vehicle inspection. If the previous inspection was performed in a jurisdiction that does not issue an inspection sticker , you must have your vehicle inspected in New York. \n\nI need an extension (I am not in New York right now) \nIf you are out of state when your inspection will expire , you can apply for an extension. First , determine if an expired out - of - state inspection is a violation of law in that state. Ask the authorities if a New York State inspection extension sticker prevents a ticket for the violation. The extension allows you 10 days from the date the vehicle returns to New York State to get an inspection. Allow 14",
+          "bm25_rr": 1.0,
+          "e5_rr": 1.0
+        },
+        {
+          "phase": 175,
+          "efs": 0.0,
+          "best_chunk_index": 1,
+          "evidence_overlap_fraction": 1.0,
+          "passage": "that reads ,' Official Inspection Station. ' Motorcycle inspection stations display a blue and orange sign. Find an inspection station near you [6 ] \n\nFees \nSee the Inspection Groups and Fee Chart PDF [7] VS-77. \n\nWhat is checked \nThe DMV brochure, New York State Vehicle Safety / Emissions Inspection Program for Cars and Light Trucks [3] C-50 lists the equipment items checked during a safety inspection, and a description of the safety inspection. \n\nI bought a vehicle from a dealer \nThe dealer must have the vehicle inspected within 30 days of the date of sale and prior to delivery. \n\nI bought a vehicle from a private seller (not a dealer) \nIf you buy or get a vehicle from someone other than a dealer registered with the New York State DMV , you will receive an inspection extension that will last 10 days from the date of the registration. An inspection issued to the previous registrant is not valid. \n\nI have moved to New York and registered my vehicle here \nIf your vehicle was registered in another state which issues an inspection sticker , you do not need to have your vehicle inspected immediately. Your out - of - state inspection",
+          "bm25_rr": 1.0,
+          "e5_rr": 0.5
+        }
+      ],
+      "high_conditions": [
+        {
+          "phase": 150,
+          "efs": 0.4285714285714286,
+          "best_chunk_index": 2,
+          "evidence_overlap_fraction": 0.5714285714285714,
+          "passage": "another state which issues an inspection sticker , you do not need to have your vehicle inspected immediately. Your out - of - state inspection remains valid until it expires or for one year after the registration date, whichever comes first. When your out - of - state inspection expires , you must get a New York State vehicle inspection. If the previous inspection was performed in a jurisdiction that does not issue an inspection sticker , you must have your vehicle inspected in New York. \n\nI need an extension (I am not in New York right now) \nIf you are out of state when your inspection will expire , you can apply for an extension. First , determine if an expired out - of - state inspection is a violation of law in that state. Ask the authorities if a New York State inspection extension sticker prevents a ticket for the violation. The extension allows you 10 days from the date the vehicle returns to New York State to get an inspection. Allow 14 days for the DMV to process and mail your extension sticker. You will need it before you return your vehicle to New York. To receive",
+          "bm25_rr": 0.25,
+          "e5_rr": 0.25
+        }
+      ],
+      "focus_retriever": "bm25"
+    },
+    {
+      "category": "failures",
+      "query_id": "a59386f175d1e40ac86caadd392dcf73_1",
+      "document_id": "Know Your Rights in Auto Repair#3_0",
+      "query": "I have a problem with the repairs made on my vehicle at the auto repair shop.",
+      "evidence_text": "First , attempt to resolve the issue with the management of the business. Keep a written record of all contacts with management in addition to details about the repair. ",
+      "low_efs": 0.0,
+      "high_efs": 0.4137931034482759,
+      "bm25_rr_difference": -0.19761904761904758,
+      "e5_rr_difference": -0.7380952380952382,
+      "low_conditions": [
+        {
+          "phase": 0,
+          "efs": 0.0,
+          "best_chunk_index": 3,
+          "evidence_overlap_fraction": 1.0,
+          "passage": "shop without paying for the repairs, or to inspect it in areas where only authorized employees are allowed. Guarantees A shop is not required to guarantee its work , but if a shop voluntarily guarantees repairs, the terms and time limit of the guarantee must be listed on the invoice . If you are not satisfied with the quality or price of a repair, discuss it with the management of the shop. Many misunderstandings can be resolved through a calm, honest discussion. \n\nIf You Have a Repair Problem \nFirst , attempt to resolve the issue with the management of the business. Keep a written record of all contacts with management in addition to details about the repair. Copies of work orders and invoices are proof of your attempts to resolve the problem . If a satisfactory resolution is not reached and you wish to file a complaint, you must submit a Vehicle Safety Complaint Report PDF [1] [1] along with any supporting documents to the DMV Consumer & Facilities Services Complaint Unit. To submit electronically , download the complaint report available at the link above to your personal device. Attach and then email the completed report as well as any",
+          "bm25_rr": 0.5,
+          "e5_rr": 1.0
+        },
+        {
+          "phase": 25,
+          "efs": 0.0,
+          "best_chunk_index": 4,
+          "evidence_overlap_fraction": 1.0,
+          "passage": "guarantee its work , but if a shop voluntarily guarantees repairs, the terms and time limit of the guarantee must be listed on the invoice . If you are not satisfied with the quality or price of a repair, discuss it with the management of the shop. Many misunderstandings can be resolved through a calm, honest discussion. \n\nIf You Have a Repair Problem \nFirst , attempt to resolve the issue with the management of the business. Keep a written record of all contacts with management in addition to details about the repair. Copies of work orders and invoices are proof of your attempts to resolve the problem . If a satisfactory resolution is not reached and you wish to file a complaint, you must submit a Vehicle Safety Complaint Report PDF [1] [1] along with any supporting documents to the DMV Consumer & Facilities Services Complaint Unit. To submit electronically , download the complaint report available at the link above to your personal device. Attach and then email the completed report as well as any supporting documents to [email protected] [2]. Please note that DMV staff will communicate with you through email. Complaint UnitBureau of Consumer & Facility ServicesDepartment of",
+          "bm25_rr": 0.3333333333333333,
+          "e5_rr": 1.0
+        },
+        {
+          "phase": 50,
+          "efs": 0.0,
+          "best_chunk_index": 4,
+          "evidence_overlap_fraction": 1.0,
+          "passage": ". If you are not satisfied with the quality or price of a repair, discuss it with the management of the shop. Many misunderstandings can be resolved through a calm, honest discussion. \n\nIf You Have a Repair Problem \nFirst , attempt to resolve the issue with the management of the business. Keep a written record of all contacts with management in addition to details about the repair. Copies of work orders and invoices are proof of your attempts to resolve the problem . If a satisfactory resolution is not reached and you wish to file a complaint, you must submit a Vehicle Safety Complaint Report PDF [1] [1] along with any supporting documents to the DMV Consumer & Facilities Services Complaint Unit. To submit electronically , download the complaint report available at the link above to your personal device. Attach and then email the completed report as well as any supporting documents to [email protected] [2]. Please note that DMV staff will communicate with you through email. Complaint UnitBureau of Consumer & Facility ServicesDepartment of Motor VehiclesP.O. Box 2700-ESP , Albany , NY 12220 - 0700FAX : 518 486 - 4102Phone : 1 - 518 - 474 - 8943 between",
+          "bm25_rr": 0.25,
+          "e5_rr": 1.0
+        },
+        {
+          "phase": 75,
+          "efs": 0.0,
+          "best_chunk_index": 4,
+          "evidence_overlap_fraction": 1.0,
+          "passage": "be resolved through a calm, honest discussion. \n\nIf You Have a Repair Problem \nFirst , attempt to resolve the issue with the management of the business. Keep a written record of all contacts with management in addition to details about the repair. Copies of work orders and invoices are proof of your attempts to resolve the problem . If a satisfactory resolution is not reached and you wish to file a complaint, you must submit a Vehicle Safety Complaint Report PDF [1] [1] along with any supporting documents to the DMV Consumer & Facilities Services Complaint Unit. To submit electronically , download the complaint report available at the link above to your personal device. Attach and then email the completed report as well as any supporting documents to [email protected] [2]. Please note that DMV staff will communicate with you through email. Complaint UnitBureau of Consumer & Facility ServicesDepartment of Motor VehiclesP.O. Box 2700-ESP , Albany , NY 12220 - 0700FAX : 518 486 - 4102Phone : 1 - 518 - 474 - 8943 between 8:30 a.m. and 4:15 p.m., Monday - Friday Email : [ email protected] [2 ] IMPORTANT : DMV staff will not investigate a complaint until",
+          "bm25_rr": 0.2,
+          "e5_rr": 0.3333333333333333
+        },
+        {
+          "phase": 125,
+          "efs": 0.0,
+          "best_chunk_index": 3,
+          "evidence_overlap_fraction": 1.0,
+          "passage": "was prepared. If the shop promised a delivery date , that must be listed on the repair order. If you received a written estimate , compare it with the invoice and try to resolve any questions before you pay for the repairs. Inspection After Repair You have the right to inspect your vehicle at the shop before paying for repairs. However , this does not give you the right to remove the vehicle from the shop without paying for the repairs, or to inspect it in areas where only authorized employees are allowed. Guarantees A shop is not required to guarantee its work , but if a shop voluntarily guarantees repairs, the terms and time limit of the guarantee must be listed on the invoice . If you are not satisfied with the quality or price of a repair, discuss it with the management of the shop. Many misunderstandings can be resolved through a calm, honest discussion. \n\nIf You Have a Repair Problem \nFirst , attempt to resolve the issue with the management of the business. Keep a written record of all contacts with management in addition to details about the repair. Copies of work orders and invoices are proof",
+          "bm25_rr": 0.5,
+          "e5_rr": 1.0
+        },
+        {
+          "phase": 150,
+          "efs": 0.0,
+          "best_chunk_index": 3,
+          "evidence_overlap_fraction": 1.0,
+          "passage": "compare it with the invoice and try to resolve any questions before you pay for the repairs. Inspection After Repair You have the right to inspect your vehicle at the shop before paying for repairs. However , this does not give you the right to remove the vehicle from the shop without paying for the repairs, or to inspect it in areas where only authorized employees are allowed. Guarantees A shop is not required to guarantee its work , but if a shop voluntarily guarantees repairs, the terms and time limit of the guarantee must be listed on the invoice . If you are not satisfied with the quality or price of a repair, discuss it with the management of the shop. Many misunderstandings can be resolved through a calm, honest discussion. \n\nIf You Have a Repair Problem \nFirst , attempt to resolve the issue with the management of the business. Keep a written record of all contacts with management in addition to details about the repair. Copies of work orders and invoices are proof of your attempts to resolve the problem . If a satisfactory resolution is not reached and you wish to file a complaint, you must submit",
+          "bm25_rr": 0.5,
+          "e5_rr": 1.0
+        },
+        {
+          "phase": 175,
+          "efs": 0.0,
+          "best_chunk_index": 3,
+          "evidence_overlap_fraction": 1.0,
+          "passage": "inspect your vehicle at the shop before paying for repairs. However , this does not give you the right to remove the vehicle from the shop without paying for the repairs, or to inspect it in areas where only authorized employees are allowed. Guarantees A shop is not required to guarantee its work , but if a shop voluntarily guarantees repairs, the terms and time limit of the guarantee must be listed on the invoice . If you are not satisfied with the quality or price of a repair, discuss it with the management of the shop. Many misunderstandings can be resolved through a calm, honest discussion. \n\nIf You Have a Repair Problem \nFirst , attempt to resolve the issue with the management of the business. Keep a written record of all contacts with management in addition to details about the repair. Copies of work orders and invoices are proof of your attempts to resolve the problem . If a satisfactory resolution is not reached and you wish to file a complaint, you must submit a Vehicle Safety Complaint Report PDF [1] [1] along with any supporting documents to the DMV Consumer & Facilities Services Complaint Unit. To submit electronically",
+          "bm25_rr": 0.5,
+          "e5_rr": 1.0
+        }
+      ],
+      "high_conditions": [
+        {
+          "phase": 100,
+          "efs": 0.4137931034482759,
+          "best_chunk_index": 4,
+          "evidence_overlap_fraction": 0.5862068965517241,
+          "passage": "business. Keep a written record of all contacts with management in addition to details about the repair. Copies of work orders and invoices are proof of your attempts to resolve the problem . If a satisfactory resolution is not reached and you wish to file a complaint, you must submit a Vehicle Safety Complaint Report PDF [1] [1] along with any supporting documents to the DMV Consumer & Facilities Services Complaint Unit. To submit electronically , download the complaint report available at the link above to your personal device. Attach and then email the completed report as well as any supporting documents to [email protected] [2]. Please note that DMV staff will communicate with you through email. Complaint UnitBureau of Consumer & Facility ServicesDepartment of Motor VehiclesP.O. Box 2700-ESP , Albany , NY 12220 - 0700FAX : 518 486 - 4102Phone : 1 - 518 - 474 - 8943 between 8:30 a.m. and 4:15 p.m., Monday - Friday Email : [ email protected] [2 ] IMPORTANT : DMV staff will not investigate a complaint until a completed VS-35 Complaint Report has been received. The department does not investigate complaints that have been filed anonymously. There is a 90-day limit on",
+          "bm25_rr": 0.2,
+          "e5_rr": 0.16666666666666666
+        }
+      ],
+      "focus_retriever": "e5"
+    }
+  ],
+  "robust": [
+    {
+      "category": "robust",
+      "query_id": "8613de835a0e7a5a32057670c5704ed4_1",
+      "document_id": "Totally Disabled Or Terminally Ill Policyholders | Veterans Affairs#1_0",
+      "query": "Can you help me get information for the Premium Waiver for policyholders who are totally disabled?",
+      "evidence_text": "A waiver of premiums means you won t have to pay your life insurance premiums the monthly payments you make to hold your policy. In most cases , premiums can only be waived up to one year prior to receipt of a claim. ",
+      "low_efs": 0.0,
+      "high_efs": 0.4651162790697675,
+      "bm25_rr_difference": 0.0,
+      "e5_rr_difference": 0.0,
+      "low_conditions": [
+        {
+          "phase": 25,
+          "efs": 0.0,
+          "best_chunk_index": 1,
+          "evidence_overlap_fraction": 1.0,
+          "passage": "eligible for certain benefit options. Your spouse may also be eligible for certain options if diagnosed with a terminal illness. Learn more about these options and how to apply. \n\nOn this page \nSGLI extension for policyholders who become disabled Waiver of premiums for policyholders who become totally disabled Accelerated benefits for terminally ill policyholders \n\nSGLI extension for policyholders who become disabled \n\n\nCan I get a free extension of my SGLI coverage if I m disabled when I leave the military? \nYou may be able to keep your coverage for up to 2 years after the date you left the military if you meet both of the requirements listed below. Both of these must be true. You re: Within 2 years of your separation date , and Totally disabled or have certain conditions Find out if you qualify for the SGLI Disability Extension and how to apply \n\nWaiver of premiums for policyholders who become totally disabled \nA waiver of premiums means you won t have to pay your life insurance premiums the monthly payments you make to hold your policy. In most cases , premiums can only be waived up to one year prior to receipt of a claim. You may",
+          "bm25_rr": 1.0,
+          "e5_rr": 1.0
+        },
+        {
+          "phase": 50,
+          "efs": 0.0,
+          "best_chunk_index": 1,
+          "evidence_overlap_fraction": 1.0,
+          "passage": "and how to apply. \n\nOn this page \nSGLI extension for policyholders who become disabled Waiver of premiums for policyholders who become totally disabled Accelerated benefits for terminally ill policyholders \n\nSGLI extension for policyholders who become disabled \n\n\nCan I get a free extension of my SGLI coverage if I m disabled when I leave the military? \nYou may be able to keep your coverage for up to 2 years after the date you left the military if you meet both of the requirements listed below. Both of these must be true. You re: Within 2 years of your separation date , and Totally disabled or have certain conditions Find out if you qualify for the SGLI Disability Extension and how to apply \n\nWaiver of premiums for policyholders who become totally disabled \nA waiver of premiums means you won t have to pay your life insurance premiums the monthly payments you make to hold your policy. In most cases , premiums can only be waived up to one year prior to receipt of a claim. You may be able to get a waiver of your life insurance premiums if you meet all of the requirements listed below. All of these must be",
+          "bm25_rr": 1.0,
+          "e5_rr": 1.0
+        },
+        {
+          "phase": 75,
+          "efs": 0.0,
+          "best_chunk_index": 1,
+          "evidence_overlap_fraction": 1.0,
+          "passage": "for terminally ill policyholders \n\nSGLI extension for policyholders who become disabled \n\n\nCan I get a free extension of my SGLI coverage if I m disabled when I leave the military? \nYou may be able to keep your coverage for up to 2 years after the date you left the military if you meet both of the requirements listed below. Both of these must be true. You re: Within 2 years of your separation date , and Totally disabled or have certain conditions Find out if you qualify for the SGLI Disability Extension and how to apply \n\nWaiver of premiums for policyholders who become totally disabled \nA waiver of premiums means you won t have to pay your life insurance premiums the monthly payments you make to hold your policy. In most cases , premiums can only be waived up to one year prior to receipt of a claim. You may be able to get a waiver of your life insurance premiums if you meet all of the requirements listed below. All of these must be true : You have a mental or physical disability that prevents you from being able to hold a job , and You re covered under",
+          "bm25_rr": 1.0,
+          "e5_rr": 1.0
+        },
+        {
+          "phase": 100,
+          "efs": 0.0,
+          "best_chunk_index": 1,
+          "evidence_overlap_fraction": 1.0,
+          "passage": "when I leave the military? \nYou may be able to keep your coverage for up to 2 years after the date you left the military if you meet both of the requirements listed below. Both of these must be true. You re: Within 2 years of your separation date , and Totally disabled or have certain conditions Find out if you qualify for the SGLI Disability Extension and how to apply \n\nWaiver of premiums for policyholders who become totally disabled \nA waiver of premiums means you won t have to pay your life insurance premiums the monthly payments you make to hold your policy. In most cases , premiums can only be waived up to one year prior to receipt of a claim. You may be able to get a waiver of your life insurance premiums if you meet all of the requirements listed below. All of these must be true : You have a mental or physical disability that prevents you from being able to hold a job , and You re covered under Service - Disabled Veterans Life Insurance S - DVI , and Your total disability happens before you re 65 years old but after the effective",
+          "bm25_rr": 1.0,
+          "e5_rr": 1.0
+        },
+        {
+          "phase": 125,
+          "efs": 0.0,
+          "best_chunk_index": 1,
+          "evidence_overlap_fraction": 1.0,
+          "passage": "if you meet both of the requirements listed below. Both of these must be true. You re: Within 2 years of your separation date , and Totally disabled or have certain conditions Find out if you qualify for the SGLI Disability Extension and how to apply \n\nWaiver of premiums for policyholders who become totally disabled \nA waiver of premiums means you won t have to pay your life insurance premiums the monthly payments you make to hold your policy. In most cases , premiums can only be waived up to one year prior to receipt of a claim. You may be able to get a waiver of your life insurance premiums if you meet all of the requirements listed below. All of these must be true : You have a mental or physical disability that prevents you from being able to hold a job , and You re covered under Service - Disabled Veterans Life Insurance S - DVI , and Your total disability happens before you re 65 years old but after the effective date of your life insurance policy , and Your total disability continues for at least 6 months in a row There are certain exceptions to",
+          "bm25_rr": 1.0,
+          "e5_rr": 1.0
+        },
+        {
+          "phase": 150,
+          "efs": 0.0,
+          "best_chunk_index": 1,
+          "evidence_overlap_fraction": 1.0,
+          "passage": "and Totally disabled or have certain conditions Find out if you qualify for the SGLI Disability Extension and how to apply \n\nWaiver of premiums for policyholders who become totally disabled \nA waiver of premiums means you won t have to pay your life insurance premiums the monthly payments you make to hold your policy. In most cases , premiums can only be waived up to one year prior to receipt of a claim. You may be able to get a waiver of your life insurance premiums if you meet all of the requirements listed below. All of these must be true : You have a mental or physical disability that prevents you from being able to hold a job , and You re covered under Service - Disabled Veterans Life Insurance S - DVI , and Your total disability happens before you re 65 years old but after the effective date of your life insurance policy , and Your total disability continues for at least 6 months in a row There are certain exceptions to the above conditions. But if you think you re entitled to a waiver of premiums , you should apply as soon as possible and we",
+          "bm25_rr": 1.0,
+          "e5_rr": 1.0
+        },
+        {
+          "phase": 175,
+          "efs": 0.0,
+          "best_chunk_index": 1,
+          "evidence_overlap_fraction": 1.0,
+          "passage": "policyholders who become totally disabled \nA waiver of premiums means you won t have to pay your life insurance premiums the monthly payments you make to hold your policy. In most cases , premiums can only be waived up to one year prior to receipt of a claim. You may be able to get a waiver of your life insurance premiums if you meet all of the requirements listed below. All of these must be true : You have a mental or physical disability that prevents you from being able to hold a job , and You re covered under Service - Disabled Veterans Life Insurance S - DVI , and Your total disability happens before you re 65 years old but after the effective date of your life insurance policy , and Your total disability continues for at least 6 months in a row There are certain exceptions to the above conditions. But if you think you re entitled to a waiver of premiums , you should apply as soon as possible and we ll let you know if you qualify. You ll need to apply for these benefits as soon as possible after becoming totally disabled. We ll",
+          "bm25_rr": 1.0,
+          "e5_rr": 1.0
+        }
+      ],
+      "high_conditions": [
+        {
+          "phase": 0,
+          "efs": 0.4651162790697675,
+          "best_chunk_index": 1,
+          "evidence_overlap_fraction": 0.5348837209302325,
+          "passage": "to hold your policy. In most cases , premiums can only be waived up to one year prior to receipt of a claim. You may be able to get a waiver of your life insurance premiums if you meet all of the requirements listed below. All of these must be true : You have a mental or physical disability that prevents you from being able to hold a job , and You re covered under Service - Disabled Veterans Life Insurance S - DVI , and Your total disability happens before you re 65 years old but after the effective date of your life insurance policy , and Your total disability continues for at least 6 months in a row There are certain exceptions to the above conditions. But if you think you re entitled to a waiver of premiums , you should apply as soon as possible and we ll let you know if you qualify. You ll need to apply for these benefits as soon as possible after becoming totally disabled. We ll decide if you qualify , and we ll notify you of the decision. To apply , fill out and sign a Claim for Disability Insurance",
+          "bm25_rr": 1.0,
+          "e5_rr": 1.0
+        }
+      ]
+    },
+    {
+      "category": "robust",
+      "query_id": "060bb53cbcd94060ea4adf313756d335_1",
+      "document_id": "NY State Adventure License FAQs#3_0",
+      "query": "Is there an additional fee to have icons added to my DMV photo document? ",
+      "evidence_text": "There are no additional fees if you request the icons be added at the time of your photo document renewal. ",
+      "low_efs": 0.0,
+      "high_efs": 0.4,
+      "bm25_rr_difference": 0.0,
+      "e5_rr_difference": 0.0,
+      "low_conditions": [
+        {
+          "phase": 0,
+          "efs": 0.0,
+          "best_chunk_index": 2,
+          "evidence_overlap_fraction": 1.0,
+          "passage": "you must have the Lifetime Empire Passport displayed on your NY State DMV photo document ; there will be no other proof that you have this credential. \n\n7. Is there an additional fee to have icons added to my DMV photo document? \nThere are no additional fees if you request the icons be added at the time of your photo document renewal. If you wish to have the icons added prior to renewal , you will be required to pay the amendment fee as required by the Vehicle and Traffic Law $12.50 for driver licenses / permits and $5.00 for non - driver identification cards. \n\n8. Can I have these icons removed from my DMV photo document? \nYes. You may contact the agency Parks or DEC that issued the lifetime license, privilege or credential to request they notify DMV to remove the icons. There is no fees associated with these requests. Any icon, except the Empire Passport icon, may also be removed by visiting a NY State DMV office. When removing icons through a visit to a DMV office , you will be required to pay the amendment fee as required by the Vehicle and Traffic Law $12.50 for driver",
+          "bm25_rr": 1.0,
+          "e5_rr": 1.0
+        },
+        {
+          "phase": 25,
+          "efs": 0.0,
+          "best_chunk_index": 3,
+          "evidence_overlap_fraction": 1.0,
+          "passage": "this credential. \n\n7. Is there an additional fee to have icons added to my DMV photo document? \nThere are no additional fees if you request the icons be added at the time of your photo document renewal. If you wish to have the icons added prior to renewal , you will be required to pay the amendment fee as required by the Vehicle and Traffic Law $12.50 for driver licenses / permits and $5.00 for non - driver identification cards. \n\n8. Can I have these icons removed from my DMV photo document? \nYes. You may contact the agency Parks or DEC that issued the lifetime license, privilege or credential to request they notify DMV to remove the icons. There is no fees associated with these requests. Any icon, except the Empire Passport icon, may also be removed by visiting a NY State DMV office. When removing icons through a visit to a DMV office , you will be required to pay the amendment fee as required by the Vehicle and Traffic Law $12.50 for driver licenses / permits and $5.00 for non - driver identification cards. \n\n9. Where is my document number located for my DMV issued photo document? \nIt",
+          "bm25_rr": 1.0,
+          "e5_rr": 1.0
+        },
+        {
+          "phase": 75,
+          "efs": 0.0,
+          "best_chunk_index": 2,
+          "evidence_overlap_fraction": 1.0,
+          "passage": "of Environmental Conservation and a completed Application for Permit, Driver License or Non - Driver ID Card pdf [2] MV-44. For example , if you would like to add the icon for the Lifetime Sportsman License to your NY State DMV issued photo document , bring your Lifetime Sportsman license issued by DEC. If you want to add the Boating Safety Certificate icon , bring your Boating Safety Certificate issued by NY State OPRHP, the United States Coast Guard, the Power Squadron or the United States Sailing Association. \n\n6. Am I required to have these icons added to my DMV photo document? \nNo , for most of the icons it is optional to have the icons displayed on your NY State DMV photo document. However, you must have the Lifetime Empire Passport displayed on your NY State DMV photo document ; there will be no other proof that you have this credential. \n\n7. Is there an additional fee to have icons added to my DMV photo document? \nThere are no additional fees if you request the icons be added at the time of your photo document renewal. If you wish to have the icons added prior to renewal , you",
+          "bm25_rr": 1.0,
+          "e5_rr": 1.0
+        },
+        {
+          "phase": 100,
+          "efs": 0.0,
+          "best_chunk_index": 2,
+          "evidence_overlap_fraction": 1.0,
+          "passage": "would like to add the icon for the Lifetime Sportsman License to your NY State DMV issued photo document , bring your Lifetime Sportsman license issued by DEC. If you want to add the Boating Safety Certificate icon , bring your Boating Safety Certificate issued by NY State OPRHP, the United States Coast Guard, the Power Squadron or the United States Sailing Association. \n\n6. Am I required to have these icons added to my DMV photo document? \nNo , for most of the icons it is optional to have the icons displayed on your NY State DMV photo document. However, you must have the Lifetime Empire Passport displayed on your NY State DMV photo document ; there will be no other proof that you have this credential. \n\n7. Is there an additional fee to have icons added to my DMV photo document? \nThere are no additional fees if you request the icons be added at the time of your photo document renewal. If you wish to have the icons added prior to renewal , you will be required to pay the amendment fee as required by the Vehicle and Traffic Law $12.50 for driver licenses / permits and $5.00 for",
+          "bm25_rr": 1.0,
+          "e5_rr": 1.0
+        },
+        {
+          "phase": 125,
+          "efs": 0.0,
+          "best_chunk_index": 2,
+          "evidence_overlap_fraction": 1.0,
+          "passage": "issued by DEC. If you want to add the Boating Safety Certificate icon , bring your Boating Safety Certificate issued by NY State OPRHP, the United States Coast Guard, the Power Squadron or the United States Sailing Association. \n\n6. Am I required to have these icons added to my DMV photo document? \nNo , for most of the icons it is optional to have the icons displayed on your NY State DMV photo document. However, you must have the Lifetime Empire Passport displayed on your NY State DMV photo document ; there will be no other proof that you have this credential. \n\n7. Is there an additional fee to have icons added to my DMV photo document? \nThere are no additional fees if you request the icons be added at the time of your photo document renewal. If you wish to have the icons added prior to renewal , you will be required to pay the amendment fee as required by the Vehicle and Traffic Law $12.50 for driver licenses / permits and $5.00 for non - driver identification cards. \n\n8. Can I have these icons removed from my DMV photo document? \nYes. You may contact the agency Parks or",
+          "bm25_rr": 1.0,
+          "e5_rr": 1.0
+        },
+        {
+          "phase": 150,
+          "efs": 0.0,
+          "best_chunk_index": 2,
+          "evidence_overlap_fraction": 1.0,
+          "passage": "United States Coast Guard, the Power Squadron or the United States Sailing Association. \n\n6. Am I required to have these icons added to my DMV photo document? \nNo , for most of the icons it is optional to have the icons displayed on your NY State DMV photo document. However, you must have the Lifetime Empire Passport displayed on your NY State DMV photo document ; there will be no other proof that you have this credential. \n\n7. Is there an additional fee to have icons added to my DMV photo document? \nThere are no additional fees if you request the icons be added at the time of your photo document renewal. If you wish to have the icons added prior to renewal , you will be required to pay the amendment fee as required by the Vehicle and Traffic Law $12.50 for driver licenses / permits and $5.00 for non - driver identification cards. \n\n8. Can I have these icons removed from my DMV photo document? \nYes. You may contact the agency Parks or DEC that issued the lifetime license, privilege or credential to request they notify DMV to remove the icons. There is no fees associated with these",
+          "bm25_rr": 1.0,
+          "e5_rr": 1.0
+        },
+        {
+          "phase": 175,
+          "efs": 0.0,
+          "best_chunk_index": 2,
+          "evidence_overlap_fraction": 1.0,
+          "passage": "photo document? \nNo , for most of the icons it is optional to have the icons displayed on your NY State DMV photo document. However, you must have the Lifetime Empire Passport displayed on your NY State DMV photo document ; there will be no other proof that you have this credential. \n\n7. Is there an additional fee to have icons added to my DMV photo document? \nThere are no additional fees if you request the icons be added at the time of your photo document renewal. If you wish to have the icons added prior to renewal , you will be required to pay the amendment fee as required by the Vehicle and Traffic Law $12.50 for driver licenses / permits and $5.00 for non - driver identification cards. \n\n8. Can I have these icons removed from my DMV photo document? \nYes. You may contact the agency Parks or DEC that issued the lifetime license, privilege or credential to request they notify DMV to remove the icons. There is no fees associated with these requests. Any icon, except the Empire Passport icon, may also be removed by visiting a NY State DMV office. When removing icons through a visit",
+          "bm25_rr": 1.0,
+          "e5_rr": 1.0
+        }
+      ],
+      "high_conditions": [
+        {
+          "phase": 50,
+          "efs": 0.4,
+          "best_chunk_index": 3,
+          "evidence_overlap_fraction": 0.6,
+          "passage": "the icons be added at the time of your photo document renewal. If you wish to have the icons added prior to renewal , you will be required to pay the amendment fee as required by the Vehicle and Traffic Law $12.50 for driver licenses / permits and $5.00 for non - driver identification cards. \n\n8. Can I have these icons removed from my DMV photo document? \nYes. You may contact the agency Parks or DEC that issued the lifetime license, privilege or credential to request they notify DMV to remove the icons. There is no fees associated with these requests. Any icon, except the Empire Passport icon, may also be removed by visiting a NY State DMV office. When removing icons through a visit to a DMV office , you will be required to pay the amendment fee as required by the Vehicle and Traffic Law $12.50 for driver licenses / permits and $5.00 for non - driver identification cards. \n\n9. Where is my document number located for my DMV issued photo document? \nIt is now located on the back of the photo document. If you have an enhanced document , it is located in the top line of",
+          "bm25_rr": 1.0,
+          "e5_rr": 1.0
+        }
+      ]
+    },
+    {
+      "category": "robust",
+      "query_id": "1c04ff155c14162cd4bc95a9362de3ac_1",
+      "document_id": "Moving to NY#3_0",
+      "query": "Hello, I would like to know what does \"TEMPORARY VISITOR\" mean?",
+      "evidence_text": "A Temporary Visitor is defined as anyone who is not immigrating to or not residing living in the United States. These visitors have US Department of Homeland Security DHS documentation that supports their legal status in this country. ",
+      "low_efs": 0.0,
+      "high_efs": 0.39473684210526316,
+      "bm25_rr_difference": 0.0,
+      "e5_rr_difference": 0.0,
+      "low_conditions": [
+        {
+          "phase": 25,
+          "efs": 0.0,
+          "best_chunk_index": 1,
+          "evidence_overlap_fraction": 1.0,
+          "passage": "license within 30 days. Learn how to exchange your out - of - state driver license [1]. \n\nI am studying in New York State. Do I need a New York State driver license? \nStudents from other states, countries or nations who attend school in New York State are normally not considered residents of New York State, so they don t need to exchange their current driver license. Normally, you can t have a NY State driver license and a driver license from another state at the same time , but there are exceptions. However , it is a violation of Federal law to hold more than one commercial driver license CDL. \n\nRegister a vehicle from another state in New York \nThe registration requirements are generally the same as to register and title vehicle [2] in New York. However there are a few exceptions for out - of - state vehicles [3], and imported vehicles [4]. \n\nWhat does 'TEMPORARY VISITOR' mean? \nA Temporary Visitor is defined as anyone who is not immigrating to or not residing living in the United States. These visitors have US Department of Homeland Security DHS documentation that supports their legal status in this country. If you",
+          "bm25_rr": 1.0,
+          "e5_rr": 1.0
+        },
+        {
+          "phase": 50,
+          "efs": 0.0,
+          "best_chunk_index": 1,
+          "evidence_overlap_fraction": 1.0,
+          "passage": "I need a New York State driver license? \nStudents from other states, countries or nations who attend school in New York State are normally not considered residents of New York State, so they don t need to exchange their current driver license. Normally, you can t have a NY State driver license and a driver license from another state at the same time , but there are exceptions. However , it is a violation of Federal law to hold more than one commercial driver license CDL. \n\nRegister a vehicle from another state in New York \nThe registration requirements are generally the same as to register and title vehicle [2] in New York. However there are a few exceptions for out - of - state vehicles [3], and imported vehicles [4]. \n\nWhat does 'TEMPORARY VISITOR' mean? \nA Temporary Visitor is defined as anyone who is not immigrating to or not residing living in the United States. These visitors have US Department of Homeland Security DHS documentation that supports their legal status in this country. If you have DHS documents that identify you as a Temporary Visitor , your New York State driver license , permit or non - driver ID card",
+          "bm25_rr": 1.0,
+          "e5_rr": 1.0
+        },
+        {
+          "phase": 75,
+          "efs": 0.0,
+          "best_chunk_index": 1,
+          "evidence_overlap_fraction": 1.0,
+          "passage": "considered residents of New York State, so they don t need to exchange their current driver license. Normally, you can t have a NY State driver license and a driver license from another state at the same time , but there are exceptions. However , it is a violation of Federal law to hold more than one commercial driver license CDL. \n\nRegister a vehicle from another state in New York \nThe registration requirements are generally the same as to register and title vehicle [2] in New York. However there are a few exceptions for out - of - state vehicles [3], and imported vehicles [4]. \n\nWhat does 'TEMPORARY VISITOR' mean? \nA Temporary Visitor is defined as anyone who is not immigrating to or not residing living in the United States. These visitors have US Department of Homeland Security DHS documentation that supports their legal status in this country. If you have DHS documents that identify you as a Temporary Visitor , your New York State driver license , permit or non - driver ID card will have ' TEMPORARY VISITOR' on it , and the expiration date from your DHS document Please note that your DMV document does not expire",
+          "bm25_rr": 1.0,
+          "e5_rr": 1.0
+        },
+        {
+          "phase": 100,
+          "efs": 0.0,
+          "best_chunk_index": 1,
+          "evidence_overlap_fraction": 1.0,
+          "passage": "driver license and a driver license from another state at the same time , but there are exceptions. However , it is a violation of Federal law to hold more than one commercial driver license CDL. \n\nRegister a vehicle from another state in New York \nThe registration requirements are generally the same as to register and title vehicle [2] in New York. However there are a few exceptions for out - of - state vehicles [3], and imported vehicles [4]. \n\nWhat does 'TEMPORARY VISITOR' mean? \nA Temporary Visitor is defined as anyone who is not immigrating to or not residing living in the United States. These visitors have US Department of Homeland Security DHS documentation that supports their legal status in this country. If you have DHS documents that identify you as a Temporary Visitor , your New York State driver license , permit or non - driver ID card will have ' TEMPORARY VISITOR' on it , and the expiration date from your DHS document Please note that your DMV document does not expire on the Temporary Visitor expiration date, nor will your privilege to drive in New York. \n\nYou do not need to be a US Citizen to",
+          "bm25_rr": 1.0,
+          "e5_rr": 1.0
+        },
+        {
+          "phase": 125,
+          "efs": 0.0,
+          "best_chunk_index": 1,
+          "evidence_overlap_fraction": 1.0,
+          "passage": "Federal law to hold more than one commercial driver license CDL. \n\nRegister a vehicle from another state in New York \nThe registration requirements are generally the same as to register and title vehicle [2] in New York. However there are a few exceptions for out - of - state vehicles [3], and imported vehicles [4]. \n\nWhat does 'TEMPORARY VISITOR' mean? \nA Temporary Visitor is defined as anyone who is not immigrating to or not residing living in the United States. These visitors have US Department of Homeland Security DHS documentation that supports their legal status in this country. If you have DHS documents that identify you as a Temporary Visitor , your New York State driver license , permit or non - driver ID card will have ' TEMPORARY VISITOR' on it , and the expiration date from your DHS document Please note that your DMV document does not expire on the Temporary Visitor expiration date, nor will your privilege to drive in New York. \n\nYou do not need to be a US Citizen to get a New York driver license, permit or non-driver ID card \nHowever , you must have US Department of Homeland Security DHS documentation that supports",
+          "bm25_rr": 1.0,
+          "e5_rr": 1.0
+        },
+        {
+          "phase": 150,
+          "efs": 0.0,
+          "best_chunk_index": 1,
+          "evidence_overlap_fraction": 1.0,
+          "passage": "the same as to register and title vehicle [2] in New York. However there are a few exceptions for out - of - state vehicles [3], and imported vehicles [4]. \n\nWhat does 'TEMPORARY VISITOR' mean? \nA Temporary Visitor is defined as anyone who is not immigrating to or not residing living in the United States. These visitors have US Department of Homeland Security DHS documentation that supports their legal status in this country. If you have DHS documents that identify you as a Temporary Visitor , your New York State driver license , permit or non - driver ID card will have ' TEMPORARY VISITOR' on it , and the expiration date from your DHS document Please note that your DMV document does not expire on the Temporary Visitor expiration date, nor will your privilege to drive in New York. \n\nYou do not need to be a US Citizen to get a New York driver license, permit or non-driver ID card \nHowever , you must have US Department of Homeland Security DHS documentation that supports your legal status in this country. The expiration date from your DHS document is added to your New York State permit, driver license or non",
+          "bm25_rr": 1.0,
+          "e5_rr": 1.0
+        },
+        {
+          "phase": 175,
+          "efs": 0.0,
+          "best_chunk_index": 1,
+          "evidence_overlap_fraction": 1.0,
+          "passage": "[3], and imported vehicles [4]. \n\nWhat does 'TEMPORARY VISITOR' mean? \nA Temporary Visitor is defined as anyone who is not immigrating to or not residing living in the United States. These visitors have US Department of Homeland Security DHS documentation that supports their legal status in this country. If you have DHS documents that identify you as a Temporary Visitor , your New York State driver license , permit or non - driver ID card will have ' TEMPORARY VISITOR' on it , and the expiration date from your DHS document Please note that your DMV document does not expire on the Temporary Visitor expiration date, nor will your privilege to drive in New York. \n\nYou do not need to be a US Citizen to get a New York driver license, permit or non-driver ID card \nHowever , you must have US Department of Homeland Security DHS documentation that supports your legal status in this country. The expiration date from your DHS document is added to your New York State permit, driver license or non - driver ID card. Learn more about how to get a driver license [5 ] learner permit [6 ] non - driver ID card [7",
+          "bm25_rr": 1.0,
+          "e5_rr": 1.0
+        }
+      ],
+      "high_conditions": [
+        {
+          "phase": 0,
+          "efs": 0.39473684210526316,
+          "best_chunk_index": 1,
+          "evidence_overlap_fraction": 0.6052631578947368,
+          "passage": "living in the United States. These visitors have US Department of Homeland Security DHS documentation that supports their legal status in this country. If you have DHS documents that identify you as a Temporary Visitor , your New York State driver license , permit or non - driver ID card will have ' TEMPORARY VISITOR' on it , and the expiration date from your DHS document Please note that your DMV document does not expire on the Temporary Visitor expiration date, nor will your privilege to drive in New York. \n\nYou do not need to be a US Citizen to get a New York driver license, permit or non-driver ID card \nHowever , you must have US Department of Homeland Security DHS documentation that supports your legal status in this country. The expiration date from your DHS document is added to your New York State permit, driver license or non - driver ID card. Learn more about how to get a driver license [5 ] learner permit [6 ] non - driver ID card [7 ] If your temporary visitor status gets extended , you must bring to a DMV office a completed Application for Permit , Driver License or",
+          "bm25_rr": 1.0,
+          "e5_rr": 1.0
+        }
+      ]
+    }
+  ],
+  "disagreements": [
+    {
+      "category": "disagreements",
+      "query_id": "e00cf70da5905f9cd93ce847fb7dd865_1",
+      "document_id": "Manage Your Retirement Benefits | SSA#1_0",
+      "query": "how Keep my Information Secure",
+      "evidence_text": "Identity theft affects millions of people each year and can cause serious financial and identity - related problems. Protect yourself by securing your personal information, taking the time to understand the threat of identity theft, and exercising caution. ",
+      "low_efs": 0.0,
+      "high_efs": 0.5,
+      "bm25_rr_difference": 0.7642857142857142,
+      "e5_rr_difference": -0.3333333333333334,
+      "low_conditions": [
+        {
+          "phase": 0,
+          "efs": 0.0,
+          "best_chunk_index": 3,
+          "evidence_overlap_fraction": 1.0,
+          "passage": "mailed notices. Advanced Designation of Representative Payee. We continue to expand the services available online. Visit our online services page to see a complete list, including the newest services to help you manage your information. You can also search our comprehensive FAQs section for help with specific retirement issues. If you need help with managing your benefits and cannot find the answer or service above , visit our contact us page for other ways to get support. \n\nKeep Your Information Secure \nIdentity theft affects millions of people each year and can cause serious financial and identity - related problems. Protect yourself by securing your personal information, taking the time to understand the threat of identity theft, and exercising caution. \n\nProtect Yourself From Fraud \nSocial Security is diligently working at national, regional, and local levels to combat the fraud that undermines our mission to serve the American public. There are steps you can take to help protect your personal information : Do not routinely carry your Social Security card. Never say your Social Security number aloud in public. Beware of phishing scams emails, internet links, texts, and phone calls to trick you into revealing personal information. Create a my Social Security",
+          "bm25_rr": 0.25,
+          "e5_rr": 0.5
+        },
+        {
+          "phase": 25,
+          "efs": 0.0,
+          "best_chunk_index": 4,
+          "evidence_overlap_fraction": 1.0,
+          "passage": "including the newest services to help you manage your information. You can also search our comprehensive FAQs section for help with specific retirement issues. If you need help with managing your benefits and cannot find the answer or service above , visit our contact us page for other ways to get support. \n\nKeep Your Information Secure \nIdentity theft affects millions of people each year and can cause serious financial and identity - related problems. Protect yourself by securing your personal information, taking the time to understand the threat of identity theft, and exercising caution. \n\nProtect Yourself From Fraud \nSocial Security is diligently working at national, regional, and local levels to combat the fraud that undermines our mission to serve the American public. There are steps you can take to help protect your personal information : Do not routinely carry your Social Security card. Never say your Social Security number aloud in public. Beware of phishing scams emails, internet links, texts, and phone calls to trick you into revealing personal information. Create a my Social Security account to help you keep track of your records. Visit If You Want Extra Security to learn about extra verification steps we can add to",
+          "bm25_rr": 0.25,
+          "e5_rr": 1.0
+        },
+        {
+          "phase": 50,
+          "efs": 0.0,
+          "best_chunk_index": 4,
+          "evidence_overlap_fraction": 1.0,
+          "passage": "you need help with managing your benefits and cannot find the answer or service above , visit our contact us page for other ways to get support. \n\nKeep Your Information Secure \nIdentity theft affects millions of people each year and can cause serious financial and identity - related problems. Protect yourself by securing your personal information, taking the time to understand the threat of identity theft, and exercising caution. \n\nProtect Yourself From Fraud \nSocial Security is diligently working at national, regional, and local levels to combat the fraud that undermines our mission to serve the American public. There are steps you can take to help protect your personal information : Do not routinely carry your Social Security card. Never say your Social Security number aloud in public. Beware of phishing scams emails, internet links, texts, and phone calls to trick you into revealing personal information. Create a my Social Security account to help you keep track of your records. Visit If You Want Extra Security to learn about extra verification steps we can add to your account. \n\nReport Suspicious Activity \nIf you receive a suspicious call from someone claiming to be from Social Security , hang up and then report",
+          "bm25_rr": 0.25,
+          "e5_rr": 1.0
+        },
+        {
+          "phase": 75,
+          "efs": 0.0,
+          "best_chunk_index": 4,
+          "evidence_overlap_fraction": 1.0,
+          "passage": "get support. \n\nKeep Your Information Secure \nIdentity theft affects millions of people each year and can cause serious financial and identity - related problems. Protect yourself by securing your personal information, taking the time to understand the threat of identity theft, and exercising caution. \n\nProtect Yourself From Fraud \nSocial Security is diligently working at national, regional, and local levels to combat the fraud that undermines our mission to serve the American public. There are steps you can take to help protect your personal information : Do not routinely carry your Social Security card. Never say your Social Security number aloud in public. Beware of phishing scams emails, internet links, texts, and phone calls to trick you into revealing personal information. Create a my Social Security account to help you keep track of your records. Visit If You Want Extra Security to learn about extra verification steps we can add to your account. \n\nReport Suspicious Activity \nIf you receive a suspicious call from someone claiming to be from Social Security , hang up and then report details of the call to the Office of the Inspector General. You can do this by submitting a report online. \n\nAdditional Information \nProtecting Personal Information",
+          "bm25_rr": 0.25,
+          "e5_rr": 1.0
+        },
+        {
+          "phase": 125,
+          "efs": 0.0,
+          "best_chunk_index": 3,
+          "evidence_overlap_fraction": 1.0,
+          "passage": "Dies \n\nFAQs \nHow can I change my address? What should I do when someone dies? \n\nUse Our Resources And Services To Stay In Control \nThere are many time - saving options available to you. Here are our most popular online services : Check your application status. Set up or change direct deposit. Get a proof of income letter. Get a Social Security 1099 SSA-1099 form. Request a replacement Social Security card. Opt out of certain mailed notices. Advanced Designation of Representative Payee. We continue to expand the services available online. Visit our online services page to see a complete list, including the newest services to help you manage your information. You can also search our comprehensive FAQs section for help with specific retirement issues. If you need help with managing your benefits and cannot find the answer or service above , visit our contact us page for other ways to get support. \n\nKeep Your Information Secure \nIdentity theft affects millions of people each year and can cause serious financial and identity - related problems. Protect yourself by securing your personal information, taking the time to understand the threat of identity theft, and exercising caution. \n\nProtect Yourself From Fraud \nSocial Security",
+          "bm25_rr": 0.25,
+          "e5_rr": 0.3333333333333333
+        },
+        {
+          "phase": 150,
+          "efs": 0.0,
+          "best_chunk_index": 3,
+          "evidence_overlap_fraction": 1.0,
+          "passage": "are many time - saving options available to you. Here are our most popular online services : Check your application status. Set up or change direct deposit. Get a proof of income letter. Get a Social Security 1099 SSA-1099 form. Request a replacement Social Security card. Opt out of certain mailed notices. Advanced Designation of Representative Payee. We continue to expand the services available online. Visit our online services page to see a complete list, including the newest services to help you manage your information. You can also search our comprehensive FAQs section for help with specific retirement issues. If you need help with managing your benefits and cannot find the answer or service above , visit our contact us page for other ways to get support. \n\nKeep Your Information Secure \nIdentity theft affects millions of people each year and can cause serious financial and identity - related problems. Protect yourself by securing your personal information, taking the time to understand the threat of identity theft, and exercising caution. \n\nProtect Yourself From Fraud \nSocial Security is diligently working at national, regional, and local levels to combat the fraud that undermines our mission to serve the American public. There are steps",
+          "bm25_rr": 0.2,
+          "e5_rr": 0.3333333333333333
+        },
+        {
+          "phase": 175,
+          "efs": 0.0,
+          "best_chunk_index": 3,
+          "evidence_overlap_fraction": 1.0,
+          "passage": "direct deposit. Get a proof of income letter. Get a Social Security 1099 SSA-1099 form. Request a replacement Social Security card. Opt out of certain mailed notices. Advanced Designation of Representative Payee. We continue to expand the services available online. Visit our online services page to see a complete list, including the newest services to help you manage your information. You can also search our comprehensive FAQs section for help with specific retirement issues. If you need help with managing your benefits and cannot find the answer or service above , visit our contact us page for other ways to get support. \n\nKeep Your Information Secure \nIdentity theft affects millions of people each year and can cause serious financial and identity - related problems. Protect yourself by securing your personal information, taking the time to understand the threat of identity theft, and exercising caution. \n\nProtect Yourself From Fraud \nSocial Security is diligently working at national, regional, and local levels to combat the fraud that undermines our mission to serve the American public. There are steps you can take to help protect your personal information : Do not routinely carry your Social Security card. Never say your Social Security number aloud",
+          "bm25_rr": 0.2,
+          "e5_rr": 0.5
+        }
+      ],
+      "high_conditions": [
+        {
+          "phase": 100,
+          "efs": 0.5,
+          "best_chunk_index": 3,
+          "evidence_overlap_fraction": 0.5,
+          "passage": "done through my Social Security , you can contact us for additional support. \n\nAdditional Information \nHow Social Security Can Help You When A Family Member Dies \n\nFAQs \nHow can I change my address? What should I do when someone dies? \n\nUse Our Resources And Services To Stay In Control \nThere are many time - saving options available to you. Here are our most popular online services : Check your application status. Set up or change direct deposit. Get a proof of income letter. Get a Social Security 1099 SSA-1099 form. Request a replacement Social Security card. Opt out of certain mailed notices. Advanced Designation of Representative Payee. We continue to expand the services available online. Visit our online services page to see a complete list, including the newest services to help you manage your information. You can also search our comprehensive FAQs section for help with specific retirement issues. If you need help with managing your benefits and cannot find the answer or service above , visit our contact us page for other ways to get support. \n\nKeep Your Information Secure \nIdentity theft affects millions of people each year and can cause serious financial and identity - related problems. Protect",
+          "bm25_rr": 1.0,
+          "e5_rr": 0.3333333333333333
+        }
+      ],
+      "rr_difference_gap": 1.0976190476190477
+    },
+    {
+      "category": "disagreements",
+      "query_id": "2e9623b209161de6e9448f0c0d2b113b_1",
+      "document_id": "About New York State Inspections#3_0",
+      "query": "I need to get an extension so I don't get into problems when I'm away",
+      "evidence_text": "If you are out of state when your inspection will expire , ",
+      "low_efs": 0.0,
+      "high_efs": 0.16666666666666663,
+      "bm25_rr_difference": -0.6666666666666667,
+      "e5_rr_difference": 0.3571428571428571,
+      "low_conditions": [
+        {
+          "phase": 0,
+          "efs": 0.0,
+          "best_chunk_index": 2,
+          "evidence_overlap_fraction": 1.0,
+          "passage": ", you must get a New York State vehicle inspection. If the previous inspection was performed in a jurisdiction that does not issue an inspection sticker , you must have your vehicle inspected in New York. \n\nI need an extension (I am not in New York right now) \nIf you are out of state when your inspection will expire , you can apply for an extension. First , determine if an expired out - of - state inspection is a violation of law in that state. Ask the authorities if a New York State inspection extension sticker prevents a ticket for the violation. The extension allows you 10 days from the date the vehicle returns to New York State to get an inspection. Allow 14 days for the DMV to process and mail your extension sticker. You will need it before you return your vehicle to New York. To receive an extension, mail this information your name and current out - of - state mailing address the year and make of your vehicle the vehicle plate number the inspection sticker number and expiration date NYS DMVBureau of Consumer and Facility ServicesInspection ExtensionP.O. Box 2700-ESPAlbany , NY 12220 - 0700 When",
+          "bm25_rr": 1.0,
+          "e5_rr": 0.5
+        },
+        {
+          "phase": 25,
+          "efs": 0.0,
+          "best_chunk_index": 3,
+          "evidence_overlap_fraction": 1.0,
+          "passage": "sticker , you must have your vehicle inspected in New York. \n\nI need an extension (I am not in New York right now) \nIf you are out of state when your inspection will expire , you can apply for an extension. First , determine if an expired out - of - state inspection is a violation of law in that state. Ask the authorities if a New York State inspection extension sticker prevents a ticket for the violation. The extension allows you 10 days from the date the vehicle returns to New York State to get an inspection. Allow 14 days for the DMV to process and mail your extension sticker. You will need it before you return your vehicle to New York. To receive an extension, mail this information your name and current out - of - state mailing address the year and make of your vehicle the vehicle plate number the inspection sticker number and expiration date NYS DMVBureau of Consumer and Facility ServicesInspection ExtensionP.O. Box 2700-ESPAlbany , NY 12220 - 0700 When you receive your extension sticker , do not put it on your windshield while your vehicle is out of state. Keep the sticker and the",
+          "bm25_rr": 1.0,
+          "e5_rr": 1.0
+        },
+        {
+          "phase": 75,
+          "efs": 0.0,
+          "best_chunk_index": 2,
+          "evidence_overlap_fraction": 1.0,
+          "passage": "bought a vehicle from a private seller (not a dealer) \nIf you buy or get a vehicle from someone other than a dealer registered with the New York State DMV , you will receive an inspection extension that will last 10 days from the date of the registration. An inspection issued to the previous registrant is not valid. \n\nI have moved to New York and registered my vehicle here \nIf your vehicle was registered in another state which issues an inspection sticker , you do not need to have your vehicle inspected immediately. Your out - of - state inspection remains valid until it expires or for one year after the registration date, whichever comes first. When your out - of - state inspection expires , you must get a New York State vehicle inspection. If the previous inspection was performed in a jurisdiction that does not issue an inspection sticker , you must have your vehicle inspected in New York. \n\nI need an extension (I am not in New York right now) \nIf you are out of state when your inspection will expire , you can apply for an extension. First , determine if an expired out - of",
+          "bm25_rr": 1.0,
+          "e5_rr": 0.5
+        },
+        {
+          "phase": 100,
+          "efs": 0.0,
+          "best_chunk_index": 2,
+          "evidence_overlap_fraction": 1.0,
+          "passage": "the New York State DMV , you will receive an inspection extension that will last 10 days from the date of the registration. An inspection issued to the previous registrant is not valid. \n\nI have moved to New York and registered my vehicle here \nIf your vehicle was registered in another state which issues an inspection sticker , you do not need to have your vehicle inspected immediately. Your out - of - state inspection remains valid until it expires or for one year after the registration date, whichever comes first. When your out - of - state inspection expires , you must get a New York State vehicle inspection. If the previous inspection was performed in a jurisdiction that does not issue an inspection sticker , you must have your vehicle inspected in New York. \n\nI need an extension (I am not in New York right now) \nIf you are out of state when your inspection will expire , you can apply for an extension. First , determine if an expired out - of - state inspection is a violation of law in that state. Ask the authorities if a New York State inspection extension sticker prevents a ticket",
+          "bm25_rr": 1.0,
+          "e5_rr": 0.5
+        },
+        {
+          "phase": 125,
+          "efs": 0.0,
+          "best_chunk_index": 2,
+          "evidence_overlap_fraction": 1.0,
+          "passage": "issued to the previous registrant is not valid. \n\nI have moved to New York and registered my vehicle here \nIf your vehicle was registered in another state which issues an inspection sticker , you do not need to have your vehicle inspected immediately. Your out - of - state inspection remains valid until it expires or for one year after the registration date, whichever comes first. When your out - of - state inspection expires , you must get a New York State vehicle inspection. If the previous inspection was performed in a jurisdiction that does not issue an inspection sticker , you must have your vehicle inspected in New York. \n\nI need an extension (I am not in New York right now) \nIf you are out of state when your inspection will expire , you can apply for an extension. First , determine if an expired out - of - state inspection is a violation of law in that state. Ask the authorities if a New York State inspection extension sticker prevents a ticket for the violation. The extension allows you 10 days from the date the vehicle returns to New York State to get an inspection. Allow 14",
+          "bm25_rr": 1.0,
+          "e5_rr": 0.5
+        },
+        {
+          "phase": 150,
+          "efs": 0.0,
+          "best_chunk_index": 2,
+          "evidence_overlap_fraction": 1.0,
+          "passage": "another state which issues an inspection sticker , you do not need to have your vehicle inspected immediately. Your out - of - state inspection remains valid until it expires or for one year after the registration date, whichever comes first. When your out - of - state inspection expires , you must get a New York State vehicle inspection. If the previous inspection was performed in a jurisdiction that does not issue an inspection sticker , you must have your vehicle inspected in New York. \n\nI need an extension (I am not in New York right now) \nIf you are out of state when your inspection will expire , you can apply for an extension. First , determine if an expired out - of - state inspection is a violation of law in that state. Ask the authorities if a New York State inspection extension sticker prevents a ticket for the violation. The extension allows you 10 days from the date the vehicle returns to New York State to get an inspection. Allow 14 days for the DMV to process and mail your extension sticker. You will need it before you return your vehicle to New York. To receive",
+          "bm25_rr": 1.0,
+          "e5_rr": 0.5
+        },
+        {
+          "phase": 175,
+          "efs": 0.0,
+          "best_chunk_index": 2,
+          "evidence_overlap_fraction": 1.0,
+          "passage": "remains valid until it expires or for one year after the registration date, whichever comes first. When your out - of - state inspection expires , you must get a New York State vehicle inspection. If the previous inspection was performed in a jurisdiction that does not issue an inspection sticker , you must have your vehicle inspected in New York. \n\nI need an extension (I am not in New York right now) \nIf you are out of state when your inspection will expire , you can apply for an extension. First , determine if an expired out - of - state inspection is a violation of law in that state. Ask the authorities if a New York State inspection extension sticker prevents a ticket for the violation. The extension allows you 10 days from the date the vehicle returns to New York State to get an inspection. Allow 14 days for the DMV to process and mail your extension sticker. You will need it before you return your vehicle to New York. To receive an extension, mail this information your name and current out - of - state mailing address the year and make of your vehicle the vehicle",
+          "bm25_rr": 1.0,
+          "e5_rr": 1.0
+        }
+      ],
+      "high_conditions": [
+        {
+          "phase": 50,
+          "efs": 0.16666666666666663,
+          "best_chunk_index": 3,
+          "evidence_overlap_fraction": 0.8333333333333334,
+          "passage": "are out of state when your inspection will expire , you can apply for an extension. First , determine if an expired out - of - state inspection is a violation of law in that state. Ask the authorities if a New York State inspection extension sticker prevents a ticket for the violation. The extension allows you 10 days from the date the vehicle returns to New York State to get an inspection. Allow 14 days for the DMV to process and mail your extension sticker. You will need it before you return your vehicle to New York. To receive an extension, mail this information your name and current out - of - state mailing address the year and make of your vehicle the vehicle plate number the inspection sticker number and expiration date NYS DMVBureau of Consumer and Facility ServicesInspection ExtensionP.O. Box 2700-ESPAlbany , NY 12220 - 0700 When you receive your extension sticker , do not put it on your windshield while your vehicle is out of state. Keep the sticker and the instructions in your vehicle to show to an out - of - state police officer. The sticker is not a guarantee that a police officer",
+          "bm25_rr": 0.3333333333333333,
+          "e5_rr": 1.0
+        }
+      ],
+      "rr_difference_gap": 1.0238095238095237
+    },
+    {
+      "category": "disagreements",
+      "query_id": "7216ea613cf7874420d57dd2f339b1c3_1",
+      "document_id": "Disability Benefits | Social Security Administration#2_0",
+      "query": "what kinds of proof will I need when I apply for disability?",
+      "evidence_text": "We may ask you to provide documents to show that you are eligible, such as : ",
+      "low_efs": 0.0,
+      "high_efs": 0.0625,
+      "bm25_rr_difference": -0.6666666666666667,
+      "e5_rr_difference": 0.33333333333333326,
+      "low_conditions": [
+        {
+          "phase": 0,
+          "efs": 0.0,
+          "best_chunk_index": 4,
+          "evidence_overlap_fraction": 1.0,
+          "passage": "; Civil Service Disability Retirement ; Federal Employees' Retirement ; Federal Employees' Compensation ; State or local government disability insurance benefits ; or Disability benefits from the military This includes military retirement pensions based on disability but not Veterans' Administration VA benefits. \n\nWhat documents do I need to provide? \nWe may ask you to provide documents to show that you are eligible, such as : Birth certificate or other proof of birth ; Proof of U.S. citizenship or lawful alien status if you were not born in the United States [more Info]; U.S. military discharge paper if you had military service before 1968 ; W-2 forms and/or self - employment tax returns for last year ; Medical evidence already in your possession [more info]. This includes medical records, doctors' reports, and recent test results ; and Award letters, pay stubs, settlement agreements or other proof of any temporary or permanent workers' compensation - type benefits you received [more info]. We accept photocopies of W-2 forms, self - employment tax returns or medical documents , but we must see the original of most other documents, such as your birth certificate. We will return them to you. Do not delay applying for",
+          "bm25_rr": 1.0,
+          "e5_rr": 1.0
+        },
+        {
+          "phase": 25,
+          "efs": 0.0,
+          "best_chunk_index": 5,
+          "evidence_overlap_fraction": 1.0,
+          "passage": "from the military This includes military retirement pensions based on disability but not Veterans' Administration VA benefits. \n\nWhat documents do I need to provide? \nWe may ask you to provide documents to show that you are eligible, such as : Birth certificate or other proof of birth ; Proof of U.S. citizenship or lawful alien status if you were not born in the United States [more Info]; U.S. military discharge paper if you had military service before 1968 ; W-2 forms and/or self - employment tax returns for last year ; Medical evidence already in your possession [more info]. This includes medical records, doctors' reports, and recent test results ; and Award letters, pay stubs, settlement agreements or other proof of any temporary or permanent workers' compensation - type benefits you received [more info]. We accept photocopies of W-2 forms, self - employment tax returns or medical documents , but we must see the original of most other documents, such as your birth certificate. We will return them to you. Do not delay applying for benefits because you do not have all the documents. We will help you get them. \n\nMailing Your Documents \nIf you mail any documents to us",
+          "bm25_rr": 1.0,
+          "e5_rr": 1.0
+        },
+        {
+          "phase": 75,
+          "efs": 0.0,
+          "best_chunk_index": 4,
+          "evidence_overlap_fraction": 1.0,
+          "passage": "The beginning and ending dates of any active U.S. military service you had before 1968 A list of the jobs up to 5 that you had in the 15 years before you became unable to work and the dates you worked at those jobs Information about any workers' compensation, black lung, and/or similar benefits you filed, or intend to file for. These benefits can : Be temporary or permanent in nature ; Include annuities and lump sum payments that you received in the past ; Be paid by your employer or your employer's insurance carrier, private agencies, or Federal, State or other government or public agencies ; and Be referred to as : Workers' Compensation ; Black Lung Benefits ; Longshore and Harbor Workers' Compensation ; Civil Service Disability Retirement ; Federal Employees' Retirement ; Federal Employees' Compensation ; State or local government disability insurance benefits ; or Disability benefits from the military This includes military retirement pensions based on disability but not Veterans' Administration VA benefits. \n\nWhat documents do I need to provide? \nWe may ask you to provide documents to show that you are eligible, such as : Birth certificate or other proof of birth ; Proof of",
+          "bm25_rr": 1.0,
+          "e5_rr": 0.3333333333333333
+        },
+        {
+          "phase": 100,
+          "efs": 0.0,
+          "best_chunk_index": 4,
+          "evidence_overlap_fraction": 1.0,
+          "passage": "had in the 15 years before you became unable to work and the dates you worked at those jobs Information about any workers' compensation, black lung, and/or similar benefits you filed, or intend to file for. These benefits can : Be temporary or permanent in nature ; Include annuities and lump sum payments that you received in the past ; Be paid by your employer or your employer's insurance carrier, private agencies, or Federal, State or other government or public agencies ; and Be referred to as : Workers' Compensation ; Black Lung Benefits ; Longshore and Harbor Workers' Compensation ; Civil Service Disability Retirement ; Federal Employees' Retirement ; Federal Employees' Compensation ; State or local government disability insurance benefits ; or Disability benefits from the military This includes military retirement pensions based on disability but not Veterans' Administration VA benefits. \n\nWhat documents do I need to provide? \nWe may ask you to provide documents to show that you are eligible, such as : Birth certificate or other proof of birth ; Proof of U.S. citizenship or lawful alien status if you were not born in the United States [more Info]; U.S. military discharge paper if you had military",
+          "bm25_rr": 1.0,
+          "e5_rr": 0.3333333333333333
+        },
+        {
+          "phase": 125,
+          "efs": 0.0,
+          "best_chunk_index": 4,
+          "evidence_overlap_fraction": 1.0,
+          "passage": "lung, and/or similar benefits you filed, or intend to file for. These benefits can : Be temporary or permanent in nature ; Include annuities and lump sum payments that you received in the past ; Be paid by your employer or your employer's insurance carrier, private agencies, or Federal, State or other government or public agencies ; and Be referred to as : Workers' Compensation ; Black Lung Benefits ; Longshore and Harbor Workers' Compensation ; Civil Service Disability Retirement ; Federal Employees' Retirement ; Federal Employees' Compensation ; State or local government disability insurance benefits ; or Disability benefits from the military This includes military retirement pensions based on disability but not Veterans' Administration VA benefits. \n\nWhat documents do I need to provide? \nWe may ask you to provide documents to show that you are eligible, such as : Birth certificate or other proof of birth ; Proof of U.S. citizenship or lawful alien status if you were not born in the United States [more Info]; U.S. military discharge paper if you had military service before 1968 ; W-2 forms and/or self - employment tax returns for last year ; Medical evidence already in your possession [more info]. This",
+          "bm25_rr": 1.0,
+          "e5_rr": 0.5
+        },
+        {
+          "phase": 150,
+          "efs": 0.0,
+          "best_chunk_index": 4,
+          "evidence_overlap_fraction": 1.0,
+          "passage": "lump sum payments that you received in the past ; Be paid by your employer or your employer's insurance carrier, private agencies, or Federal, State or other government or public agencies ; and Be referred to as : Workers' Compensation ; Black Lung Benefits ; Longshore and Harbor Workers' Compensation ; Civil Service Disability Retirement ; Federal Employees' Retirement ; Federal Employees' Compensation ; State or local government disability insurance benefits ; or Disability benefits from the military This includes military retirement pensions based on disability but not Veterans' Administration VA benefits. \n\nWhat documents do I need to provide? \nWe may ask you to provide documents to show that you are eligible, such as : Birth certificate or other proof of birth ; Proof of U.S. citizenship or lawful alien status if you were not born in the United States [more Info]; U.S. military discharge paper if you had military service before 1968 ; W-2 forms and/or self - employment tax returns for last year ; Medical evidence already in your possession [more info]. This includes medical records, doctors' reports, and recent test results ; and Award letters, pay stubs, settlement agreements or other proof of any temporary or permanent",
+          "bm25_rr": 1.0,
+          "e5_rr": 0.5
+        },
+        {
+          "phase": 175,
+          "efs": 0.0,
+          "best_chunk_index": 4,
+          "evidence_overlap_fraction": 1.0,
+          "passage": "or other government or public agencies ; and Be referred to as : Workers' Compensation ; Black Lung Benefits ; Longshore and Harbor Workers' Compensation ; Civil Service Disability Retirement ; Federal Employees' Retirement ; Federal Employees' Compensation ; State or local government disability insurance benefits ; or Disability benefits from the military This includes military retirement pensions based on disability but not Veterans' Administration VA benefits. \n\nWhat documents do I need to provide? \nWe may ask you to provide documents to show that you are eligible, such as : Birth certificate or other proof of birth ; Proof of U.S. citizenship or lawful alien status if you were not born in the United States [more Info]; U.S. military discharge paper if you had military service before 1968 ; W-2 forms and/or self - employment tax returns for last year ; Medical evidence already in your possession [more info]. This includes medical records, doctors' reports, and recent test results ; and Award letters, pay stubs, settlement agreements or other proof of any temporary or permanent workers' compensation - type benefits you received [more info]. We accept photocopies of W-2 forms, self - employment tax returns or medical documents , but",
+          "bm25_rr": 1.0,
+          "e5_rr": 1.0
+        }
+      ],
+      "high_conditions": [
+        {
+          "phase": 50,
+          "efs": 0.0625,
+          "best_chunk_index": 5,
+          "evidence_overlap_fraction": 0.9375,
+          "passage": "may ask you to provide documents to show that you are eligible, such as : Birth certificate or other proof of birth ; Proof of U.S. citizenship or lawful alien status if you were not born in the United States [more Info]; U.S. military discharge paper if you had military service before 1968 ; W-2 forms and/or self - employment tax returns for last year ; Medical evidence already in your possession [more info]. This includes medical records, doctors' reports, and recent test results ; and Award letters, pay stubs, settlement agreements or other proof of any temporary or permanent workers' compensation - type benefits you received [more info]. We accept photocopies of W-2 forms, self - employment tax returns or medical documents , but we must see the original of most other documents, such as your birth certificate. We will return them to you. Do not delay applying for benefits because you do not have all the documents. We will help you get them. \n\nMailing Your Documents \nIf you mail any documents to us , you must include the Social Security number so that we can match them with the correct application. Do not write anything on the original",
+          "bm25_rr": 0.3333333333333333,
+          "e5_rr": 1.0
+        }
+      ],
+      "rr_difference_gap": 1.0
+    }
+  ]
+}

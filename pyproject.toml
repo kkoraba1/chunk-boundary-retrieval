@@ -1,0 +1,29 @@
+[build-system]
+requires = ["setuptools>=77"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "chunk-boundary-retrieval"
+version = "0.1.0"
+description = "Controlled study of retrieval changes across shifted document chunk boundaries."
+requires-python = ">=3.11"
+dependencies = [
+    "document-chunking-utility==1.0",
+    "matplotlib",
+    "numpy",
+    "rank-bm25",
+    "scipy",
+    "sentence-transformers",
+    "torch",
+]
+
+[project.optional-dependencies]
+dev = [
+    "pytest",
+]
+
+[tool.setuptools.packages.find]
+where = ["src"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]

@@ -1,0 +1,1505 @@
+query_id,document_id,chunk_size,overlap,phase,retriever,top_k,efs,rr,ndcg_at_5,oracle_normalized_coverage_at_5,best_chunk_index,distractor_count
+dea7174409afbfe0af0ace21e7f318ae_1,Top 5 DMV Mistakes and How to Avoid Them#3_0,200,0,0,bm25,5,0.0,1.0,1.0,1.0,1,3
+dea7174409afbfe0af0ace21e7f318ae_1,Top 5 DMV Mistakes and How to Avoid Them#3_0,200,0,0,e5,5,0.0,1.0,1.0,1.0,1,3
+dea7174409afbfe0af0ace21e7f318ae_1,Top 5 DMV Mistakes and How to Avoid Them#3_0,200,0,25,bm25,5,0.0,1.0,0.6309297535714575,1.0,2,3
+dea7174409afbfe0af0ace21e7f318ae_1,Top 5 DMV Mistakes and How to Avoid Them#3_0,200,0,25,e5,5,0.0,1.0,1.0,1.0,2,3
+dea7174409afbfe0af0ace21e7f318ae_1,Top 5 DMV Mistakes and How to Avoid Them#3_0,200,0,50,bm25,5,0.0,1.0,0.6309297535714575,1.0,2,3
+dea7174409afbfe0af0ace21e7f318ae_1,Top 5 DMV Mistakes and How to Avoid Them#3_0,200,0,50,e5,5,0.0,1.0,1.0,1.0,2,3
+dea7174409afbfe0af0ace21e7f318ae_1,Top 5 DMV Mistakes and How to Avoid Them#3_0,200,0,75,bm25,5,0.0,1.0,0.6309297535714575,1.0,2,3
+dea7174409afbfe0af0ace21e7f318ae_1,Top 5 DMV Mistakes and How to Avoid Them#3_0,200,0,75,e5,5,0.0,1.0,1.0,1.0,2,3
+dea7174409afbfe0af0ace21e7f318ae_1,Top 5 DMV Mistakes and How to Avoid Them#3_0,200,0,100,bm25,5,0.0,0.5,0.5,1.0,2,3
+dea7174409afbfe0af0ace21e7f318ae_1,Top 5 DMV Mistakes and How to Avoid Them#3_0,200,0,100,e5,5,0.0,1.0,1.0,1.0,2,3
+dea7174409afbfe0af0ace21e7f318ae_1,Top 5 DMV Mistakes and How to Avoid Them#3_0,200,0,125,bm25,5,0.44999999999999996,0.5,0.6661404750896591,1.0,2,3
+dea7174409afbfe0af0ace21e7f318ae_1,Top 5 DMV Mistakes and How to Avoid Them#3_0,200,0,125,e5,5,0.44999999999999996,1.0,1.0,1.0,2,3
+dea7174409afbfe0af0ace21e7f318ae_1,Top 5 DMV Mistakes and How to Avoid Them#3_0,200,0,150,bm25,5,0.0,1.0,0.6309297535714575,1.0,1,3
+dea7174409afbfe0af0ace21e7f318ae_1,Top 5 DMV Mistakes and How to Avoid Them#3_0,200,0,150,e5,5,0.0,0.5,0.6309297535714575,1.0,1,3
+dea7174409afbfe0af0ace21e7f318ae_1,Top 5 DMV Mistakes and How to Avoid Them#3_0,200,0,175,bm25,5,0.0,1.0,0.6309297535714575,1.0,1,3
+dea7174409afbfe0af0ace21e7f318ae_1,Top 5 DMV Mistakes and How to Avoid Them#3_0,200,0,175,e5,5,0.0,1.0,1.0,1.0,1,3
+9f5633139a815b123df20367a37e9fc4_1,DIAL-IN search accounts#3_0,200,0,0,bm25,5,0.0,1.0,1.0,1.0,1,4
+9f5633139a815b123df20367a37e9fc4_1,DIAL-IN search accounts#3_0,200,0,0,e5,5,0.0,1.0,1.0,1.0,1,4
+9f5633139a815b123df20367a37e9fc4_1,DIAL-IN search accounts#3_0,200,0,25,bm25,5,0.0,1.0,1.0,1.0,2,4
+9f5633139a815b123df20367a37e9fc4_1,DIAL-IN search accounts#3_0,200,0,25,e5,5,0.0,1.0,1.0,1.0,2,4
+9f5633139a815b123df20367a37e9fc4_1,DIAL-IN search accounts#3_0,200,0,50,bm25,5,0.0,1.0,1.0,1.0,2,4
+9f5633139a815b123df20367a37e9fc4_1,DIAL-IN search accounts#3_0,200,0,50,e5,5,0.0,1.0,1.0,1.0,2,4
+9f5633139a815b123df20367a37e9fc4_1,DIAL-IN search accounts#3_0,200,0,75,bm25,5,0.0,1.0,1.0,1.0,2,4
+9f5633139a815b123df20367a37e9fc4_1,DIAL-IN search accounts#3_0,200,0,75,e5,5,0.0,1.0,1.0,1.0,2,4
+9f5633139a815b123df20367a37e9fc4_1,DIAL-IN search accounts#3_0,200,0,100,bm25,5,0.0,1.0,1.0,1.0,2,4
+9f5633139a815b123df20367a37e9fc4_1,DIAL-IN search accounts#3_0,200,0,100,e5,5,0.0,1.0,0.6309297535714575,1.0,2,4
+9f5633139a815b123df20367a37e9fc4_1,DIAL-IN search accounts#3_0,200,0,125,bm25,5,0.0,1.0,1.0,1.0,2,4
+9f5633139a815b123df20367a37e9fc4_1,DIAL-IN search accounts#3_0,200,0,125,e5,5,0.0,1.0,1.0,1.0,2,4
+9f5633139a815b123df20367a37e9fc4_1,DIAL-IN search accounts#3_0,200,0,150,bm25,5,0.36363636363636365,1.0,0.921926055040661,1.0,1,4
+9f5633139a815b123df20367a37e9fc4_1,DIAL-IN search accounts#3_0,200,0,150,e5,5,0.36363636363636365,1.0,0.9489536117091495,1.0,1,4
+9f5633139a815b123df20367a37e9fc4_1,DIAL-IN search accounts#3_0,200,0,175,bm25,5,0.0,1.0,1.0,1.0,1,4
+9f5633139a815b123df20367a37e9fc4_1,DIAL-IN search accounts#3_0,200,0,175,e5,5,0.0,1.0,1.0,1.0,1,4
+be588fec30ffd8149a53615c46970798_1,DIAL-IN search accounts#3_0,200,0,0,bm25,5,0.0,1.0,1.0,1.0,1,4
+be588fec30ffd8149a53615c46970798_1,DIAL-IN search accounts#3_0,200,0,0,e5,5,0.0,1.0,1.0,1.0,1,4
+be588fec30ffd8149a53615c46970798_1,DIAL-IN search accounts#3_0,200,0,25,bm25,5,0.0,1.0,1.0,1.0,2,4
+be588fec30ffd8149a53615c46970798_1,DIAL-IN search accounts#3_0,200,0,25,e5,5,0.0,1.0,1.0,1.0,2,4
+be588fec30ffd8149a53615c46970798_1,DIAL-IN search accounts#3_0,200,0,50,bm25,5,0.0,1.0,0.6309297535714575,1.0,2,4
+be588fec30ffd8149a53615c46970798_1,DIAL-IN search accounts#3_0,200,0,50,e5,5,0.0,1.0,1.0,1.0,2,4
+be588fec30ffd8149a53615c46970798_1,DIAL-IN search accounts#3_0,200,0,75,bm25,5,0.0,1.0,0.6309297535714575,1.0,2,4
+be588fec30ffd8149a53615c46970798_1,DIAL-IN search accounts#3_0,200,0,75,e5,5,0.0,1.0,1.0,1.0,2,4
+be588fec30ffd8149a53615c46970798_1,DIAL-IN search accounts#3_0,200,0,100,bm25,5,0.0,1.0,0.6309297535714575,1.0,2,4
+be588fec30ffd8149a53615c46970798_1,DIAL-IN search accounts#3_0,200,0,100,e5,5,0.0,1.0,0.6309297535714575,1.0,2,4
+be588fec30ffd8149a53615c46970798_1,DIAL-IN search accounts#3_0,200,0,125,bm25,5,0.0,1.0,0.6309297535714575,1.0,2,4
+be588fec30ffd8149a53615c46970798_1,DIAL-IN search accounts#3_0,200,0,125,e5,5,0.0,1.0,1.0,1.0,2,4
+be588fec30ffd8149a53615c46970798_1,DIAL-IN search accounts#3_0,200,0,150,bm25,5,0.36363636363636365,1.0,0.9489536117091495,1.0,1,4
+be588fec30ffd8149a53615c46970798_1,DIAL-IN search accounts#3_0,200,0,150,e5,5,0.36363636363636365,1.0,1.0,1.0,1,4
+be588fec30ffd8149a53615c46970798_1,DIAL-IN search accounts#3_0,200,0,175,bm25,5,0.0,1.0,1.0,1.0,1,4
+be588fec30ffd8149a53615c46970798_1,DIAL-IN search accounts#3_0,200,0,175,e5,5,0.0,1.0,1.0,1.0,1,4
+10db331606ecf90e67a808d8fb7e411a_1,New York State Insurance Requirements#3_0,200,0,0,bm25,5,0.0,1.0,1.0,1.0,1,3
+10db331606ecf90e67a808d8fb7e411a_1,New York State Insurance Requirements#3_0,200,0,0,e5,5,0.0,0.5,0.6309297535714575,1.0,1,3
+10db331606ecf90e67a808d8fb7e411a_1,New York State Insurance Requirements#3_0,200,0,25,bm25,5,0.0,1.0,1.0,1.0,2,3
+10db331606ecf90e67a808d8fb7e411a_1,New York State Insurance Requirements#3_0,200,0,25,e5,5,0.0,1.0,0.6309297535714575,1.0,2,3
+10db331606ecf90e67a808d8fb7e411a_1,New York State Insurance Requirements#3_0,200,0,50,bm25,5,0.0,1.0,0.6309297535714575,1.0,2,3
+10db331606ecf90e67a808d8fb7e411a_1,New York State Insurance Requirements#3_0,200,0,50,e5,5,0.0,1.0,0.6309297535714575,1.0,2,3
+10db331606ecf90e67a808d8fb7e411a_1,New York State Insurance Requirements#3_0,200,0,75,bm25,5,0.0,1.0,0.6309297535714575,1.0,2,3
+10db331606ecf90e67a808d8fb7e411a_1,New York State Insurance Requirements#3_0,200,0,75,e5,5,0.0,1.0,0.6309297535714575,1.0,2,3
+10db331606ecf90e67a808d8fb7e411a_1,New York State Insurance Requirements#3_0,200,0,100,bm25,5,0.3571428571428571,0.5,0.6696904372792157,1.0,1,3
+10db331606ecf90e67a808d8fb7e411a_1,New York State Insurance Requirements#3_0,200,0,100,e5,5,0.3571428571428571,0.5,0.6696904372792157,1.0,1,3
+10db331606ecf90e67a808d8fb7e411a_1,New York State Insurance Requirements#3_0,200,0,125,bm25,5,0.0,0.5,0.6309297535714575,1.0,1,3
+10db331606ecf90e67a808d8fb7e411a_1,New York State Insurance Requirements#3_0,200,0,125,e5,5,0.0,0.5,0.6309297535714575,1.0,1,3
+10db331606ecf90e67a808d8fb7e411a_1,New York State Insurance Requirements#3_0,200,0,150,bm25,5,0.0,1.0,0.6309297535714575,1.0,1,3
+10db331606ecf90e67a808d8fb7e411a_1,New York State Insurance Requirements#3_0,200,0,150,e5,5,0.0,0.5,0.6309297535714575,1.0,1,3
+10db331606ecf90e67a808d8fb7e411a_1,New York State Insurance Requirements#3_0,200,0,175,bm25,5,0.0,1.0,1.0,1.0,1,3
+10db331606ecf90e67a808d8fb7e411a_1,New York State Insurance Requirements#3_0,200,0,175,e5,5,0.0,0.5,0.6309297535714575,1.0,1,3
+ac3c7b5541da7893b6f28c565e14be95_1,Surrender (return or turn in) your plates to the DMV#3_0,200,0,0,bm25,5,0.0,1.0,1.0,1.0,1,3
+ac3c7b5541da7893b6f28c565e14be95_1,Surrender (return or turn in) your plates to the DMV#3_0,200,0,0,e5,5,0.0,1.0,1.0,1.0,1,3
+ac3c7b5541da7893b6f28c565e14be95_1,Surrender (return or turn in) your plates to the DMV#3_0,200,0,25,bm25,5,0.0,1.0,1.0,1.0,2,3
+ac3c7b5541da7893b6f28c565e14be95_1,Surrender (return or turn in) your plates to the DMV#3_0,200,0,25,e5,5,0.0,0.5,0.6309297535714575,1.0,2,3
+ac3c7b5541da7893b6f28c565e14be95_1,Surrender (return or turn in) your plates to the DMV#3_0,200,0,50,bm25,5,0.0,1.0,1.0,1.0,2,3
+ac3c7b5541da7893b6f28c565e14be95_1,Surrender (return or turn in) your plates to the DMV#3_0,200,0,50,e5,5,0.0,0.5,1.0,1.0,2,3
+ac3c7b5541da7893b6f28c565e14be95_1,Surrender (return or turn in) your plates to the DMV#3_0,200,0,75,bm25,5,0.0,1.0,1.0,1.0,2,3
+ac3c7b5541da7893b6f28c565e14be95_1,Surrender (return or turn in) your plates to the DMV#3_0,200,0,75,e5,5,0.0,0.5,0.6309297535714575,1.0,2,3
+ac3c7b5541da7893b6f28c565e14be95_1,Surrender (return or turn in) your plates to the DMV#3_0,200,0,100,bm25,5,0.0,1.0,1.0,1.0,2,3
+ac3c7b5541da7893b6f28c565e14be95_1,Surrender (return or turn in) your plates to the DMV#3_0,200,0,100,e5,5,0.0,0.5,0.6309297535714575,1.0,2,3
+ac3c7b5541da7893b6f28c565e14be95_1,Surrender (return or turn in) your plates to the DMV#3_0,200,0,125,bm25,5,0.0,1.0,1.0,1.0,2,3
+ac3c7b5541da7893b6f28c565e14be95_1,Surrender (return or turn in) your plates to the DMV#3_0,200,0,125,e5,5,0.0,0.5,0.5,1.0,2,3
+ac3c7b5541da7893b6f28c565e14be95_1,Surrender (return or turn in) your plates to the DMV#3_0,200,0,150,bm25,5,0.0,1.0,1.0,1.0,2,3
+ac3c7b5541da7893b6f28c565e14be95_1,Surrender (return or turn in) your plates to the DMV#3_0,200,0,150,e5,5,0.0,0.5,0.5,1.0,2,3
+ac3c7b5541da7893b6f28c565e14be95_1,Surrender (return or turn in) your plates to the DMV#3_0,200,0,175,bm25,5,0.09999999999999998,0.5,0.6389570758044575,1.0,1,3
+ac3c7b5541da7893b6f28c565e14be95_1,Surrender (return or turn in) your plates to the DMV#3_0,200,0,175,e5,5,0.09999999999999998,1.0,0.9842290390231114,1.0,1,3
+9b2d9d43375491f9bb014f0f39673a16_1,Prepare for your road test#3_0,200,0,0,bm25,5,0.0,0.5,0.6309297535714575,1.0,1,5
+9b2d9d43375491f9bb014f0f39673a16_1,Prepare for your road test#3_0,200,0,0,e5,5,0.0,0.2,0.38685280723454163,1.0,1,5
+9b2d9d43375491f9bb014f0f39673a16_1,Prepare for your road test#3_0,200,0,25,bm25,5,0.0,0.5,0.6309297535714575,1.0,2,5
+9b2d9d43375491f9bb014f0f39673a16_1,Prepare for your road test#3_0,200,0,25,e5,5,0.0,0.2,0.0,0.0,2,5
+9b2d9d43375491f9bb014f0f39673a16_1,Prepare for your road test#3_0,200,0,50,bm25,5,0.0,0.5,1.0,1.0,2,5
+9b2d9d43375491f9bb014f0f39673a16_1,Prepare for your road test#3_0,200,0,50,e5,5,0.0,0.2,0.38685280723454163,1.0,2,5
+9b2d9d43375491f9bb014f0f39673a16_1,Prepare for your road test#3_0,200,0,75,bm25,5,0.0,0.5,1.0,1.0,2,5
+9b2d9d43375491f9bb014f0f39673a16_1,Prepare for your road test#3_0,200,0,75,e5,5,0.0,0.2,0.0,0.0,2,5
+9b2d9d43375491f9bb014f0f39673a16_1,Prepare for your road test#3_0,200,0,100,bm25,5,0.37037037037037035,0.5,0.5460771420119298,1.0,2,5
+9b2d9d43375491f9bb014f0f39673a16_1,Prepare for your road test#3_0,200,0,100,e5,5,0.37037037037037035,0.2,0.28923798213600044,0.6296296296296297,2,5
+9b2d9d43375491f9bb014f0f39673a16_1,Prepare for your road test#3_0,200,0,125,bm25,5,0.0,0.3333333333333333,0.43067655807339306,1.0,1,5
+9b2d9d43375491f9bb014f0f39673a16_1,Prepare for your road test#3_0,200,0,125,e5,5,0.0,0.2,0.0,0.0,1,5
+9b2d9d43375491f9bb014f0f39673a16_1,Prepare for your road test#3_0,200,0,150,bm25,5,0.0,0.3333333333333333,0.43067655807339306,1.0,1,5
+9b2d9d43375491f9bb014f0f39673a16_1,Prepare for your road test#3_0,200,0,150,e5,5,0.0,0.2,0.0,0.0,1,5
+9b2d9d43375491f9bb014f0f39673a16_1,Prepare for your road test#3_0,200,0,175,bm25,5,0.0,0.5,0.5,1.0,1,5
+9b2d9d43375491f9bb014f0f39673a16_1,Prepare for your road test#3_0,200,0,175,e5,5,0.0,0.2,0.0,0.0,1,5
+3a410477dbe131c029e2d94f2f893cf7_1,Replace license or permit#1_0,200,0,0,bm25,5,0.0,0.5,0.6309297535714575,1.0,2,6
+3a410477dbe131c029e2d94f2f893cf7_1,Replace license or permit#1_0,200,0,0,e5,5,0.0,0.3333333333333333,0.5,1.0,2,6
+3a410477dbe131c029e2d94f2f893cf7_1,Replace license or permit#1_0,200,0,25,bm25,5,0.0,0.5,0.6309297535714575,1.0,3,6
+3a410477dbe131c029e2d94f2f893cf7_1,Replace license or permit#1_0,200,0,25,e5,5,0.0,0.3333333333333333,0.6309297535714575,1.0,3,6
+3a410477dbe131c029e2d94f2f893cf7_1,Replace license or permit#1_0,200,0,50,bm25,5,0.0,0.5,1.0,1.0,3,6
+3a410477dbe131c029e2d94f2f893cf7_1,Replace license or permit#1_0,200,0,50,e5,5,0.0,1.0,1.0,1.0,3,6
+3a410477dbe131c029e2d94f2f893cf7_1,Replace license or permit#1_0,200,0,75,bm25,5,0.5,0.5,0.6509209298071326,1.0,2,6
+3a410477dbe131c029e2d94f2f893cf7_1,Replace license or permit#1_0,200,0,75,e5,5,0.5,0.14285714285714285,0.6131471927654585,0.5,2,6
+3a410477dbe131c029e2d94f2f893cf7_1,Replace license or permit#1_0,200,0,100,bm25,5,0.0,0.5,0.6309297535714575,1.0,2,6
+3a410477dbe131c029e2d94f2f893cf7_1,Replace license or permit#1_0,200,0,100,e5,5,0.0,0.14285714285714285,0.0,0.0,2,6
+3a410477dbe131c029e2d94f2f893cf7_1,Replace license or permit#1_0,200,0,125,bm25,5,0.0,0.5,0.6309297535714575,1.0,2,6
+3a410477dbe131c029e2d94f2f893cf7_1,Replace license or permit#1_0,200,0,125,e5,5,0.0,0.14285714285714285,0.0,0.0,2,6
+3a410477dbe131c029e2d94f2f893cf7_1,Replace license or permit#1_0,200,0,150,bm25,5,0.0,0.5,0.6309297535714575,1.0,2,6
+3a410477dbe131c029e2d94f2f893cf7_1,Replace license or permit#1_0,200,0,150,e5,5,0.0,0.14285714285714285,0.38685280723454163,1.0,2,6
+3a410477dbe131c029e2d94f2f893cf7_1,Replace license or permit#1_0,200,0,175,bm25,5,0.0,0.5,0.6309297535714575,1.0,2,6
+3a410477dbe131c029e2d94f2f893cf7_1,Replace license or permit#1_0,200,0,175,e5,5,0.0,0.2,0.5,1.0,2,6
+630481c93cb85b8daf98b15e61dc1a05_1,Schedule and take a road test#1_0,200,0,0,bm25,5,0.0,1.0,1.0,1.0,3,5
+630481c93cb85b8daf98b15e61dc1a05_1,Schedule and take a road test#1_0,200,0,0,e5,5,0.0,0.5,0.6309297535714575,1.0,3,5
+630481c93cb85b8daf98b15e61dc1a05_1,Schedule and take a road test#1_0,200,0,25,bm25,5,0.0,1.0,1.0,1.0,4,5
+630481c93cb85b8daf98b15e61dc1a05_1,Schedule and take a road test#1_0,200,0,25,e5,5,0.0,1.0,1.0,1.0,4,5
+630481c93cb85b8daf98b15e61dc1a05_1,Schedule and take a road test#1_0,200,0,50,bm25,5,0.0,1.0,1.0,1.0,4,5
+630481c93cb85b8daf98b15e61dc1a05_1,Schedule and take a road test#1_0,200,0,50,e5,5,0.0,1.0,1.0,1.0,4,5
+630481c93cb85b8daf98b15e61dc1a05_1,Schedule and take a road test#1_0,200,0,75,bm25,5,0.0,1.0,1.0,1.0,4,5
+630481c93cb85b8daf98b15e61dc1a05_1,Schedule and take a road test#1_0,200,0,75,e5,5,0.0,1.0,1.0,1.0,4,5
+630481c93cb85b8daf98b15e61dc1a05_1,Schedule and take a road test#1_0,200,0,100,bm25,5,0.0,1.0,1.0,1.0,4,5
+630481c93cb85b8daf98b15e61dc1a05_1,Schedule and take a road test#1_0,200,0,100,e5,5,0.0,1.0,1.0,1.0,4,5
+630481c93cb85b8daf98b15e61dc1a05_1,Schedule and take a road test#1_0,200,0,125,bm25,5,0.2857142857142857,1.0,0.8001919673605348,1.0,3,5
+630481c93cb85b8daf98b15e61dc1a05_1,Schedule and take a road test#1_0,200,0,125,e5,5,0.2857142857142857,0.5,0.6924914582846919,1.0,3,5
+630481c93cb85b8daf98b15e61dc1a05_1,Schedule and take a road test#1_0,200,0,150,bm25,5,0.0,1.0,1.0,1.0,3,5
+630481c93cb85b8daf98b15e61dc1a05_1,Schedule and take a road test#1_0,200,0,150,e5,5,0.0,1.0,1.0,1.0,3,5
+630481c93cb85b8daf98b15e61dc1a05_1,Schedule and take a road test#1_0,200,0,175,bm25,5,0.0,1.0,1.0,1.0,3,5
+630481c93cb85b8daf98b15e61dc1a05_1,Schedule and take a road test#1_0,200,0,175,e5,5,0.0,0.5,0.5,1.0,3,5
+cd0cfb77675741b68ed4086445228e92_1,Schedule and take a road test#1_0,200,0,0,bm25,5,0.0,1.0,1.0,1.0,2,5
+cd0cfb77675741b68ed4086445228e92_1,Schedule and take a road test#1_0,200,0,0,e5,5,0.0,0.5,0.6309297535714575,1.0,2,5
+cd0cfb77675741b68ed4086445228e92_1,Schedule and take a road test#1_0,200,0,25,bm25,5,0.0,1.0,1.0,1.0,3,5
+cd0cfb77675741b68ed4086445228e92_1,Schedule and take a road test#1_0,200,0,25,e5,5,0.0,0.5,0.6309297535714575,1.0,3,5
+cd0cfb77675741b68ed4086445228e92_1,Schedule and take a road test#1_0,200,0,50,bm25,5,0.0,1.0,1.0,1.0,3,5
+cd0cfb77675741b68ed4086445228e92_1,Schedule and take a road test#1_0,200,0,50,e5,5,0.0,1.0,1.0,1.0,3,5
+cd0cfb77675741b68ed4086445228e92_1,Schedule and take a road test#1_0,200,0,75,bm25,5,0.0,1.0,1.0,1.0,3,5
+cd0cfb77675741b68ed4086445228e92_1,Schedule and take a road test#1_0,200,0,75,e5,5,0.0,0.5,1.0,1.0,3,5
+cd0cfb77675741b68ed4086445228e92_1,Schedule and take a road test#1_0,200,0,100,bm25,5,0.0,1.0,1.0,1.0,3,5
+cd0cfb77675741b68ed4086445228e92_1,Schedule and take a road test#1_0,200,0,100,e5,5,0.0,1.0,1.0,1.0,3,5
+cd0cfb77675741b68ed4086445228e92_1,Schedule and take a road test#1_0,200,0,125,bm25,5,0.0,1.0,1.0,1.0,3,5
+cd0cfb77675741b68ed4086445228e92_1,Schedule and take a road test#1_0,200,0,125,e5,5,0.0,1.0,1.0,1.0,3,5
+cd0cfb77675741b68ed4086445228e92_1,Schedule and take a road test#1_0,200,0,150,bm25,5,0.0,0.3333333333333333,0.5,1.0,3,5
+cd0cfb77675741b68ed4086445228e92_1,Schedule and take a road test#1_0,200,0,150,e5,5,0.0,1.0,1.0,1.0,3,5
+cd0cfb77675741b68ed4086445228e92_1,Schedule and take a road test#1_0,200,0,175,bm25,5,0.3513513513513513,1.0,0.9255464008285448,1.0,2,5
+cd0cfb77675741b68ed4086445228e92_1,Schedule and take a road test#1_0,200,0,175,e5,5,0.3513513513513513,0.5,0.8547248324883008,1.0,2,5
+23178e836c47051d9cc2be93932f6757_1,About problem driver restrictions#3_0,200,0,0,bm25,5,0.0,1.0,1.0,1.0,2,4
+23178e836c47051d9cc2be93932f6757_1,About problem driver restrictions#3_0,200,0,0,e5,5,0.0,1.0,1.0,1.0,2,4
+23178e836c47051d9cc2be93932f6757_1,About problem driver restrictions#3_0,200,0,25,bm25,5,0.0,1.0,1.0,1.0,3,4
+23178e836c47051d9cc2be93932f6757_1,About problem driver restrictions#3_0,200,0,25,e5,5,0.0,1.0,1.0,1.0,3,4
+23178e836c47051d9cc2be93932f6757_1,About problem driver restrictions#3_0,200,0,50,bm25,5,0.08333333333333337,1.0,0.6696132170675146,1.0,3,4
+23178e836c47051d9cc2be93932f6757_1,About problem driver restrictions#3_0,200,0,50,e5,5,0.08333333333333337,1.0,0.959452687958952,0.9166666666666666,3,4
+23178e836c47051d9cc2be93932f6757_1,About problem driver restrictions#3_0,200,0,75,bm25,5,0.0,1.0,1.0,1.0,2,4
+23178e836c47051d9cc2be93932f6757_1,About problem driver restrictions#3_0,200,0,75,e5,5,0.0,1.0,1.0,1.0,2,4
+23178e836c47051d9cc2be93932f6757_1,About problem driver restrictions#3_0,200,0,100,bm25,5,0.0,1.0,1.0,1.0,2,4
+23178e836c47051d9cc2be93932f6757_1,About problem driver restrictions#3_0,200,0,100,e5,5,0.0,1.0,1.0,1.0,2,4
+23178e836c47051d9cc2be93932f6757_1,About problem driver restrictions#3_0,200,0,125,bm25,5,0.0,1.0,1.0,1.0,2,4
+23178e836c47051d9cc2be93932f6757_1,About problem driver restrictions#3_0,200,0,125,e5,5,0.0,1.0,1.0,1.0,2,4
+23178e836c47051d9cc2be93932f6757_1,About problem driver restrictions#3_0,200,0,150,bm25,5,0.0,1.0,1.0,1.0,2,4
+23178e836c47051d9cc2be93932f6757_1,About problem driver restrictions#3_0,200,0,150,e5,5,0.0,1.0,1.0,1.0,2,4
+23178e836c47051d9cc2be93932f6757_1,About problem driver restrictions#3_0,200,0,175,bm25,5,0.0,1.0,1.0,1.0,2,4
+23178e836c47051d9cc2be93932f6757_1,About problem driver restrictions#3_0,200,0,175,e5,5,0.0,1.0,1.0,1.0,2,4
+ddce2ae456060c8c50cb8717afeaaec5_1,About online and alternative delivery method courses (I-PIRP/ADM)#3_0,200,0,0,bm25,5,0.1428571428571429,1.0,0.7023616217852796,1.0,3,5
+ddce2ae456060c8c50cb8717afeaaec5_1,About online and alternative delivery method courses (I-PIRP/ADM)#3_0,200,0,0,e5,5,0.1428571428571429,1.0,1.0,1.0,3,5
+ddce2ae456060c8c50cb8717afeaaec5_1,About online and alternative delivery method courses (I-PIRP/ADM)#3_0,200,0,25,bm25,5,0.0,1.0,1.0,1.0,4,5
+ddce2ae456060c8c50cb8717afeaaec5_1,About online and alternative delivery method courses (I-PIRP/ADM)#3_0,200,0,25,e5,5,0.0,1.0,1.0,1.0,4,5
+ddce2ae456060c8c50cb8717afeaaec5_1,About online and alternative delivery method courses (I-PIRP/ADM)#3_0,200,0,50,bm25,5,0.0,1.0,1.0,1.0,4,5
+ddce2ae456060c8c50cb8717afeaaec5_1,About online and alternative delivery method courses (I-PIRP/ADM)#3_0,200,0,50,e5,5,0.0,1.0,1.0,1.0,4,5
+ddce2ae456060c8c50cb8717afeaaec5_1,About online and alternative delivery method courses (I-PIRP/ADM)#3_0,200,0,75,bm25,5,0.0,1.0,1.0,1.0,4,5
+ddce2ae456060c8c50cb8717afeaaec5_1,About online and alternative delivery method courses (I-PIRP/ADM)#3_0,200,0,75,e5,5,0.0,1.0,1.0,1.0,4,5
+ddce2ae456060c8c50cb8717afeaaec5_1,About online and alternative delivery method courses (I-PIRP/ADM)#3_0,200,0,100,bm25,5,0.0,1.0,1.0,1.0,4,5
+ddce2ae456060c8c50cb8717afeaaec5_1,About online and alternative delivery method courses (I-PIRP/ADM)#3_0,200,0,100,e5,5,0.0,1.0,1.0,1.0,4,5
+ddce2ae456060c8c50cb8717afeaaec5_1,About online and alternative delivery method courses (I-PIRP/ADM)#3_0,200,0,125,bm25,5,0.0,1.0,1.0,1.0,4,5
+ddce2ae456060c8c50cb8717afeaaec5_1,About online and alternative delivery method courses (I-PIRP/ADM)#3_0,200,0,125,e5,5,0.0,1.0,1.0,1.0,4,5
+ddce2ae456060c8c50cb8717afeaaec5_1,About online and alternative delivery method courses (I-PIRP/ADM)#3_0,200,0,150,bm25,5,0.0,1.0,1.0,1.0,4,5
+ddce2ae456060c8c50cb8717afeaaec5_1,About online and alternative delivery method courses (I-PIRP/ADM)#3_0,200,0,150,e5,5,0.0,1.0,1.0,1.0,4,5
+ddce2ae456060c8c50cb8717afeaaec5_1,About online and alternative delivery method courses (I-PIRP/ADM)#3_0,200,0,175,bm25,5,0.0,1.0,1.0,1.0,4,5
+ddce2ae456060c8c50cb8717afeaaec5_1,About online and alternative delivery method courses (I-PIRP/ADM)#3_0,200,0,175,e5,5,0.0,1.0,1.0,1.0,4,5
+a59386f175d1e40ac86caadd392dcf73_1,Know Your Rights in Auto Repair#3_0,200,0,0,bm25,5,0.0,0.5,0.6309297535714575,1.0,3,6
+a59386f175d1e40ac86caadd392dcf73_1,Know Your Rights in Auto Repair#3_0,200,0,0,e5,5,0.0,1.0,1.0,1.0,3,6
+a59386f175d1e40ac86caadd392dcf73_1,Know Your Rights in Auto Repair#3_0,200,0,25,bm25,5,0.0,0.3333333333333333,0.6309297535714575,1.0,4,6
+a59386f175d1e40ac86caadd392dcf73_1,Know Your Rights in Auto Repair#3_0,200,0,25,e5,5,0.0,1.0,0.6309297535714575,1.0,4,6
+a59386f175d1e40ac86caadd392dcf73_1,Know Your Rights in Auto Repair#3_0,200,0,50,bm25,5,0.0,0.25,0.38685280723454163,1.0,4,6
+a59386f175d1e40ac86caadd392dcf73_1,Know Your Rights in Auto Repair#3_0,200,0,50,e5,5,0.0,1.0,1.0,1.0,4,6
+a59386f175d1e40ac86caadd392dcf73_1,Know Your Rights in Auto Repair#3_0,200,0,75,bm25,5,0.0,0.2,0.0,0.0,4,6
+a59386f175d1e40ac86caadd392dcf73_1,Know Your Rights in Auto Repair#3_0,200,0,75,e5,5,0.0,0.3333333333333333,0.43067655807339306,1.0,4,6
+a59386f175d1e40ac86caadd392dcf73_1,Know Your Rights in Auto Repair#3_0,200,0,100,bm25,5,0.4137931034482759,0.2,0.23364297032022174,0.41379310344827586,4,6
+a59386f175d1e40ac86caadd392dcf73_1,Know Your Rights in Auto Repair#3_0,200,0,100,e5,5,0.4137931034482759,0.16666666666666666,0.23364297032022174,0.41379310344827586,4,6
+a59386f175d1e40ac86caadd392dcf73_1,Know Your Rights in Auto Repair#3_0,200,0,125,bm25,5,0.0,0.5,0.6309297535714575,1.0,3,6
+a59386f175d1e40ac86caadd392dcf73_1,Know Your Rights in Auto Repair#3_0,200,0,125,e5,5,0.0,1.0,0.6309297535714575,1.0,3,6
+a59386f175d1e40ac86caadd392dcf73_1,Know Your Rights in Auto Repair#3_0,200,0,150,bm25,5,0.0,0.5,0.6309297535714575,1.0,3,6
+a59386f175d1e40ac86caadd392dcf73_1,Know Your Rights in Auto Repair#3_0,200,0,150,e5,5,0.0,1.0,1.0,1.0,3,6
+a59386f175d1e40ac86caadd392dcf73_1,Know Your Rights in Auto Repair#3_0,200,0,175,bm25,5,0.0,0.5,0.6309297535714575,1.0,3,6
+a59386f175d1e40ac86caadd392dcf73_1,Know Your Rights in Auto Repair#3_0,200,0,175,e5,5,0.0,1.0,1.0,1.0,3,6
+6f9180a71a8195073fd4fe17e708cee9_1,About New York State Inspections#3_0,200,0,0,bm25,5,0.0,0.3333333333333333,0.5,1.0,2,5
+6f9180a71a8195073fd4fe17e708cee9_1,About New York State Inspections#3_0,200,0,0,e5,5,0.0,1.0,1.0,1.0,2,5
+6f9180a71a8195073fd4fe17e708cee9_1,About New York State Inspections#3_0,200,0,25,bm25,5,0.0,1.0,1.0,1.0,3,5
+6f9180a71a8195073fd4fe17e708cee9_1,About New York State Inspections#3_0,200,0,25,e5,5,0.0,1.0,1.0,1.0,3,5
+6f9180a71a8195073fd4fe17e708cee9_1,About New York State Inspections#3_0,200,0,50,bm25,5,0.16666666666666663,0.3333333333333333,0.7167364349613432,1.0,3,5
+6f9180a71a8195073fd4fe17e708cee9_1,About New York State Inspections#3_0,200,0,50,e5,5,0.16666666666666663,1.0,0.9813355513362233,1.0,3,5
+6f9180a71a8195073fd4fe17e708cee9_1,About New York State Inspections#3_0,200,0,75,bm25,5,0.0,1.0,1.0,1.0,2,5
+6f9180a71a8195073fd4fe17e708cee9_1,About New York State Inspections#3_0,200,0,75,e5,5,0.0,0.5,0.6309297535714575,1.0,2,5
+6f9180a71a8195073fd4fe17e708cee9_1,About New York State Inspections#3_0,200,0,100,bm25,5,0.0,1.0,1.0,1.0,2,5
+6f9180a71a8195073fd4fe17e708cee9_1,About New York State Inspections#3_0,200,0,100,e5,5,0.0,0.5,0.6309297535714575,1.0,2,5
+6f9180a71a8195073fd4fe17e708cee9_1,About New York State Inspections#3_0,200,0,125,bm25,5,0.0,1.0,1.0,1.0,2,5
+6f9180a71a8195073fd4fe17e708cee9_1,About New York State Inspections#3_0,200,0,125,e5,5,0.0,0.5,0.6309297535714575,1.0,2,5
+6f9180a71a8195073fd4fe17e708cee9_1,About New York State Inspections#3_0,200,0,150,bm25,5,0.0,1.0,1.0,1.0,2,5
+6f9180a71a8195073fd4fe17e708cee9_1,About New York State Inspections#3_0,200,0,150,e5,5,0.0,0.5,0.6309297535714575,1.0,2,5
+6f9180a71a8195073fd4fe17e708cee9_1,About New York State Inspections#3_0,200,0,175,bm25,5,0.0,0.3333333333333333,0.5,1.0,2,5
+6f9180a71a8195073fd4fe17e708cee9_1,About New York State Inspections#3_0,200,0,175,e5,5,0.0,0.5,1.0,1.0,2,5
+5d87b04944b11a9a535998c5c0e1b075_1,About New York State Inspections#3_0,200,0,0,bm25,5,0.0,1.0,1.0,1.0,1,5
+5d87b04944b11a9a535998c5c0e1b075_1,About New York State Inspections#3_0,200,0,0,e5,5,0.0,1.0,1.0,1.0,1,5
+5d87b04944b11a9a535998c5c0e1b075_1,About New York State Inspections#3_0,200,0,25,bm25,5,0.0,1.0,1.0,1.0,2,5
+5d87b04944b11a9a535998c5c0e1b075_1,About New York State Inspections#3_0,200,0,25,e5,5,0.0,1.0,1.0,1.0,2,5
+5d87b04944b11a9a535998c5c0e1b075_1,About New York State Inspections#3_0,200,0,50,bm25,5,0.0,1.0,1.0,1.0,2,5
+5d87b04944b11a9a535998c5c0e1b075_1,About New York State Inspections#3_0,200,0,50,e5,5,0.0,1.0,1.0,1.0,2,5
+5d87b04944b11a9a535998c5c0e1b075_1,About New York State Inspections#3_0,200,0,75,bm25,5,0.0,1.0,1.0,1.0,2,5
+5d87b04944b11a9a535998c5c0e1b075_1,About New York State Inspections#3_0,200,0,75,e5,5,0.0,1.0,1.0,1.0,2,5
+5d87b04944b11a9a535998c5c0e1b075_1,About New York State Inspections#3_0,200,0,100,bm25,5,0.2857142857142857,1.0,1.0,1.0,1,5
+5d87b04944b11a9a535998c5c0e1b075_1,About New York State Inspections#3_0,200,0,100,e5,5,0.2857142857142857,0.3333333333333333,0.5189917020171905,0.7142857142857143,1,5
+5d87b04944b11a9a535998c5c0e1b075_1,About New York State Inspections#3_0,200,0,125,bm25,5,0.0,1.0,1.0,1.0,1,5
+5d87b04944b11a9a535998c5c0e1b075_1,About New York State Inspections#3_0,200,0,125,e5,5,0.0,0.3333333333333333,0.5,1.0,1,5
+5d87b04944b11a9a535998c5c0e1b075_1,About New York State Inspections#3_0,200,0,150,bm25,5,0.0,1.0,1.0,1.0,1,5
+5d87b04944b11a9a535998c5c0e1b075_1,About New York State Inspections#3_0,200,0,150,e5,5,0.0,0.3333333333333333,0.5,1.0,1,5
+5d87b04944b11a9a535998c5c0e1b075_1,About New York State Inspections#3_0,200,0,175,bm25,5,0.0,1.0,1.0,1.0,1,5
+5d87b04944b11a9a535998c5c0e1b075_1,About New York State Inspections#3_0,200,0,175,e5,5,0.0,1.0,1.0,1.0,1,5
+caa2d4ca2a98cc6f57a5628d9e128db9_1,About New York State Inspections#3_0,200,0,0,bm25,5,0.0,1.0,1.0,1.0,4,5
+caa2d4ca2a98cc6f57a5628d9e128db9_1,About New York State Inspections#3_0,200,0,0,e5,5,0.0,1.0,1.0,1.0,4,5
+caa2d4ca2a98cc6f57a5628d9e128db9_1,About New York State Inspections#3_0,200,0,25,bm25,5,0.0,1.0,1.0,1.0,5,5
+caa2d4ca2a98cc6f57a5628d9e128db9_1,About New York State Inspections#3_0,200,0,25,e5,5,0.0,1.0,0.6309297535714575,1.0,5,5
+caa2d4ca2a98cc6f57a5628d9e128db9_1,About New York State Inspections#3_0,200,0,50,bm25,5,0.21568627450980393,0.3333333333333333,0.5731966513037754,1.0,5,5
+caa2d4ca2a98cc6f57a5628d9e128db9_1,About New York State Inspections#3_0,200,0,50,e5,5,0.21568627450980393,0.3333333333333333,0.7487245139899377,1.0,5,5
+caa2d4ca2a98cc6f57a5628d9e128db9_1,About New York State Inspections#3_0,200,0,75,bm25,5,0.2941176470588235,1.0,0.9286726835575002,1.0,4,5
+caa2d4ca2a98cc6f57a5628d9e128db9_1,About New York State Inspections#3_0,200,0,75,e5,5,0.2941176470588235,1.0,0.9286726835575002,1.0,4,5
+caa2d4ca2a98cc6f57a5628d9e128db9_1,About New York State Inspections#3_0,200,0,100,bm25,5,0.0,1.0,1.0,1.0,4,5
+caa2d4ca2a98cc6f57a5628d9e128db9_1,About New York State Inspections#3_0,200,0,100,e5,5,0.0,1.0,1.0,1.0,4,5
+caa2d4ca2a98cc6f57a5628d9e128db9_1,About New York State Inspections#3_0,200,0,125,bm25,5,0.0,1.0,1.0,1.0,4,5
+caa2d4ca2a98cc6f57a5628d9e128db9_1,About New York State Inspections#3_0,200,0,125,e5,5,0.0,1.0,1.0,1.0,4,5
+caa2d4ca2a98cc6f57a5628d9e128db9_1,About New York State Inspections#3_0,200,0,150,bm25,5,0.0,1.0,1.0,1.0,4,5
+caa2d4ca2a98cc6f57a5628d9e128db9_1,About New York State Inspections#3_0,200,0,150,e5,5,0.0,1.0,1.0,1.0,4,5
+caa2d4ca2a98cc6f57a5628d9e128db9_1,About New York State Inspections#3_0,200,0,175,bm25,5,0.0,1.0,1.0,1.0,4,5
+caa2d4ca2a98cc6f57a5628d9e128db9_1,About New York State Inspections#3_0,200,0,175,e5,5,0.0,1.0,1.0,1.0,4,5
+b55dafba91b47f076435e58d02a0659b_1,About New York State Inspections#3_0,200,0,0,bm25,5,0.0,1.0,1.0,1.0,1,5
+b55dafba91b47f076435e58d02a0659b_1,About New York State Inspections#3_0,200,0,0,e5,5,0.0,0.25,0.43067655807339306,1.0,1,5
+b55dafba91b47f076435e58d02a0659b_1,About New York State Inspections#3_0,200,0,25,bm25,5,0.0,1.0,1.0,1.0,2,5
+b55dafba91b47f076435e58d02a0659b_1,About New York State Inspections#3_0,200,0,25,e5,5,0.0,0.25,0.5,1.0,2,5
+b55dafba91b47f076435e58d02a0659b_1,About New York State Inspections#3_0,200,0,50,bm25,5,0.0,1.0,1.0,1.0,2,5
+b55dafba91b47f076435e58d02a0659b_1,About New York State Inspections#3_0,200,0,50,e5,5,0.0,0.25,0.5,1.0,2,5
+b55dafba91b47f076435e58d02a0659b_1,About New York State Inspections#3_0,200,0,75,bm25,5,0.0,1.0,1.0,1.0,2,5
+b55dafba91b47f076435e58d02a0659b_1,About New York State Inspections#3_0,200,0,75,e5,5,0.0,0.5,0.5,1.0,2,5
+b55dafba91b47f076435e58d02a0659b_1,About New York State Inspections#3_0,200,0,100,bm25,5,0.0,1.0,1.0,1.0,2,5
+b55dafba91b47f076435e58d02a0659b_1,About New York State Inspections#3_0,200,0,100,e5,5,0.0,1.0,0.5,1.0,2,5
+b55dafba91b47f076435e58d02a0659b_1,About New York State Inspections#3_0,200,0,125,bm25,5,0.0,1.0,1.0,1.0,2,5
+b55dafba91b47f076435e58d02a0659b_1,About New York State Inspections#3_0,200,0,125,e5,5,0.0,1.0,1.0,1.0,2,5
+b55dafba91b47f076435e58d02a0659b_1,About New York State Inspections#3_0,200,0,150,bm25,5,0.4285714285714286,0.25,0.758141748906397,1.0,2,5
+b55dafba91b47f076435e58d02a0659b_1,About New York State Inspections#3_0,200,0,150,e5,5,0.4285714285714286,0.25,0.6469440560688252,1.0,2,5
+b55dafba91b47f076435e58d02a0659b_1,About New York State Inspections#3_0,200,0,175,bm25,5,0.0,1.0,1.0,1.0,1,5
+b55dafba91b47f076435e58d02a0659b_1,About New York State Inspections#3_0,200,0,175,e5,5,0.0,0.5,1.0,1.0,1,5
+46c0f3dbe110f020aaf0358ae35d4283_1,About New York State Inspections#3_0,200,0,0,bm25,5,0.0,1.0,1.0,1.0,1,5
+46c0f3dbe110f020aaf0358ae35d4283_1,About New York State Inspections#3_0,200,0,0,e5,5,0.0,0.3333333333333333,0.5,1.0,1,5
+46c0f3dbe110f020aaf0358ae35d4283_1,About New York State Inspections#3_0,200,0,25,bm25,5,0.0,1.0,1.0,1.0,2,5
+46c0f3dbe110f020aaf0358ae35d4283_1,About New York State Inspections#3_0,200,0,25,e5,5,0.0,1.0,1.0,1.0,2,5
+46c0f3dbe110f020aaf0358ae35d4283_1,About New York State Inspections#3_0,200,0,50,bm25,5,0.0,1.0,1.0,1.0,2,5
+46c0f3dbe110f020aaf0358ae35d4283_1,About New York State Inspections#3_0,200,0,50,e5,5,0.0,0.5,0.5,1.0,2,5
+46c0f3dbe110f020aaf0358ae35d4283_1,About New York State Inspections#3_0,200,0,75,bm25,5,0.0,1.0,1.0,1.0,2,5
+46c0f3dbe110f020aaf0358ae35d4283_1,About New York State Inspections#3_0,200,0,75,e5,5,0.0,1.0,0.6309297535714575,1.0,2,5
+46c0f3dbe110f020aaf0358ae35d4283_1,About New York State Inspections#3_0,200,0,100,bm25,5,0.0,1.0,1.0,1.0,2,5
+46c0f3dbe110f020aaf0358ae35d4283_1,About New York State Inspections#3_0,200,0,100,e5,5,0.0,0.5,0.5,1.0,2,5
+46c0f3dbe110f020aaf0358ae35d4283_1,About New York State Inspections#3_0,200,0,125,bm25,5,0.0,1.0,1.0,1.0,2,5
+46c0f3dbe110f020aaf0358ae35d4283_1,About New York State Inspections#3_0,200,0,125,e5,5,0.0,1.0,1.0,1.0,2,5
+46c0f3dbe110f020aaf0358ae35d4283_1,About New York State Inspections#3_0,200,0,150,bm25,5,0.4285714285714286,0.5,0.8362251226547714,1.0,2,5
+46c0f3dbe110f020aaf0358ae35d4283_1,About New York State Inspections#3_0,200,0,150,e5,5,0.4285714285714286,0.25,0.6809938542080047,1.0,2,5
+46c0f3dbe110f020aaf0358ae35d4283_1,About New York State Inspections#3_0,200,0,175,bm25,5,0.0,1.0,1.0,1.0,1,5
+46c0f3dbe110f020aaf0358ae35d4283_1,About New York State Inspections#3_0,200,0,175,e5,5,0.0,0.5,0.6309297535714575,1.0,1,5
+6977cbb3bed8f0e8480018cb3cac6716_1,About New York State Inspections#3_0,200,0,0,bm25,5,0.0,1.0,1.0,1.0,1,5
+6977cbb3bed8f0e8480018cb3cac6716_1,About New York State Inspections#3_0,200,0,0,e5,5,0.0,1.0,1.0,1.0,1,5
+6977cbb3bed8f0e8480018cb3cac6716_1,About New York State Inspections#3_0,200,0,25,bm25,5,0.0,1.0,1.0,1.0,2,5
+6977cbb3bed8f0e8480018cb3cac6716_1,About New York State Inspections#3_0,200,0,25,e5,5,0.0,1.0,1.0,1.0,2,5
+6977cbb3bed8f0e8480018cb3cac6716_1,About New York State Inspections#3_0,200,0,50,bm25,5,0.0,1.0,1.0,1.0,2,5
+6977cbb3bed8f0e8480018cb3cac6716_1,About New York State Inspections#3_0,200,0,50,e5,5,0.0,1.0,1.0,1.0,2,5
+6977cbb3bed8f0e8480018cb3cac6716_1,About New York State Inspections#3_0,200,0,75,bm25,5,0.0,1.0,1.0,1.0,2,5
+6977cbb3bed8f0e8480018cb3cac6716_1,About New York State Inspections#3_0,200,0,75,e5,5,0.0,1.0,1.0,1.0,2,5
+6977cbb3bed8f0e8480018cb3cac6716_1,About New York State Inspections#3_0,200,0,100,bm25,5,0.2857142857142857,1.0,1.0,1.0,1,5
+6977cbb3bed8f0e8480018cb3cac6716_1,About New York State Inspections#3_0,200,0,100,e5,5,0.2857142857142857,1.0,0.931365497925866,1.0,1,5
+6977cbb3bed8f0e8480018cb3cac6716_1,About New York State Inspections#3_0,200,0,125,bm25,5,0.0,1.0,1.0,1.0,1,5
+6977cbb3bed8f0e8480018cb3cac6716_1,About New York State Inspections#3_0,200,0,125,e5,5,0.0,0.5,1.0,1.0,1,5
+6977cbb3bed8f0e8480018cb3cac6716_1,About New York State Inspections#3_0,200,0,150,bm25,5,0.0,1.0,1.0,1.0,1,5
+6977cbb3bed8f0e8480018cb3cac6716_1,About New York State Inspections#3_0,200,0,150,e5,5,0.0,1.0,0.6309297535714575,1.0,1,5
+6977cbb3bed8f0e8480018cb3cac6716_1,About New York State Inspections#3_0,200,0,175,bm25,5,0.0,1.0,1.0,1.0,1,5
+6977cbb3bed8f0e8480018cb3cac6716_1,About New York State Inspections#3_0,200,0,175,e5,5,0.0,1.0,1.0,1.0,1,5
+9d4920bea87d4f4cb977483d943c1ef3_1,About New York State Inspections#3_0,200,0,0,bm25,5,0.0,1.0,1.0,1.0,1,5
+9d4920bea87d4f4cb977483d943c1ef3_1,About New York State Inspections#3_0,200,0,0,e5,5,0.0,1.0,1.0,1.0,1,5
+9d4920bea87d4f4cb977483d943c1ef3_1,About New York State Inspections#3_0,200,0,25,bm25,5,0.0,1.0,1.0,1.0,2,5
+9d4920bea87d4f4cb977483d943c1ef3_1,About New York State Inspections#3_0,200,0,25,e5,5,0.0,1.0,1.0,1.0,2,5
+9d4920bea87d4f4cb977483d943c1ef3_1,About New York State Inspections#3_0,200,0,50,bm25,5,0.0,1.0,1.0,1.0,2,5
+9d4920bea87d4f4cb977483d943c1ef3_1,About New York State Inspections#3_0,200,0,50,e5,5,0.0,1.0,1.0,1.0,2,5
+9d4920bea87d4f4cb977483d943c1ef3_1,About New York State Inspections#3_0,200,0,75,bm25,5,0.0,1.0,1.0,1.0,2,5
+9d4920bea87d4f4cb977483d943c1ef3_1,About New York State Inspections#3_0,200,0,75,e5,5,0.0,1.0,1.0,1.0,2,5
+9d4920bea87d4f4cb977483d943c1ef3_1,About New York State Inspections#3_0,200,0,100,bm25,5,0.2857142857142857,1.0,1.0,1.0,1,5
+9d4920bea87d4f4cb977483d943c1ef3_1,About New York State Inspections#3_0,200,0,100,e5,5,0.2857142857142857,1.0,0.931365497925866,1.0,1,5
+9d4920bea87d4f4cb977483d943c1ef3_1,About New York State Inspections#3_0,200,0,125,bm25,5,0.0,1.0,1.0,1.0,1,5
+9d4920bea87d4f4cb977483d943c1ef3_1,About New York State Inspections#3_0,200,0,125,e5,5,0.0,1.0,1.0,1.0,1,5
+9d4920bea87d4f4cb977483d943c1ef3_1,About New York State Inspections#3_0,200,0,150,bm25,5,0.0,1.0,1.0,1.0,1,5
+9d4920bea87d4f4cb977483d943c1ef3_1,About New York State Inspections#3_0,200,0,150,e5,5,0.0,1.0,1.0,1.0,1,5
+9d4920bea87d4f4cb977483d943c1ef3_1,About New York State Inspections#3_0,200,0,175,bm25,5,0.0,1.0,1.0,1.0,1,5
+9d4920bea87d4f4cb977483d943c1ef3_1,About New York State Inspections#3_0,200,0,175,e5,5,0.0,1.0,1.0,1.0,1,5
+09f69dbfbbb5ab0b90ce0faf73e5166b_1,About New York State Inspections#3_0,200,0,0,bm25,5,0.0,1.0,1.0,1.0,1,5
+09f69dbfbbb5ab0b90ce0faf73e5166b_1,About New York State Inspections#3_0,200,0,0,e5,5,0.0,1.0,1.0,1.0,1,5
+09f69dbfbbb5ab0b90ce0faf73e5166b_1,About New York State Inspections#3_0,200,0,25,bm25,5,0.0,1.0,1.0,1.0,2,5
+09f69dbfbbb5ab0b90ce0faf73e5166b_1,About New York State Inspections#3_0,200,0,25,e5,5,0.0,1.0,1.0,1.0,2,5
+09f69dbfbbb5ab0b90ce0faf73e5166b_1,About New York State Inspections#3_0,200,0,50,bm25,5,0.0,1.0,1.0,1.0,2,5
+09f69dbfbbb5ab0b90ce0faf73e5166b_1,About New York State Inspections#3_0,200,0,50,e5,5,0.0,1.0,1.0,1.0,2,5
+09f69dbfbbb5ab0b90ce0faf73e5166b_1,About New York State Inspections#3_0,200,0,75,bm25,5,0.0,1.0,1.0,1.0,2,5
+09f69dbfbbb5ab0b90ce0faf73e5166b_1,About New York State Inspections#3_0,200,0,75,e5,5,0.0,1.0,1.0,1.0,2,5
+09f69dbfbbb5ab0b90ce0faf73e5166b_1,About New York State Inspections#3_0,200,0,100,bm25,5,0.0,1.0,1.0,1.0,2,5
+09f69dbfbbb5ab0b90ce0faf73e5166b_1,About New York State Inspections#3_0,200,0,100,e5,5,0.0,0.3333333333333333,0.43067655807339306,1.0,2,5
+09f69dbfbbb5ab0b90ce0faf73e5166b_1,About New York State Inspections#3_0,200,0,125,bm25,5,0.0,1.0,1.0,1.0,2,5
+09f69dbfbbb5ab0b90ce0faf73e5166b_1,About New York State Inspections#3_0,200,0,125,e5,5,0.0,1.0,1.0,1.0,2,5
+09f69dbfbbb5ab0b90ce0faf73e5166b_1,About New York State Inspections#3_0,200,0,150,bm25,5,0.4285714285714286,0.25,0.7883847114772751,1.0,2,5
+09f69dbfbbb5ab0b90ce0faf73e5166b_1,About New York State Inspections#3_0,200,0,150,e5,5,0.4285714285714286,0.25,0.6549478080723012,1.0,2,5
+09f69dbfbbb5ab0b90ce0faf73e5166b_1,About New York State Inspections#3_0,200,0,175,bm25,5,0.0,1.0,1.0,1.0,1,5
+09f69dbfbbb5ab0b90ce0faf73e5166b_1,About New York State Inspections#3_0,200,0,175,e5,5,0.0,1.0,1.0,1.0,1,5
+dfe69859eb7ea18e177951165518bee0_1,About New York State Inspections#3_0,200,0,0,bm25,5,0.0,1.0,1.0,1.0,4,5
+dfe69859eb7ea18e177951165518bee0_1,About New York State Inspections#3_0,200,0,0,e5,5,0.0,1.0,1.0,1.0,4,5
+dfe69859eb7ea18e177951165518bee0_1,About New York State Inspections#3_0,200,0,25,bm25,5,0.0,1.0,1.0,1.0,5,5
+dfe69859eb7ea18e177951165518bee0_1,About New York State Inspections#3_0,200,0,25,e5,5,0.0,0.5,0.6309297535714575,1.0,5,5
+dfe69859eb7ea18e177951165518bee0_1,About New York State Inspections#3_0,200,0,50,bm25,5,0.21568627450980393,1.0,0.7487245139899377,1.0,5,5
+dfe69859eb7ea18e177951165518bee0_1,About New York State Inspections#3_0,200,0,50,e5,5,0.21568627450980393,0.5,0.7487245139899377,1.0,5,5
+dfe69859eb7ea18e177951165518bee0_1,About New York State Inspections#3_0,200,0,75,bm25,5,0.2941176470588235,1.0,1.0,1.0,4,5
+dfe69859eb7ea18e177951165518bee0_1,About New York State Inspections#3_0,200,0,75,e5,5,0.2941176470588235,1.0,0.9286726835575002,1.0,4,5
+dfe69859eb7ea18e177951165518bee0_1,About New York State Inspections#3_0,200,0,100,bm25,5,0.0,1.0,1.0,1.0,4,5
+dfe69859eb7ea18e177951165518bee0_1,About New York State Inspections#3_0,200,0,100,e5,5,0.0,1.0,1.0,1.0,4,5
+dfe69859eb7ea18e177951165518bee0_1,About New York State Inspections#3_0,200,0,125,bm25,5,0.0,1.0,1.0,1.0,4,5
+dfe69859eb7ea18e177951165518bee0_1,About New York State Inspections#3_0,200,0,125,e5,5,0.0,1.0,1.0,1.0,4,5
+dfe69859eb7ea18e177951165518bee0_1,About New York State Inspections#3_0,200,0,150,bm25,5,0.0,1.0,1.0,1.0,4,5
+dfe69859eb7ea18e177951165518bee0_1,About New York State Inspections#3_0,200,0,150,e5,5,0.0,1.0,1.0,1.0,4,5
+dfe69859eb7ea18e177951165518bee0_1,About New York State Inspections#3_0,200,0,175,bm25,5,0.0,1.0,1.0,1.0,4,5
+dfe69859eb7ea18e177951165518bee0_1,About New York State Inspections#3_0,200,0,175,e5,5,0.0,1.0,1.0,1.0,4,5
+2e9623b209161de6e9448f0c0d2b113b_1,About New York State Inspections#3_0,200,0,0,bm25,5,0.0,1.0,1.0,1.0,2,5
+2e9623b209161de6e9448f0c0d2b113b_1,About New York State Inspections#3_0,200,0,0,e5,5,0.0,0.5,0.6309297535714575,1.0,2,5
+2e9623b209161de6e9448f0c0d2b113b_1,About New York State Inspections#3_0,200,0,25,bm25,5,0.0,1.0,1.0,1.0,3,5
+2e9623b209161de6e9448f0c0d2b113b_1,About New York State Inspections#3_0,200,0,25,e5,5,0.0,1.0,1.0,1.0,3,5
+2e9623b209161de6e9448f0c0d2b113b_1,About New York State Inspections#3_0,200,0,50,bm25,5,0.16666666666666663,0.3333333333333333,0.5975826373858695,1.0,3,5
+2e9623b209161de6e9448f0c0d2b113b_1,About New York State Inspections#3_0,200,0,50,e5,5,0.16666666666666663,1.0,1.0,1.0,3,5
+2e9623b209161de6e9448f0c0d2b113b_1,About New York State Inspections#3_0,200,0,75,bm25,5,0.0,1.0,1.0,1.0,2,5
+2e9623b209161de6e9448f0c0d2b113b_1,About New York State Inspections#3_0,200,0,75,e5,5,0.0,0.5,0.6309297535714575,1.0,2,5
+2e9623b209161de6e9448f0c0d2b113b_1,About New York State Inspections#3_0,200,0,100,bm25,5,0.0,1.0,0.6309297535714575,1.0,2,5
+2e9623b209161de6e9448f0c0d2b113b_1,About New York State Inspections#3_0,200,0,100,e5,5,0.0,0.5,0.6309297535714575,1.0,2,5
+2e9623b209161de6e9448f0c0d2b113b_1,About New York State Inspections#3_0,200,0,125,bm25,5,0.0,1.0,1.0,1.0,2,5
+2e9623b209161de6e9448f0c0d2b113b_1,About New York State Inspections#3_0,200,0,125,e5,5,0.0,0.5,1.0,1.0,2,5
+2e9623b209161de6e9448f0c0d2b113b_1,About New York State Inspections#3_0,200,0,150,bm25,5,0.0,1.0,1.0,1.0,2,5
+2e9623b209161de6e9448f0c0d2b113b_1,About New York State Inspections#3_0,200,0,150,e5,5,0.0,0.5,0.6309297535714575,1.0,2,5
+2e9623b209161de6e9448f0c0d2b113b_1,About New York State Inspections#3_0,200,0,175,bm25,5,0.0,1.0,1.0,1.0,2,5
+2e9623b209161de6e9448f0c0d2b113b_1,About New York State Inspections#3_0,200,0,175,e5,5,0.0,1.0,1.0,1.0,2,5
+5d9c00fd94d44e94de97006a347e2b83_1,Insurance lapses#3_0,200,0,0,bm25,5,0.0,0.5,0.6309297535714575,1.0,2,5
+5d9c00fd94d44e94de97006a347e2b83_1,Insurance lapses#3_0,200,0,0,e5,5,0.0,0.5,0.6309297535714575,1.0,2,5
+5d9c00fd94d44e94de97006a347e2b83_1,Insurance lapses#3_0,200,0,25,bm25,5,0.0,0.5,1.0,1.0,3,5
+5d9c00fd94d44e94de97006a347e2b83_1,Insurance lapses#3_0,200,0,25,e5,5,0.0,0.5,0.5,1.0,3,5
+5d9c00fd94d44e94de97006a347e2b83_1,Insurance lapses#3_0,200,0,50,bm25,5,0.0,0.5,1.0,1.0,3,5
+5d9c00fd94d44e94de97006a347e2b83_1,Insurance lapses#3_0,200,0,50,e5,5,0.0,0.5,0.5,1.0,3,5
+5d9c00fd94d44e94de97006a347e2b83_1,Insurance lapses#3_0,200,0,75,bm25,5,0.0,0.5,1.0,1.0,3,5
+5d9c00fd94d44e94de97006a347e2b83_1,Insurance lapses#3_0,200,0,75,e5,5,0.0,0.5,0.5,1.0,3,5
+5d9c00fd94d44e94de97006a347e2b83_1,Insurance lapses#3_0,200,0,100,bm25,5,0.0,0.5,1.0,1.0,3,5
+5d9c00fd94d44e94de97006a347e2b83_1,Insurance lapses#3_0,200,0,100,e5,5,0.0,0.5,0.43067655807339306,1.0,3,5
+5d9c00fd94d44e94de97006a347e2b83_1,Insurance lapses#3_0,200,0,125,bm25,5,0.03448275862068961,0.2,0.44887505942619743,1.0,3,5
+5d9c00fd94d44e94de97006a347e2b83_1,Insurance lapses#3_0,200,0,125,e5,5,0.03448275862068961,0.5,0.5028789738786569,1.0,3,5
+5d9c00fd94d44e94de97006a347e2b83_1,Insurance lapses#3_0,200,0,150,bm25,5,0.4655172413793104,0.25,0.8785156485528148,1.0,3,5
+5d9c00fd94d44e94de97006a347e2b83_1,Insurance lapses#3_0,200,0,150,e5,5,0.4655172413793104,0.25,0.5283661896042244,1.0,3,5
+5d9c00fd94d44e94de97006a347e2b83_1,Insurance lapses#3_0,200,0,175,bm25,5,0.10344827586206895,0.5,0.989286797229123,1.0,2,5
+5d9c00fd94d44e94de97006a347e2b83_1,Insurance lapses#3_0,200,0,175,e5,5,0.10344827586206895,0.5,0.5058412496276027,1.0,2,5
+9b9ab00f2681da2eb51c5ad2c37e2dc5_1,Insurance lapses#3_0,200,0,0,bm25,5,0.0,1.0,1.0,1.0,2,5
+9b9ab00f2681da2eb51c5ad2c37e2dc5_1,Insurance lapses#3_0,200,0,0,e5,5,0.0,0.5,0.6309297535714575,1.0,2,5
+9b9ab00f2681da2eb51c5ad2c37e2dc5_1,Insurance lapses#3_0,200,0,25,bm25,5,0.0,1.0,0.6309297535714575,1.0,3,5
+9b9ab00f2681da2eb51c5ad2c37e2dc5_1,Insurance lapses#3_0,200,0,25,e5,5,0.0,0.5,0.6309297535714575,1.0,3,5
+9b9ab00f2681da2eb51c5ad2c37e2dc5_1,Insurance lapses#3_0,200,0,50,bm25,5,0.0,1.0,0.6309297535714575,1.0,3,5
+9b9ab00f2681da2eb51c5ad2c37e2dc5_1,Insurance lapses#3_0,200,0,50,e5,5,0.0,1.0,0.6309297535714575,1.0,3,5
+9b9ab00f2681da2eb51c5ad2c37e2dc5_1,Insurance lapses#3_0,200,0,75,bm25,5,0.0,1.0,0.6309297535714575,1.0,3,5
+9b9ab00f2681da2eb51c5ad2c37e2dc5_1,Insurance lapses#3_0,200,0,75,e5,5,0.0,0.5,0.6309297535714575,1.0,3,5
+9b9ab00f2681da2eb51c5ad2c37e2dc5_1,Insurance lapses#3_0,200,0,100,bm25,5,0.0,1.0,0.6309297535714575,1.0,3,5
+9b9ab00f2681da2eb51c5ad2c37e2dc5_1,Insurance lapses#3_0,200,0,100,e5,5,0.0,0.5,0.5,1.0,3,5
+9b9ab00f2681da2eb51c5ad2c37e2dc5_1,Insurance lapses#3_0,200,0,125,bm25,5,0.03448275862068961,0.3333333333333333,0.9967282541469902,1.0,3,5
+9b9ab00f2681da2eb51c5ad2c37e2dc5_1,Insurance lapses#3_0,200,0,125,e5,5,0.03448275862068961,0.5,0.501783881501567,1.0,3,5
+9b9ab00f2681da2eb51c5ad2c37e2dc5_1,Insurance lapses#3_0,200,0,150,bm25,5,0.4655172413793104,0.3333333333333333,1.0,1.0,3,5
+9b9ab00f2681da2eb51c5ad2c37e2dc5_1,Insurance lapses#3_0,200,0,150,e5,5,0.4655172413793104,0.25,0.5283661896042244,1.0,3,5
+9b9ab00f2681da2eb51c5ad2c37e2dc5_1,Insurance lapses#3_0,200,0,175,bm25,5,0.10344827586206895,1.0,0.6801819116922572,1.0,2,5
+9b9ab00f2681da2eb51c5ad2c37e2dc5_1,Insurance lapses#3_0,200,0,175,e5,5,0.10344827586206895,0.5,0.6300117248148698,1.0,2,5
+f75bbbdf4ff2013b1966ee84c7afc5de_1,Insurance lapses#3_0,200,0,0,bm25,5,0.0,0.5,0.6309297535714575,1.0,2,5
+f75bbbdf4ff2013b1966ee84c7afc5de_1,Insurance lapses#3_0,200,0,0,e5,5,0.0,0.5,0.6309297535714575,1.0,2,5
+f75bbbdf4ff2013b1966ee84c7afc5de_1,Insurance lapses#3_0,200,0,25,bm25,5,0.0,0.5,1.0,1.0,3,5
+f75bbbdf4ff2013b1966ee84c7afc5de_1,Insurance lapses#3_0,200,0,25,e5,5,0.0,0.5,0.5,1.0,3,5
+f75bbbdf4ff2013b1966ee84c7afc5de_1,Insurance lapses#3_0,200,0,50,bm25,5,0.0,0.5,1.0,1.0,3,5
+f75bbbdf4ff2013b1966ee84c7afc5de_1,Insurance lapses#3_0,200,0,50,e5,5,0.0,0.5,0.5,1.0,3,5
+f75bbbdf4ff2013b1966ee84c7afc5de_1,Insurance lapses#3_0,200,0,75,bm25,5,0.0,0.5,1.0,1.0,3,5
+f75bbbdf4ff2013b1966ee84c7afc5de_1,Insurance lapses#3_0,200,0,75,e5,5,0.0,0.5,0.5,1.0,3,5
+f75bbbdf4ff2013b1966ee84c7afc5de_1,Insurance lapses#3_0,200,0,100,bm25,5,0.0,0.5,1.0,1.0,3,5
+f75bbbdf4ff2013b1966ee84c7afc5de_1,Insurance lapses#3_0,200,0,100,e5,5,0.0,0.5,0.43067655807339306,1.0,3,5
+f75bbbdf4ff2013b1966ee84c7afc5de_1,Insurance lapses#3_0,200,0,125,bm25,5,0.03448275862068961,0.25,0.6459710579815221,1.0,3,5
+f75bbbdf4ff2013b1966ee84c7afc5de_1,Insurance lapses#3_0,200,0,125,e5,5,0.03448275862068961,0.3333333333333333,0.501783881501567,1.0,3,5
+f75bbbdf4ff2013b1966ee84c7afc5de_1,Insurance lapses#3_0,200,0,150,bm25,5,0.4655172413793104,0.5,0.9637673620491365,1.0,3,5
+f75bbbdf4ff2013b1966ee84c7afc5de_1,Insurance lapses#3_0,200,0,150,e5,5,0.4655172413793104,0.25,0.49003359469287544,1.0,3,5
+f75bbbdf4ff2013b1966ee84c7afc5de_1,Insurance lapses#3_0,200,0,175,bm25,5,0.10344827586206895,0.5,1.0,1.0,2,5
+f75bbbdf4ff2013b1966ee84c7afc5de_1,Insurance lapses#3_0,200,0,175,e5,5,0.10344827586206895,0.5,0.5058412496276027,1.0,2,5
+3d676824006adf83afc5828240e88daf_1,Insurance lapses#3_0,200,0,0,bm25,5,0.0,0.5,0.6309297535714575,1.0,2,5
+3d676824006adf83afc5828240e88daf_1,Insurance lapses#3_0,200,0,0,e5,5,0.0,0.5,0.6309297535714575,1.0,2,5
+3d676824006adf83afc5828240e88daf_1,Insurance lapses#3_0,200,0,25,bm25,5,0.0,0.5,1.0,1.0,3,5
+3d676824006adf83afc5828240e88daf_1,Insurance lapses#3_0,200,0,25,e5,5,0.0,1.0,1.0,1.0,3,5
+3d676824006adf83afc5828240e88daf_1,Insurance lapses#3_0,200,0,50,bm25,5,0.0,0.5,0.6309297535714575,1.0,3,5
+3d676824006adf83afc5828240e88daf_1,Insurance lapses#3_0,200,0,50,e5,5,0.0,1.0,1.0,1.0,3,5
+3d676824006adf83afc5828240e88daf_1,Insurance lapses#3_0,200,0,75,bm25,5,0.0,0.2,0.38685280723454163,1.0,3,5
+3d676824006adf83afc5828240e88daf_1,Insurance lapses#3_0,200,0,75,e5,5,0.0,1.0,0.6309297535714575,1.0,3,5
+3d676824006adf83afc5828240e88daf_1,Insurance lapses#3_0,200,0,100,bm25,5,0.0,0.16666666666666666,0.5,1.0,3,5
+3d676824006adf83afc5828240e88daf_1,Insurance lapses#3_0,200,0,100,e5,5,0.0,0.5,0.43067655807339306,1.0,3,5
+3d676824006adf83afc5828240e88daf_1,Insurance lapses#3_0,200,0,125,bm25,5,0.03448275862068961,0.2,0.39324795552338954,1.0,3,5
+3d676824006adf83afc5828240e88daf_1,Insurance lapses#3_0,200,0,125,e5,5,0.03448275862068961,0.3333333333333333,0.4363807799986258,1.0,3,5
+3d676824006adf83afc5828240e88daf_1,Insurance lapses#3_0,200,0,150,bm25,5,0.4655172413793104,0.25,0.6489583412274016,1.0,3,5
+3d676824006adf83afc5828240e88daf_1,Insurance lapses#3_0,200,0,150,e5,5,0.4655172413793104,0.25,0.5283661896042244,1.0,3,5
+3d676824006adf83afc5828240e88daf_1,Insurance lapses#3_0,200,0,175,bm25,5,0.10344827586206895,0.5,0.6392698864319715,1.0,2,5
+3d676824006adf83afc5828240e88daf_1,Insurance lapses#3_0,200,0,175,e5,5,0.10344827586206895,0.5,0.9836144724146605,1.0,2,5
+375ce9db7788fbf4b5cd1786c9169fea_1,Resources for non US citizens#3_0,200,0,0,bm25,5,0.0,1.0,1.0,1.0,2,4
+375ce9db7788fbf4b5cd1786c9169fea_1,Resources for non US citizens#3_0,200,0,0,e5,5,0.0,0.3333333333333333,0.5,1.0,2,4
+375ce9db7788fbf4b5cd1786c9169fea_1,Resources for non US citizens#3_0,200,0,25,bm25,5,0.0,1.0,1.0,1.0,3,4
+375ce9db7788fbf4b5cd1786c9169fea_1,Resources for non US citizens#3_0,200,0,25,e5,5,0.0,0.3333333333333333,0.43067655807339306,1.0,3,4
+375ce9db7788fbf4b5cd1786c9169fea_1,Resources for non US citizens#3_0,200,0,50,bm25,5,0.0,1.0,1.0,1.0,3,4
+375ce9db7788fbf4b5cd1786c9169fea_1,Resources for non US citizens#3_0,200,0,50,e5,5,0.0,1.0,1.0,1.0,3,4
+375ce9db7788fbf4b5cd1786c9169fea_1,Resources for non US citizens#3_0,200,0,75,bm25,5,0.0,1.0,1.0,1.0,3,4
+375ce9db7788fbf4b5cd1786c9169fea_1,Resources for non US citizens#3_0,200,0,75,e5,5,0.0,1.0,1.0,1.0,3,4
+375ce9db7788fbf4b5cd1786c9169fea_1,Resources for non US citizens#3_0,200,0,100,bm25,5,0.0,1.0,1.0,1.0,3,4
+375ce9db7788fbf4b5cd1786c9169fea_1,Resources for non US citizens#3_0,200,0,100,e5,5,0.0,1.0,1.0,1.0,3,4
+375ce9db7788fbf4b5cd1786c9169fea_1,Resources for non US citizens#3_0,200,0,125,bm25,5,0.0,1.0,1.0,1.0,3,4
+375ce9db7788fbf4b5cd1786c9169fea_1,Resources for non US citizens#3_0,200,0,125,e5,5,0.0,1.0,1.0,1.0,3,4
+375ce9db7788fbf4b5cd1786c9169fea_1,Resources for non US citizens#3_0,200,0,150,bm25,5,0.0,1.0,1.0,1.0,3,4
+375ce9db7788fbf4b5cd1786c9169fea_1,Resources for non US citizens#3_0,200,0,150,e5,5,0.0,1.0,1.0,1.0,3,4
+375ce9db7788fbf4b5cd1786c9169fea_1,Resources for non US citizens#3_0,200,0,175,bm25,5,0.4375,0.5,0.9354065360342155,1.0,3,4
+375ce9db7788fbf4b5cd1786c9169fea_1,Resources for non US citizens#3_0,200,0,175,e5,5,0.4375,1.0,0.9337709933126735,1.0,3,4
+2fab9d4dfaa92281921287f6e5aeafca_1,Resources for non US citizens#3_0,200,0,0,bm25,5,0.0,1.0,1.0,1.0,2,4
+2fab9d4dfaa92281921287f6e5aeafca_1,Resources for non US citizens#3_0,200,0,0,e5,5,0.0,0.3333333333333333,0.5,1.0,2,4
+2fab9d4dfaa92281921287f6e5aeafca_1,Resources for non US citizens#3_0,200,0,25,bm25,5,0.0,1.0,1.0,1.0,3,4
+2fab9d4dfaa92281921287f6e5aeafca_1,Resources for non US citizens#3_0,200,0,25,e5,5,0.0,0.3333333333333333,0.43067655807339306,1.0,3,4
+2fab9d4dfaa92281921287f6e5aeafca_1,Resources for non US citizens#3_0,200,0,50,bm25,5,0.0,1.0,1.0,1.0,3,4
+2fab9d4dfaa92281921287f6e5aeafca_1,Resources for non US citizens#3_0,200,0,50,e5,5,0.0,1.0,1.0,1.0,3,4
+2fab9d4dfaa92281921287f6e5aeafca_1,Resources for non US citizens#3_0,200,0,75,bm25,5,0.0,1.0,1.0,1.0,3,4
+2fab9d4dfaa92281921287f6e5aeafca_1,Resources for non US citizens#3_0,200,0,75,e5,5,0.0,1.0,1.0,1.0,3,4
+2fab9d4dfaa92281921287f6e5aeafca_1,Resources for non US citizens#3_0,200,0,100,bm25,5,0.0,1.0,1.0,1.0,3,4
+2fab9d4dfaa92281921287f6e5aeafca_1,Resources for non US citizens#3_0,200,0,100,e5,5,0.0,1.0,1.0,1.0,3,4
+2fab9d4dfaa92281921287f6e5aeafca_1,Resources for non US citizens#3_0,200,0,125,bm25,5,0.0,1.0,1.0,1.0,3,4
+2fab9d4dfaa92281921287f6e5aeafca_1,Resources for non US citizens#3_0,200,0,125,e5,5,0.0,1.0,1.0,1.0,3,4
+2fab9d4dfaa92281921287f6e5aeafca_1,Resources for non US citizens#3_0,200,0,150,bm25,5,0.0,1.0,1.0,1.0,3,4
+2fab9d4dfaa92281921287f6e5aeafca_1,Resources for non US citizens#3_0,200,0,150,e5,5,0.0,1.0,1.0,1.0,3,4
+2fab9d4dfaa92281921287f6e5aeafca_1,Resources for non US citizens#3_0,200,0,175,bm25,5,0.4375,0.5,0.9354065360342155,1.0,3,4
+2fab9d4dfaa92281921287f6e5aeafca_1,Resources for non US citizens#3_0,200,0,175,e5,5,0.4375,1.0,0.9337709933126735,1.0,3,4
+e7e49e6b2fce71d19e286bf86807aee0_1,Resources for non US citizens#3_0,200,0,0,bm25,5,0.0,1.0,1.0,1.0,2,4
+e7e49e6b2fce71d19e286bf86807aee0_1,Resources for non US citizens#3_0,200,0,0,e5,5,0.0,0.3333333333333333,0.5,1.0,2,4
+e7e49e6b2fce71d19e286bf86807aee0_1,Resources for non US citizens#3_0,200,0,25,bm25,5,0.0,1.0,1.0,1.0,3,4
+e7e49e6b2fce71d19e286bf86807aee0_1,Resources for non US citizens#3_0,200,0,25,e5,5,0.0,0.3333333333333333,0.43067655807339306,1.0,3,4
+e7e49e6b2fce71d19e286bf86807aee0_1,Resources for non US citizens#3_0,200,0,50,bm25,5,0.0,1.0,1.0,1.0,3,4
+e7e49e6b2fce71d19e286bf86807aee0_1,Resources for non US citizens#3_0,200,0,50,e5,5,0.0,1.0,1.0,1.0,3,4
+e7e49e6b2fce71d19e286bf86807aee0_1,Resources for non US citizens#3_0,200,0,75,bm25,5,0.0,1.0,1.0,1.0,3,4
+e7e49e6b2fce71d19e286bf86807aee0_1,Resources for non US citizens#3_0,200,0,75,e5,5,0.0,1.0,1.0,1.0,3,4
+e7e49e6b2fce71d19e286bf86807aee0_1,Resources for non US citizens#3_0,200,0,100,bm25,5,0.0,1.0,1.0,1.0,3,4
+e7e49e6b2fce71d19e286bf86807aee0_1,Resources for non US citizens#3_0,200,0,100,e5,5,0.0,1.0,1.0,1.0,3,4
+e7e49e6b2fce71d19e286bf86807aee0_1,Resources for non US citizens#3_0,200,0,125,bm25,5,0.0,1.0,1.0,1.0,3,4
+e7e49e6b2fce71d19e286bf86807aee0_1,Resources for non US citizens#3_0,200,0,125,e5,5,0.0,1.0,1.0,1.0,3,4
+e7e49e6b2fce71d19e286bf86807aee0_1,Resources for non US citizens#3_0,200,0,150,bm25,5,0.0,1.0,1.0,1.0,3,4
+e7e49e6b2fce71d19e286bf86807aee0_1,Resources for non US citizens#3_0,200,0,150,e5,5,0.0,1.0,1.0,1.0,3,4
+e7e49e6b2fce71d19e286bf86807aee0_1,Resources for non US citizens#3_0,200,0,175,bm25,5,0.4375,0.5,0.9354065360342155,1.0,3,4
+e7e49e6b2fce71d19e286bf86807aee0_1,Resources for non US citizens#3_0,200,0,175,e5,5,0.4375,1.0,0.9337709933126735,1.0,3,4
+e68a76105466f5d7c54a88d4427de19d_1,Resources for non US citizens#3_0,200,0,0,bm25,5,0.0,1.0,1.0,1.0,2,4
+e68a76105466f5d7c54a88d4427de19d_1,Resources for non US citizens#3_0,200,0,0,e5,5,0.0,0.3333333333333333,0.5,1.0,2,4
+e68a76105466f5d7c54a88d4427de19d_1,Resources for non US citizens#3_0,200,0,25,bm25,5,0.0,1.0,1.0,1.0,3,4
+e68a76105466f5d7c54a88d4427de19d_1,Resources for non US citizens#3_0,200,0,25,e5,5,0.0,0.25,0.38685280723454163,1.0,3,4
+e68a76105466f5d7c54a88d4427de19d_1,Resources for non US citizens#3_0,200,0,50,bm25,5,0.0,1.0,1.0,1.0,3,4
+e68a76105466f5d7c54a88d4427de19d_1,Resources for non US citizens#3_0,200,0,50,e5,5,0.0,0.5,1.0,1.0,3,4
+e68a76105466f5d7c54a88d4427de19d_1,Resources for non US citizens#3_0,200,0,75,bm25,5,0.0,1.0,1.0,1.0,3,4
+e68a76105466f5d7c54a88d4427de19d_1,Resources for non US citizens#3_0,200,0,75,e5,5,0.0,1.0,1.0,1.0,3,4
+e68a76105466f5d7c54a88d4427de19d_1,Resources for non US citizens#3_0,200,0,100,bm25,5,0.0,1.0,1.0,1.0,3,4
+e68a76105466f5d7c54a88d4427de19d_1,Resources for non US citizens#3_0,200,0,100,e5,5,0.0,1.0,1.0,1.0,3,4
+e68a76105466f5d7c54a88d4427de19d_1,Resources for non US citizens#3_0,200,0,125,bm25,5,0.0,1.0,1.0,1.0,3,4
+e68a76105466f5d7c54a88d4427de19d_1,Resources for non US citizens#3_0,200,0,125,e5,5,0.0,0.5,1.0,1.0,3,4
+e68a76105466f5d7c54a88d4427de19d_1,Resources for non US citizens#3_0,200,0,150,bm25,5,0.0,1.0,1.0,1.0,3,4
+e68a76105466f5d7c54a88d4427de19d_1,Resources for non US citizens#3_0,200,0,150,e5,5,0.0,1.0,1.0,1.0,3,4
+e68a76105466f5d7c54a88d4427de19d_1,Resources for non US citizens#3_0,200,0,175,bm25,5,0.4375,0.5,0.8462626333312754,1.0,3,4
+e68a76105466f5d7c54a88d4427de19d_1,Resources for non US citizens#3_0,200,0,175,e5,5,0.4375,0.5,0.9337709933126735,1.0,3,4
+0d004e0aba548a1fbf0f7620ef608fe5_1,Resources for non US citizens#3_0,200,0,0,bm25,5,0.0,1.0,1.0,1.0,2,4
+0d004e0aba548a1fbf0f7620ef608fe5_1,Resources for non US citizens#3_0,200,0,0,e5,5,0.0,0.3333333333333333,0.5,1.0,2,4
+0d004e0aba548a1fbf0f7620ef608fe5_1,Resources for non US citizens#3_0,200,0,25,bm25,5,0.0,1.0,1.0,1.0,3,4
+0d004e0aba548a1fbf0f7620ef608fe5_1,Resources for non US citizens#3_0,200,0,25,e5,5,0.0,0.3333333333333333,0.43067655807339306,1.0,3,4
+0d004e0aba548a1fbf0f7620ef608fe5_1,Resources for non US citizens#3_0,200,0,50,bm25,5,0.0,1.0,1.0,1.0,3,4
+0d004e0aba548a1fbf0f7620ef608fe5_1,Resources for non US citizens#3_0,200,0,50,e5,5,0.0,1.0,1.0,1.0,3,4
+0d004e0aba548a1fbf0f7620ef608fe5_1,Resources for non US citizens#3_0,200,0,75,bm25,5,0.0,1.0,1.0,1.0,3,4
+0d004e0aba548a1fbf0f7620ef608fe5_1,Resources for non US citizens#3_0,200,0,75,e5,5,0.0,1.0,1.0,1.0,3,4
+0d004e0aba548a1fbf0f7620ef608fe5_1,Resources for non US citizens#3_0,200,0,100,bm25,5,0.0,1.0,1.0,1.0,3,4
+0d004e0aba548a1fbf0f7620ef608fe5_1,Resources for non US citizens#3_0,200,0,100,e5,5,0.0,1.0,1.0,1.0,3,4
+0d004e0aba548a1fbf0f7620ef608fe5_1,Resources for non US citizens#3_0,200,0,125,bm25,5,0.0,1.0,1.0,1.0,3,4
+0d004e0aba548a1fbf0f7620ef608fe5_1,Resources for non US citizens#3_0,200,0,125,e5,5,0.0,1.0,1.0,1.0,3,4
+0d004e0aba548a1fbf0f7620ef608fe5_1,Resources for non US citizens#3_0,200,0,150,bm25,5,0.0,1.0,1.0,1.0,3,4
+0d004e0aba548a1fbf0f7620ef608fe5_1,Resources for non US citizens#3_0,200,0,150,e5,5,0.0,1.0,1.0,1.0,3,4
+0d004e0aba548a1fbf0f7620ef608fe5_1,Resources for non US citizens#3_0,200,0,175,bm25,5,0.4375,0.5,0.9354065360342155,1.0,3,4
+0d004e0aba548a1fbf0f7620ef608fe5_1,Resources for non US citizens#3_0,200,0,175,e5,5,0.4375,1.0,0.9337709933126735,1.0,3,4
+7998f55ae98200142ab866334148bf8e_1,Resources for non US citizens#3_0,200,0,0,bm25,5,0.0,1.0,1.0,1.0,2,4
+7998f55ae98200142ab866334148bf8e_1,Resources for non US citizens#3_0,200,0,0,e5,5,0.0,0.3333333333333333,0.5,1.0,2,4
+7998f55ae98200142ab866334148bf8e_1,Resources for non US citizens#3_0,200,0,25,bm25,5,0.0,1.0,1.0,1.0,3,4
+7998f55ae98200142ab866334148bf8e_1,Resources for non US citizens#3_0,200,0,25,e5,5,0.0,0.25,0.38685280723454163,1.0,3,4
+7998f55ae98200142ab866334148bf8e_1,Resources for non US citizens#3_0,200,0,50,bm25,5,0.0,1.0,1.0,1.0,3,4
+7998f55ae98200142ab866334148bf8e_1,Resources for non US citizens#3_0,200,0,50,e5,5,0.0,0.5,1.0,1.0,3,4
+7998f55ae98200142ab866334148bf8e_1,Resources for non US citizens#3_0,200,0,75,bm25,5,0.0,1.0,1.0,1.0,3,4
+7998f55ae98200142ab866334148bf8e_1,Resources for non US citizens#3_0,200,0,75,e5,5,0.0,1.0,1.0,1.0,3,4
+7998f55ae98200142ab866334148bf8e_1,Resources for non US citizens#3_0,200,0,100,bm25,5,0.0,1.0,1.0,1.0,3,4
+7998f55ae98200142ab866334148bf8e_1,Resources for non US citizens#3_0,200,0,100,e5,5,0.0,0.5,0.6309297535714575,1.0,3,4
+7998f55ae98200142ab866334148bf8e_1,Resources for non US citizens#3_0,200,0,125,bm25,5,0.0,1.0,1.0,1.0,3,4
+7998f55ae98200142ab866334148bf8e_1,Resources for non US citizens#3_0,200,0,125,e5,5,0.0,0.5,1.0,1.0,3,4
+7998f55ae98200142ab866334148bf8e_1,Resources for non US citizens#3_0,200,0,150,bm25,5,0.0,1.0,1.0,1.0,3,4
+7998f55ae98200142ab866334148bf8e_1,Resources for non US citizens#3_0,200,0,150,e5,5,0.0,1.0,1.0,1.0,3,4
+7998f55ae98200142ab866334148bf8e_1,Resources for non US citizens#3_0,200,0,175,bm25,5,0.4375,0.5,0.8462626333312754,1.0,3,4
+7998f55ae98200142ab866334148bf8e_1,Resources for non US citizens#3_0,200,0,175,e5,5,0.4375,1.0,0.9337709933126735,1.0,3,4
+f3dfc02c84bbadf130a2c2ab006c9344_1,Resources for non US citizens#3_0,200,0,0,bm25,5,0.0,1.0,1.0,1.0,2,4
+f3dfc02c84bbadf130a2c2ab006c9344_1,Resources for non US citizens#3_0,200,0,0,e5,5,0.0,0.5,0.6309297535714575,1.0,2,4
+f3dfc02c84bbadf130a2c2ab006c9344_1,Resources for non US citizens#3_0,200,0,25,bm25,5,0.0,1.0,1.0,1.0,3,4
+f3dfc02c84bbadf130a2c2ab006c9344_1,Resources for non US citizens#3_0,200,0,25,e5,5,0.0,0.3333333333333333,0.43067655807339306,1.0,3,4
+f3dfc02c84bbadf130a2c2ab006c9344_1,Resources for non US citizens#3_0,200,0,50,bm25,5,0.0,1.0,1.0,1.0,3,4
+f3dfc02c84bbadf130a2c2ab006c9344_1,Resources for non US citizens#3_0,200,0,50,e5,5,0.0,1.0,1.0,1.0,3,4
+f3dfc02c84bbadf130a2c2ab006c9344_1,Resources for non US citizens#3_0,200,0,75,bm25,5,0.0,1.0,1.0,1.0,3,4
+f3dfc02c84bbadf130a2c2ab006c9344_1,Resources for non US citizens#3_0,200,0,75,e5,5,0.0,1.0,1.0,1.0,3,4
+f3dfc02c84bbadf130a2c2ab006c9344_1,Resources for non US citizens#3_0,200,0,100,bm25,5,0.0,1.0,1.0,1.0,3,4
+f3dfc02c84bbadf130a2c2ab006c9344_1,Resources for non US citizens#3_0,200,0,100,e5,5,0.0,1.0,1.0,1.0,3,4
+f3dfc02c84bbadf130a2c2ab006c9344_1,Resources for non US citizens#3_0,200,0,125,bm25,5,0.0,1.0,1.0,1.0,3,4
+f3dfc02c84bbadf130a2c2ab006c9344_1,Resources for non US citizens#3_0,200,0,125,e5,5,0.0,1.0,1.0,1.0,3,4
+f3dfc02c84bbadf130a2c2ab006c9344_1,Resources for non US citizens#3_0,200,0,150,bm25,5,0.0,1.0,1.0,1.0,3,4
+f3dfc02c84bbadf130a2c2ab006c9344_1,Resources for non US citizens#3_0,200,0,150,e5,5,0.0,1.0,1.0,1.0,3,4
+f3dfc02c84bbadf130a2c2ab006c9344_1,Resources for non US citizens#3_0,200,0,175,bm25,5,0.4375,1.0,0.9354065360342155,1.0,3,4
+f3dfc02c84bbadf130a2c2ab006c9344_1,Resources for non US citizens#3_0,200,0,175,e5,5,0.4375,1.0,1.0,1.0,3,4
+403120de58f89888ae4a4a61d2daa5d2_1,Register a snowmobile#1_0,200,0,0,bm25,5,0.0,1.0,1.0,1.0,2,5
+403120de58f89888ae4a4a61d2daa5d2_1,Register a snowmobile#1_0,200,0,0,e5,5,0.0,1.0,1.0,1.0,2,5
+403120de58f89888ae4a4a61d2daa5d2_1,Register a snowmobile#1_0,200,0,25,bm25,5,0.0,1.0,1.0,1.0,3,5
+403120de58f89888ae4a4a61d2daa5d2_1,Register a snowmobile#1_0,200,0,25,e5,5,0.0,1.0,1.0,1.0,3,5
+403120de58f89888ae4a4a61d2daa5d2_1,Register a snowmobile#1_0,200,0,50,bm25,5,0.0,1.0,1.0,1.0,3,5
+403120de58f89888ae4a4a61d2daa5d2_1,Register a snowmobile#1_0,200,0,50,e5,5,0.0,1.0,1.0,1.0,3,5
+403120de58f89888ae4a4a61d2daa5d2_1,Register a snowmobile#1_0,200,0,75,bm25,5,0.0,1.0,1.0,1.0,3,5
+403120de58f89888ae4a4a61d2daa5d2_1,Register a snowmobile#1_0,200,0,75,e5,5,0.0,1.0,1.0,1.0,3,5
+403120de58f89888ae4a4a61d2daa5d2_1,Register a snowmobile#1_0,200,0,100,bm25,5,0.0,1.0,1.0,1.0,3,5
+403120de58f89888ae4a4a61d2daa5d2_1,Register a snowmobile#1_0,200,0,100,e5,5,0.0,1.0,1.0,1.0,3,5
+403120de58f89888ae4a4a61d2daa5d2_1,Register a snowmobile#1_0,200,0,125,bm25,5,0.0,1.0,1.0,1.0,3,5
+403120de58f89888ae4a4a61d2daa5d2_1,Register a snowmobile#1_0,200,0,125,e5,5,0.0,1.0,1.0,1.0,3,5
+403120de58f89888ae4a4a61d2daa5d2_1,Register a snowmobile#1_0,200,0,150,bm25,5,0.0,1.0,1.0,1.0,3,5
+403120de58f89888ae4a4a61d2daa5d2_1,Register a snowmobile#1_0,200,0,150,e5,5,0.0,1.0,1.0,1.0,3,5
+403120de58f89888ae4a4a61d2daa5d2_1,Register a snowmobile#1_0,200,0,175,bm25,5,0.16666666666666663,0.3333333333333333,0.645459860482838,1.0,3,5
+403120de58f89888ae4a4a61d2daa5d2_1,Register a snowmobile#1_0,200,0,175,e5,5,0.16666666666666663,1.0,1.0,1.0,3,5
+1c04ff155c14162cd4bc95a9362de3ac_1,Moving to NY#3_0,200,0,0,bm25,5,0.39473684210526316,1.0,0.8940935832947461,1.0,1,3
+1c04ff155c14162cd4bc95a9362de3ac_1,Moving to NY#3_0,200,0,0,e5,5,0.39473684210526316,1.0,0.8940935832947461,1.0,1,3
+1c04ff155c14162cd4bc95a9362de3ac_1,Moving to NY#3_0,200,0,25,bm25,5,0.0,1.0,1.0,1.0,1,3
+1c04ff155c14162cd4bc95a9362de3ac_1,Moving to NY#3_0,200,0,25,e5,5,0.0,1.0,1.0,1.0,1,3
+1c04ff155c14162cd4bc95a9362de3ac_1,Moving to NY#3_0,200,0,50,bm25,5,0.0,1.0,1.0,1.0,1,3
+1c04ff155c14162cd4bc95a9362de3ac_1,Moving to NY#3_0,200,0,50,e5,5,0.0,1.0,1.0,1.0,1,3
+1c04ff155c14162cd4bc95a9362de3ac_1,Moving to NY#3_0,200,0,75,bm25,5,0.0,1.0,1.0,1.0,1,3
+1c04ff155c14162cd4bc95a9362de3ac_1,Moving to NY#3_0,200,0,75,e5,5,0.0,1.0,1.0,1.0,1,3
+1c04ff155c14162cd4bc95a9362de3ac_1,Moving to NY#3_0,200,0,100,bm25,5,0.0,1.0,1.0,1.0,1,3
+1c04ff155c14162cd4bc95a9362de3ac_1,Moving to NY#3_0,200,0,100,e5,5,0.0,1.0,1.0,1.0,1,3
+1c04ff155c14162cd4bc95a9362de3ac_1,Moving to NY#3_0,200,0,125,bm25,5,0.0,1.0,1.0,1.0,1,3
+1c04ff155c14162cd4bc95a9362de3ac_1,Moving to NY#3_0,200,0,125,e5,5,0.0,1.0,1.0,1.0,1,3
+1c04ff155c14162cd4bc95a9362de3ac_1,Moving to NY#3_0,200,0,150,bm25,5,0.0,1.0,1.0,1.0,1,3
+1c04ff155c14162cd4bc95a9362de3ac_1,Moving to NY#3_0,200,0,150,e5,5,0.0,1.0,1.0,1.0,1,3
+1c04ff155c14162cd4bc95a9362de3ac_1,Moving to NY#3_0,200,0,175,bm25,5,0.0,1.0,1.0,1.0,1,3
+1c04ff155c14162cd4bc95a9362de3ac_1,Moving to NY#3_0,200,0,175,e5,5,0.0,1.0,1.0,1.0,1,3
+af261bab358c4713e8973222e20c1c81_1,Moving to NY#3_0,200,0,0,bm25,5,0.0,1.0,1.0,1.0,2,4
+af261bab358c4713e8973222e20c1c81_1,Moving to NY#3_0,200,0,0,e5,5,0.0,1.0,1.0,1.0,2,4
+af261bab358c4713e8973222e20c1c81_1,Moving to NY#3_0,200,0,25,bm25,5,0.0,1.0,1.0,1.0,3,4
+af261bab358c4713e8973222e20c1c81_1,Moving to NY#3_0,200,0,25,e5,5,0.0,1.0,1.0,1.0,3,4
+af261bab358c4713e8973222e20c1c81_1,Moving to NY#3_0,200,0,50,bm25,5,0.0,0.5,1.0,1.0,3,4
+af261bab358c4713e8973222e20c1c81_1,Moving to NY#3_0,200,0,50,e5,5,0.0,1.0,1.0,1.0,3,4
+af261bab358c4713e8973222e20c1c81_1,Moving to NY#3_0,200,0,75,bm25,5,0.28125,1.0,0.9639410514814108,1.0,2,4
+af261bab358c4713e8973222e20c1c81_1,Moving to NY#3_0,200,0,75,e5,5,0.28125,1.0,0.7967047390814129,1.0,2,4
+af261bab358c4713e8973222e20c1c81_1,Moving to NY#3_0,200,0,100,bm25,5,0.0,1.0,1.0,1.0,2,4
+af261bab358c4713e8973222e20c1c81_1,Moving to NY#3_0,200,0,100,e5,5,0.0,1.0,1.0,1.0,2,4
+af261bab358c4713e8973222e20c1c81_1,Moving to NY#3_0,200,0,125,bm25,5,0.0,1.0,1.0,1.0,2,4
+af261bab358c4713e8973222e20c1c81_1,Moving to NY#3_0,200,0,125,e5,5,0.0,1.0,1.0,1.0,2,4
+af261bab358c4713e8973222e20c1c81_1,Moving to NY#3_0,200,0,150,bm25,5,0.0,1.0,1.0,1.0,2,4
+af261bab358c4713e8973222e20c1c81_1,Moving to NY#3_0,200,0,150,e5,5,0.0,1.0,1.0,1.0,2,4
+af261bab358c4713e8973222e20c1c81_1,Moving to NY#3_0,200,0,175,bm25,5,0.0,1.0,1.0,1.0,2,4
+af261bab358c4713e8973222e20c1c81_1,Moving to NY#3_0,200,0,175,e5,5,0.0,1.0,1.0,1.0,2,4
+e3425cb157334260b3bd4de94983f887_1,Moving to NY#3_0,200,0,0,bm25,5,0.39473684210526316,1.0,0.8940935832947461,1.0,1,3
+e3425cb157334260b3bd4de94983f887_1,Moving to NY#3_0,200,0,0,e5,5,0.39473684210526316,1.0,0.8940935832947461,1.0,1,3
+e3425cb157334260b3bd4de94983f887_1,Moving to NY#3_0,200,0,25,bm25,5,0.0,1.0,1.0,1.0,1,3
+e3425cb157334260b3bd4de94983f887_1,Moving to NY#3_0,200,0,25,e5,5,0.0,1.0,1.0,1.0,1,3
+e3425cb157334260b3bd4de94983f887_1,Moving to NY#3_0,200,0,50,bm25,5,0.0,1.0,1.0,1.0,1,3
+e3425cb157334260b3bd4de94983f887_1,Moving to NY#3_0,200,0,50,e5,5,0.0,1.0,1.0,1.0,1,3
+e3425cb157334260b3bd4de94983f887_1,Moving to NY#3_0,200,0,75,bm25,5,0.0,1.0,1.0,1.0,1,3
+e3425cb157334260b3bd4de94983f887_1,Moving to NY#3_0,200,0,75,e5,5,0.0,1.0,1.0,1.0,1,3
+e3425cb157334260b3bd4de94983f887_1,Moving to NY#3_0,200,0,100,bm25,5,0.0,1.0,1.0,1.0,1,3
+e3425cb157334260b3bd4de94983f887_1,Moving to NY#3_0,200,0,100,e5,5,0.0,1.0,1.0,1.0,1,3
+e3425cb157334260b3bd4de94983f887_1,Moving to NY#3_0,200,0,125,bm25,5,0.0,1.0,1.0,1.0,1,3
+e3425cb157334260b3bd4de94983f887_1,Moving to NY#3_0,200,0,125,e5,5,0.0,1.0,1.0,1.0,1,3
+e3425cb157334260b3bd4de94983f887_1,Moving to NY#3_0,200,0,150,bm25,5,0.0,1.0,1.0,1.0,1,3
+e3425cb157334260b3bd4de94983f887_1,Moving to NY#3_0,200,0,150,e5,5,0.0,1.0,1.0,1.0,1,3
+e3425cb157334260b3bd4de94983f887_1,Moving to NY#3_0,200,0,175,bm25,5,0.0,1.0,1.0,1.0,1,3
+e3425cb157334260b3bd4de94983f887_1,Moving to NY#3_0,200,0,175,e5,5,0.0,1.0,1.0,1.0,1,3
+5e581647369af82487b785ae35416a25_1,Moving to NY#3_0,200,0,0,bm25,5,0.39473684210526316,1.0,0.8940935832947461,1.0,1,3
+5e581647369af82487b785ae35416a25_1,Moving to NY#3_0,200,0,0,e5,5,0.39473684210526316,1.0,0.8940935832947461,1.0,1,3
+5e581647369af82487b785ae35416a25_1,Moving to NY#3_0,200,0,25,bm25,5,0.0,1.0,1.0,1.0,1,3
+5e581647369af82487b785ae35416a25_1,Moving to NY#3_0,200,0,25,e5,5,0.0,1.0,1.0,1.0,1,3
+5e581647369af82487b785ae35416a25_1,Moving to NY#3_0,200,0,50,bm25,5,0.0,1.0,1.0,1.0,1,3
+5e581647369af82487b785ae35416a25_1,Moving to NY#3_0,200,0,50,e5,5,0.0,1.0,1.0,1.0,1,3
+5e581647369af82487b785ae35416a25_1,Moving to NY#3_0,200,0,75,bm25,5,0.0,1.0,1.0,1.0,1,3
+5e581647369af82487b785ae35416a25_1,Moving to NY#3_0,200,0,75,e5,5,0.0,1.0,1.0,1.0,1,3
+5e581647369af82487b785ae35416a25_1,Moving to NY#3_0,200,0,100,bm25,5,0.0,1.0,1.0,1.0,1,3
+5e581647369af82487b785ae35416a25_1,Moving to NY#3_0,200,0,100,e5,5,0.0,1.0,1.0,1.0,1,3
+5e581647369af82487b785ae35416a25_1,Moving to NY#3_0,200,0,125,bm25,5,0.0,1.0,1.0,1.0,1,3
+5e581647369af82487b785ae35416a25_1,Moving to NY#3_0,200,0,125,e5,5,0.0,1.0,1.0,1.0,1,3
+5e581647369af82487b785ae35416a25_1,Moving to NY#3_0,200,0,150,bm25,5,0.0,1.0,1.0,1.0,1,3
+5e581647369af82487b785ae35416a25_1,Moving to NY#3_0,200,0,150,e5,5,0.0,1.0,1.0,1.0,1,3
+5e581647369af82487b785ae35416a25_1,Moving to NY#3_0,200,0,175,bm25,5,0.0,1.0,1.0,1.0,1,3
+5e581647369af82487b785ae35416a25_1,Moving to NY#3_0,200,0,175,e5,5,0.0,1.0,1.0,1.0,1,3
+8d816b5204a19ae320ad8ecaee124b10_1,Moving to NY#3_0,200,0,0,bm25,5,0.0,1.0,1.0,1.0,2,4
+8d816b5204a19ae320ad8ecaee124b10_1,Moving to NY#3_0,200,0,0,e5,5,0.0,1.0,1.0,1.0,2,4
+8d816b5204a19ae320ad8ecaee124b10_1,Moving to NY#3_0,200,0,25,bm25,5,0.0,1.0,1.0,1.0,3,4
+8d816b5204a19ae320ad8ecaee124b10_1,Moving to NY#3_0,200,0,25,e5,5,0.0,1.0,1.0,1.0,3,4
+8d816b5204a19ae320ad8ecaee124b10_1,Moving to NY#3_0,200,0,50,bm25,5,0.0,0.5,1.0,1.0,3,4
+8d816b5204a19ae320ad8ecaee124b10_1,Moving to NY#3_0,200,0,50,e5,5,0.0,1.0,1.0,1.0,3,4
+8d816b5204a19ae320ad8ecaee124b10_1,Moving to NY#3_0,200,0,75,bm25,5,0.28125,1.0,0.9639410514814108,1.0,2,4
+8d816b5204a19ae320ad8ecaee124b10_1,Moving to NY#3_0,200,0,75,e5,5,0.28125,1.0,0.7967047390814129,1.0,2,4
+8d816b5204a19ae320ad8ecaee124b10_1,Moving to NY#3_0,200,0,100,bm25,5,0.0,1.0,1.0,1.0,2,4
+8d816b5204a19ae320ad8ecaee124b10_1,Moving to NY#3_0,200,0,100,e5,5,0.0,1.0,1.0,1.0,2,4
+8d816b5204a19ae320ad8ecaee124b10_1,Moving to NY#3_0,200,0,125,bm25,5,0.0,1.0,1.0,1.0,2,4
+8d816b5204a19ae320ad8ecaee124b10_1,Moving to NY#3_0,200,0,125,e5,5,0.0,1.0,1.0,1.0,2,4
+8d816b5204a19ae320ad8ecaee124b10_1,Moving to NY#3_0,200,0,150,bm25,5,0.0,1.0,1.0,1.0,2,4
+8d816b5204a19ae320ad8ecaee124b10_1,Moving to NY#3_0,200,0,150,e5,5,0.0,1.0,1.0,1.0,2,4
+8d816b5204a19ae320ad8ecaee124b10_1,Moving to NY#3_0,200,0,175,bm25,5,0.0,1.0,1.0,1.0,2,4
+8d816b5204a19ae320ad8ecaee124b10_1,Moving to NY#3_0,200,0,175,e5,5,0.0,1.0,1.0,1.0,2,4
+6ca24debeeed39e9aef5a17d20236efc_1,Moving to NY#3_0,200,0,0,bm25,5,0.39473684210526316,1.0,1.0,1.0,1,3
+6ca24debeeed39e9aef5a17d20236efc_1,Moving to NY#3_0,200,0,0,e5,5,0.39473684210526316,1.0,0.8940935832947461,1.0,1,3
+6ca24debeeed39e9aef5a17d20236efc_1,Moving to NY#3_0,200,0,25,bm25,5,0.0,1.0,0.6309297535714575,1.0,1,3
+6ca24debeeed39e9aef5a17d20236efc_1,Moving to NY#3_0,200,0,25,e5,5,0.0,1.0,1.0,1.0,1,3
+6ca24debeeed39e9aef5a17d20236efc_1,Moving to NY#3_0,200,0,50,bm25,5,0.0,1.0,0.6309297535714575,1.0,1,3
+6ca24debeeed39e9aef5a17d20236efc_1,Moving to NY#3_0,200,0,50,e5,5,0.0,1.0,1.0,1.0,1,3
+6ca24debeeed39e9aef5a17d20236efc_1,Moving to NY#3_0,200,0,75,bm25,5,0.0,1.0,1.0,1.0,1,3
+6ca24debeeed39e9aef5a17d20236efc_1,Moving to NY#3_0,200,0,75,e5,5,0.0,1.0,1.0,1.0,1,3
+6ca24debeeed39e9aef5a17d20236efc_1,Moving to NY#3_0,200,0,100,bm25,5,0.0,1.0,1.0,1.0,1,3
+6ca24debeeed39e9aef5a17d20236efc_1,Moving to NY#3_0,200,0,100,e5,5,0.0,1.0,1.0,1.0,1,3
+6ca24debeeed39e9aef5a17d20236efc_1,Moving to NY#3_0,200,0,125,bm25,5,0.0,1.0,1.0,1.0,1,3
+6ca24debeeed39e9aef5a17d20236efc_1,Moving to NY#3_0,200,0,125,e5,5,0.0,1.0,1.0,1.0,1,3
+6ca24debeeed39e9aef5a17d20236efc_1,Moving to NY#3_0,200,0,150,bm25,5,0.0,1.0,1.0,1.0,1,3
+6ca24debeeed39e9aef5a17d20236efc_1,Moving to NY#3_0,200,0,150,e5,5,0.0,1.0,1.0,1.0,1,3
+6ca24debeeed39e9aef5a17d20236efc_1,Moving to NY#3_0,200,0,175,bm25,5,0.0,1.0,1.0,1.0,1,3
+6ca24debeeed39e9aef5a17d20236efc_1,Moving to NY#3_0,200,0,175,e5,5,0.0,1.0,1.0,1.0,1,3
+060bb53cbcd94060ea4adf313756d335_1,NY State Adventure License FAQs#3_0,200,0,0,bm25,5,0.0,1.0,1.0,1.0,2,4
+060bb53cbcd94060ea4adf313756d335_1,NY State Adventure License FAQs#3_0,200,0,0,e5,5,0.0,1.0,1.0,1.0,2,4
+060bb53cbcd94060ea4adf313756d335_1,NY State Adventure License FAQs#3_0,200,0,25,bm25,5,0.0,1.0,1.0,1.0,3,4
+060bb53cbcd94060ea4adf313756d335_1,NY State Adventure License FAQs#3_0,200,0,25,e5,5,0.0,1.0,1.0,1.0,3,4
+060bb53cbcd94060ea4adf313756d335_1,NY State Adventure License FAQs#3_0,200,0,50,bm25,5,0.4,1.0,0.8990458495965639,1.0,3,4
+060bb53cbcd94060ea4adf313756d335_1,NY State Adventure License FAQs#3_0,200,0,50,e5,5,0.4,1.0,0.9416800763164968,1.0,3,4
+060bb53cbcd94060ea4adf313756d335_1,NY State Adventure License FAQs#3_0,200,0,75,bm25,5,0.0,1.0,1.0,1.0,2,4
+060bb53cbcd94060ea4adf313756d335_1,NY State Adventure License FAQs#3_0,200,0,75,e5,5,0.0,1.0,0.6309297535714575,1.0,2,4
+060bb53cbcd94060ea4adf313756d335_1,NY State Adventure License FAQs#3_0,200,0,100,bm25,5,0.0,1.0,1.0,1.0,2,4
+060bb53cbcd94060ea4adf313756d335_1,NY State Adventure License FAQs#3_0,200,0,100,e5,5,0.0,1.0,1.0,1.0,2,4
+060bb53cbcd94060ea4adf313756d335_1,NY State Adventure License FAQs#3_0,200,0,125,bm25,5,0.0,1.0,1.0,1.0,2,4
+060bb53cbcd94060ea4adf313756d335_1,NY State Adventure License FAQs#3_0,200,0,125,e5,5,0.0,1.0,0.6309297535714575,1.0,2,4
+060bb53cbcd94060ea4adf313756d335_1,NY State Adventure License FAQs#3_0,200,0,150,bm25,5,0.0,1.0,1.0,1.0,2,4
+060bb53cbcd94060ea4adf313756d335_1,NY State Adventure License FAQs#3_0,200,0,150,e5,5,0.0,1.0,1.0,1.0,2,4
+060bb53cbcd94060ea4adf313756d335_1,NY State Adventure License FAQs#3_0,200,0,175,bm25,5,0.0,1.0,1.0,1.0,2,4
+060bb53cbcd94060ea4adf313756d335_1,NY State Adventure License FAQs#3_0,200,0,175,e5,5,0.0,1.0,1.0,1.0,2,4
+f99a36c314571dccd76c64aeb834f7f7_1,Respond to DMV insurance letters and orders#3_0,200,0,0,bm25,5,0.0,1.0,1.0,1.0,1,3
+f99a36c314571dccd76c64aeb834f7f7_1,Respond to DMV insurance letters and orders#3_0,200,0,0,e5,5,0.0,0.5,0.6309297535714575,1.0,1,3
+f99a36c314571dccd76c64aeb834f7f7_1,Respond to DMV insurance letters and orders#3_0,200,0,25,bm25,5,0.0,1.0,1.0,1.0,2,3
+f99a36c314571dccd76c64aeb834f7f7_1,Respond to DMV insurance letters and orders#3_0,200,0,25,e5,5,0.0,1.0,1.0,1.0,2,3
+f99a36c314571dccd76c64aeb834f7f7_1,Respond to DMV insurance letters and orders#3_0,200,0,50,bm25,5,0.040000000000000036,1.0,0.5199833309438412,1.0,1,3
+f99a36c314571dccd76c64aeb834f7f7_1,Respond to DMV insurance letters and orders#3_0,200,0,50,e5,5,0.040000000000000036,0.5,0.5199833309438412,1.0,1,3
+f99a36c314571dccd76c64aeb834f7f7_1,Respond to DMV insurance letters and orders#3_0,200,0,75,bm25,5,0.0,1.0,0.5,1.0,1,3
+f99a36c314571dccd76c64aeb834f7f7_1,Respond to DMV insurance letters and orders#3_0,200,0,75,e5,5,0.0,0.5,0.6309297535714575,1.0,1,3
+f99a36c314571dccd76c64aeb834f7f7_1,Respond to DMV insurance letters and orders#3_0,200,0,100,bm25,5,0.0,1.0,0.5,1.0,1,3
+f99a36c314571dccd76c64aeb834f7f7_1,Respond to DMV insurance letters and orders#3_0,200,0,100,e5,5,0.0,0.5,1.0,1.0,1,3
+f99a36c314571dccd76c64aeb834f7f7_1,Respond to DMV insurance letters and orders#3_0,200,0,125,bm25,5,0.0,1.0,1.0,1.0,1,3
+f99a36c314571dccd76c64aeb834f7f7_1,Respond to DMV insurance letters and orders#3_0,200,0,125,e5,5,0.0,0.5,0.6309297535714575,1.0,1,3
+f99a36c314571dccd76c64aeb834f7f7_1,Respond to DMV insurance letters and orders#3_0,200,0,150,bm25,5,0.0,1.0,1.0,1.0,1,3
+f99a36c314571dccd76c64aeb834f7f7_1,Respond to DMV insurance letters and orders#3_0,200,0,150,e5,5,0.0,0.5,0.6309297535714575,1.0,1,3
+f99a36c314571dccd76c64aeb834f7f7_1,Respond to DMV insurance letters and orders#3_0,200,0,175,bm25,5,0.0,1.0,1.0,1.0,1,3
+f99a36c314571dccd76c64aeb834f7f7_1,Respond to DMV insurance letters and orders#3_0,200,0,175,e5,5,0.0,0.5,1.0,1.0,1,3
+e6b627582fc81a9e6c8312c7f9cd14ef_1,Respond to DMV insurance letters and orders#3_0,200,0,0,bm25,5,0.0,1.0,1.0,1.0,1,3
+e6b627582fc81a9e6c8312c7f9cd14ef_1,Respond to DMV insurance letters and orders#3_0,200,0,0,e5,5,0.0,0.5,0.6309297535714575,1.0,1,3
+e6b627582fc81a9e6c8312c7f9cd14ef_1,Respond to DMV insurance letters and orders#3_0,200,0,25,bm25,5,0.0,1.0,1.0,1.0,2,3
+e6b627582fc81a9e6c8312c7f9cd14ef_1,Respond to DMV insurance letters and orders#3_0,200,0,25,e5,5,0.0,1.0,1.0,1.0,2,3
+e6b627582fc81a9e6c8312c7f9cd14ef_1,Respond to DMV insurance letters and orders#3_0,200,0,50,bm25,5,0.0,1.0,0.5,1.0,2,3
+e6b627582fc81a9e6c8312c7f9cd14ef_1,Respond to DMV insurance letters and orders#3_0,200,0,50,e5,5,0.0,1.0,1.0,1.0,2,3
+e6b627582fc81a9e6c8312c7f9cd14ef_1,Respond to DMV insurance letters and orders#3_0,200,0,75,bm25,5,0.0,1.0,0.5,1.0,2,3
+e6b627582fc81a9e6c8312c7f9cd14ef_1,Respond to DMV insurance letters and orders#3_0,200,0,75,e5,5,0.0,0.5,0.5,1.0,2,3
+e6b627582fc81a9e6c8312c7f9cd14ef_1,Respond to DMV insurance letters and orders#3_0,200,0,100,bm25,5,0.0,1.0,0.6309297535714575,1.0,2,3
+e6b627582fc81a9e6c8312c7f9cd14ef_1,Respond to DMV insurance letters and orders#3_0,200,0,100,e5,5,0.0,1.0,0.6309297535714575,1.0,2,3
+e6b627582fc81a9e6c8312c7f9cd14ef_1,Respond to DMV insurance letters and orders#3_0,200,0,125,bm25,5,0.28,0.3333333333333333,0.6874209778142569,1.0,2,3
+e6b627582fc81a9e6c8312c7f9cd14ef_1,Respond to DMV insurance letters and orders#3_0,200,0,125,e5,5,0.28,0.5,0.5315441607454224,1.0,2,3
+e6b627582fc81a9e6c8312c7f9cd14ef_1,Respond to DMV insurance letters and orders#3_0,200,0,150,bm25,5,0.0,1.0,1.0,1.0,1,3
+e6b627582fc81a9e6c8312c7f9cd14ef_1,Respond to DMV insurance letters and orders#3_0,200,0,150,e5,5,0.0,0.5,0.5,1.0,1,3
+e6b627582fc81a9e6c8312c7f9cd14ef_1,Respond to DMV insurance letters and orders#3_0,200,0,175,bm25,5,0.0,1.0,1.0,1.0,1,3
+e6b627582fc81a9e6c8312c7f9cd14ef_1,Respond to DMV insurance letters and orders#3_0,200,0,175,e5,5,0.0,0.3333333333333333,0.6309297535714575,1.0,1,3
+2f05a8c31b00c1db9cfdfd4b8c05d92a_1,Respond to DMV insurance letters and orders#3_0,200,0,0,bm25,5,0.0,1.0,1.0,1.0,1,3
+2f05a8c31b00c1db9cfdfd4b8c05d92a_1,Respond to DMV insurance letters and orders#3_0,200,0,0,e5,5,0.0,0.5,0.6309297535714575,1.0,1,3
+2f05a8c31b00c1db9cfdfd4b8c05d92a_1,Respond to DMV insurance letters and orders#3_0,200,0,25,bm25,5,0.0,1.0,0.6309297535714575,1.0,2,3
+2f05a8c31b00c1db9cfdfd4b8c05d92a_1,Respond to DMV insurance letters and orders#3_0,200,0,25,e5,5,0.0,1.0,1.0,1.0,2,3
+2f05a8c31b00c1db9cfdfd4b8c05d92a_1,Respond to DMV insurance letters and orders#3_0,200,0,50,bm25,5,0.040000000000000036,1.0,0.9961778256406647,1.0,1,3
+2f05a8c31b00c1db9cfdfd4b8c05d92a_1,Respond to DMV insurance letters and orders#3_0,200,0,50,e5,5,0.040000000000000036,0.5,0.5199833309438412,1.0,1,3
+2f05a8c31b00c1db9cfdfd4b8c05d92a_1,Respond to DMV insurance letters and orders#3_0,200,0,75,bm25,5,0.0,1.0,1.0,1.0,1,3
+2f05a8c31b00c1db9cfdfd4b8c05d92a_1,Respond to DMV insurance letters and orders#3_0,200,0,75,e5,5,0.0,0.5,0.6309297535714575,1.0,1,3
+2f05a8c31b00c1db9cfdfd4b8c05d92a_1,Respond to DMV insurance letters and orders#3_0,200,0,100,bm25,5,0.0,1.0,1.0,1.0,1,3
+2f05a8c31b00c1db9cfdfd4b8c05d92a_1,Respond to DMV insurance letters and orders#3_0,200,0,100,e5,5,0.0,0.5,0.6309297535714575,1.0,1,3
+2f05a8c31b00c1db9cfdfd4b8c05d92a_1,Respond to DMV insurance letters and orders#3_0,200,0,125,bm25,5,0.0,1.0,1.0,1.0,1,3
+2f05a8c31b00c1db9cfdfd4b8c05d92a_1,Respond to DMV insurance letters and orders#3_0,200,0,125,e5,5,0.0,0.5,0.6309297535714575,1.0,1,3
+2f05a8c31b00c1db9cfdfd4b8c05d92a_1,Respond to DMV insurance letters and orders#3_0,200,0,150,bm25,5,0.0,1.0,1.0,1.0,1,3
+2f05a8c31b00c1db9cfdfd4b8c05d92a_1,Respond to DMV insurance letters and orders#3_0,200,0,150,e5,5,0.0,0.5,0.6309297535714575,1.0,1,3
+2f05a8c31b00c1db9cfdfd4b8c05d92a_1,Respond to DMV insurance letters and orders#3_0,200,0,175,bm25,5,0.0,1.0,1.0,1.0,1,3
+2f05a8c31b00c1db9cfdfd4b8c05d92a_1,Respond to DMV insurance letters and orders#3_0,200,0,175,e5,5,0.0,0.5,0.6309297535714575,1.0,1,3
+7e14421a477a702dc9b7a42414a8fd16_1,Respond to DMV insurance letters and orders#3_0,200,0,0,bm25,5,0.0,1.0,1.0,1.0,1,3
+7e14421a477a702dc9b7a42414a8fd16_1,Respond to DMV insurance letters and orders#3_0,200,0,0,e5,5,0.0,0.5,0.6309297535714575,1.0,1,3
+7e14421a477a702dc9b7a42414a8fd16_1,Respond to DMV insurance letters and orders#3_0,200,0,25,bm25,5,0.0,1.0,1.0,1.0,2,3
+7e14421a477a702dc9b7a42414a8fd16_1,Respond to DMV insurance letters and orders#3_0,200,0,25,e5,5,0.0,1.0,1.0,1.0,2,3
+7e14421a477a702dc9b7a42414a8fd16_1,Respond to DMV insurance letters and orders#3_0,200,0,50,bm25,5,0.040000000000000036,0.5,0.9961778256406647,1.0,1,3
+7e14421a477a702dc9b7a42414a8fd16_1,Respond to DMV insurance letters and orders#3_0,200,0,50,e5,5,0.040000000000000036,0.5,0.4411626151919977,1.0,1,3
+7e14421a477a702dc9b7a42414a8fd16_1,Respond to DMV insurance letters and orders#3_0,200,0,75,bm25,5,0.0,0.5,1.0,1.0,1,3
+7e14421a477a702dc9b7a42414a8fd16_1,Respond to DMV insurance letters and orders#3_0,200,0,75,e5,5,0.0,0.5,0.6309297535714575,1.0,1,3
+7e14421a477a702dc9b7a42414a8fd16_1,Respond to DMV insurance letters and orders#3_0,200,0,100,bm25,5,0.0,0.5,1.0,1.0,1,3
+7e14421a477a702dc9b7a42414a8fd16_1,Respond to DMV insurance letters and orders#3_0,200,0,100,e5,5,0.0,0.5,0.6309297535714575,1.0,1,3
+7e14421a477a702dc9b7a42414a8fd16_1,Respond to DMV insurance letters and orders#3_0,200,0,125,bm25,5,0.0,0.5,0.6309297535714575,1.0,1,3
+7e14421a477a702dc9b7a42414a8fd16_1,Respond to DMV insurance letters and orders#3_0,200,0,125,e5,5,0.0,0.5,0.6309297535714575,1.0,1,3
+7e14421a477a702dc9b7a42414a8fd16_1,Respond to DMV insurance letters and orders#3_0,200,0,150,bm25,5,0.0,0.5,0.6309297535714575,1.0,1,3
+7e14421a477a702dc9b7a42414a8fd16_1,Respond to DMV insurance letters and orders#3_0,200,0,150,e5,5,0.0,0.5,0.6309297535714575,1.0,1,3
+7e14421a477a702dc9b7a42414a8fd16_1,Respond to DMV insurance letters and orders#3_0,200,0,175,bm25,5,0.0,0.5,1.0,1.0,1,3
+7e14421a477a702dc9b7a42414a8fd16_1,Respond to DMV insurance letters and orders#3_0,200,0,175,e5,5,0.0,0.5,0.6309297535714575,1.0,1,3
+9a2fc3b0e7747cbeee0851275c44426c_1,Respond to DMV insurance letters and orders#3_0,200,0,0,bm25,5,0.045454545454545414,1.0,0.6320189247042701,1.0,0,2
+9a2fc3b0e7747cbeee0851275c44426c_1,Respond to DMV insurance letters and orders#3_0,200,0,0,e5,5,0.045454545454545414,1.0,0.9956261803710809,1.0,0,2
+9a2fc3b0e7747cbeee0851275c44426c_1,Respond to DMV insurance letters and orders#3_0,200,0,25,bm25,5,0.0,1.0,0.5,1.0,1,2
+9a2fc3b0e7747cbeee0851275c44426c_1,Respond to DMV insurance letters and orders#3_0,200,0,25,e5,5,0.0,1.0,0.6309297535714575,1.0,1,2
+9a2fc3b0e7747cbeee0851275c44426c_1,Respond to DMV insurance letters and orders#3_0,200,0,50,bm25,5,0.0,1.0,0.6309297535714575,1.0,1,2
+9a2fc3b0e7747cbeee0851275c44426c_1,Respond to DMV insurance letters and orders#3_0,200,0,50,e5,5,0.0,0.5,0.5,1.0,1,2
+9a2fc3b0e7747cbeee0851275c44426c_1,Respond to DMV insurance letters and orders#3_0,200,0,75,bm25,5,0.0,1.0,0.6309297535714575,1.0,1,2
+9a2fc3b0e7747cbeee0851275c44426c_1,Respond to DMV insurance letters and orders#3_0,200,0,75,e5,5,0.0,1.0,0.6309297535714575,1.0,1,2
+9a2fc3b0e7747cbeee0851275c44426c_1,Respond to DMV insurance letters and orders#3_0,200,0,100,bm25,5,0.0,1.0,0.6309297535714575,1.0,1,2
+9a2fc3b0e7747cbeee0851275c44426c_1,Respond to DMV insurance letters and orders#3_0,200,0,100,e5,5,0.0,1.0,0.6309297535714575,1.0,1,2
+9a2fc3b0e7747cbeee0851275c44426c_1,Respond to DMV insurance letters and orders#3_0,200,0,125,bm25,5,0.0,1.0,1.0,1.0,1,2
+9a2fc3b0e7747cbeee0851275c44426c_1,Respond to DMV insurance letters and orders#3_0,200,0,125,e5,5,0.0,0.5,0.6309297535714575,1.0,1,2
+9a2fc3b0e7747cbeee0851275c44426c_1,Respond to DMV insurance letters and orders#3_0,200,0,150,bm25,5,0.0,1.0,0.5,1.0,1,2
+9a2fc3b0e7747cbeee0851275c44426c_1,Respond to DMV insurance letters and orders#3_0,200,0,150,e5,5,0.0,1.0,0.6309297535714575,1.0,1,2
+9a2fc3b0e7747cbeee0851275c44426c_1,Respond to DMV insurance letters and orders#3_0,200,0,175,bm25,5,0.0,1.0,0.43067655807339306,1.0,1,2
+9a2fc3b0e7747cbeee0851275c44426c_1,Respond to DMV insurance letters and orders#3_0,200,0,175,e5,5,0.0,1.0,0.6309297535714575,1.0,1,2
+7bcec7013c27d261418177d1b2f6acb2_1,Respond to DMV insurance letters and orders#3_0,200,0,0,bm25,5,0.045454545454545414,1.0,1.0,1.0,0,2
+7bcec7013c27d261418177d1b2f6acb2_1,Respond to DMV insurance letters and orders#3_0,200,0,0,e5,5,0.045454545454545414,1.0,1.0,1.0,0,2
+7bcec7013c27d261418177d1b2f6acb2_1,Respond to DMV insurance letters and orders#3_0,200,0,25,bm25,5,0.0,1.0,1.0,1.0,1,2
+7bcec7013c27d261418177d1b2f6acb2_1,Respond to DMV insurance letters and orders#3_0,200,0,25,e5,5,0.0,1.0,1.0,1.0,1,2
+7bcec7013c27d261418177d1b2f6acb2_1,Respond to DMV insurance letters and orders#3_0,200,0,50,bm25,5,0.0,1.0,1.0,1.0,1,2
+7bcec7013c27d261418177d1b2f6acb2_1,Respond to DMV insurance letters and orders#3_0,200,0,50,e5,5,0.0,1.0,1.0,1.0,1,2
+7bcec7013c27d261418177d1b2f6acb2_1,Respond to DMV insurance letters and orders#3_0,200,0,75,bm25,5,0.0,1.0,1.0,1.0,1,2
+7bcec7013c27d261418177d1b2f6acb2_1,Respond to DMV insurance letters and orders#3_0,200,0,75,e5,5,0.0,1.0,1.0,1.0,1,2
+7bcec7013c27d261418177d1b2f6acb2_1,Respond to DMV insurance letters and orders#3_0,200,0,100,bm25,5,0.0,1.0,1.0,1.0,1,2
+7bcec7013c27d261418177d1b2f6acb2_1,Respond to DMV insurance letters and orders#3_0,200,0,100,e5,5,0.0,1.0,1.0,1.0,1,2
+7bcec7013c27d261418177d1b2f6acb2_1,Respond to DMV insurance letters and orders#3_0,200,0,125,bm25,5,0.0,1.0,1.0,1.0,1,2
+7bcec7013c27d261418177d1b2f6acb2_1,Respond to DMV insurance letters and orders#3_0,200,0,125,e5,5,0.0,1.0,1.0,1.0,1,2
+7bcec7013c27d261418177d1b2f6acb2_1,Respond to DMV insurance letters and orders#3_0,200,0,150,bm25,5,0.0,1.0,1.0,1.0,1,2
+7bcec7013c27d261418177d1b2f6acb2_1,Respond to DMV insurance letters and orders#3_0,200,0,150,e5,5,0.0,1.0,1.0,1.0,1,2
+7bcec7013c27d261418177d1b2f6acb2_1,Respond to DMV insurance letters and orders#3_0,200,0,175,bm25,5,0.0,1.0,1.0,1.0,1,2
+7bcec7013c27d261418177d1b2f6acb2_1,Respond to DMV insurance letters and orders#3_0,200,0,175,e5,5,0.0,1.0,1.0,1.0,1,2
+7216ea613cf7874420d57dd2f339b1c3_1,Disability Benefits | Social Security Administration#2_0,200,0,0,bm25,5,0.0,1.0,1.0,1.0,4,7
+7216ea613cf7874420d57dd2f339b1c3_1,Disability Benefits | Social Security Administration#2_0,200,0,0,e5,5,0.0,1.0,1.0,1.0,4,7
+7216ea613cf7874420d57dd2f339b1c3_1,Disability Benefits | Social Security Administration#2_0,200,0,25,bm25,5,0.0,1.0,1.0,1.0,5,7
+7216ea613cf7874420d57dd2f339b1c3_1,Disability Benefits | Social Security Administration#2_0,200,0,25,e5,5,0.0,1.0,0.6309297535714575,1.0,5,7
+7216ea613cf7874420d57dd2f339b1c3_1,Disability Benefits | Social Security Administration#2_0,200,0,50,bm25,5,0.0625,0.3333333333333333,0.9885423084228412,1.0,5,7
+7216ea613cf7874420d57dd2f339b1c3_1,Disability Benefits | Social Security Administration#2_0,200,0,50,e5,5,0.0625,1.0,0.9703822969282158,0.9375,5,7
+7216ea613cf7874420d57dd2f339b1c3_1,Disability Benefits | Social Security Administration#2_0,200,0,75,bm25,5,0.0,1.0,1.0,1.0,4,7
+7216ea613cf7874420d57dd2f339b1c3_1,Disability Benefits | Social Security Administration#2_0,200,0,75,e5,5,0.0,0.3333333333333333,0.43067655807339306,1.0,4,7
+7216ea613cf7874420d57dd2f339b1c3_1,Disability Benefits | Social Security Administration#2_0,200,0,100,bm25,5,0.0,1.0,1.0,1.0,4,7
+7216ea613cf7874420d57dd2f339b1c3_1,Disability Benefits | Social Security Administration#2_0,200,0,100,e5,5,0.0,0.3333333333333333,0.6309297535714575,1.0,4,7
+7216ea613cf7874420d57dd2f339b1c3_1,Disability Benefits | Social Security Administration#2_0,200,0,125,bm25,5,0.0,1.0,1.0,1.0,4,7
+7216ea613cf7874420d57dd2f339b1c3_1,Disability Benefits | Social Security Administration#2_0,200,0,125,e5,5,0.0,0.5,1.0,1.0,4,7
+7216ea613cf7874420d57dd2f339b1c3_1,Disability Benefits | Social Security Administration#2_0,200,0,150,bm25,5,0.0,1.0,1.0,1.0,4,7
+7216ea613cf7874420d57dd2f339b1c3_1,Disability Benefits | Social Security Administration#2_0,200,0,150,e5,5,0.0,0.5,1.0,1.0,4,7
+7216ea613cf7874420d57dd2f339b1c3_1,Disability Benefits | Social Security Administration#2_0,200,0,175,bm25,5,0.0,1.0,1.0,1.0,4,7
+7216ea613cf7874420d57dd2f339b1c3_1,Disability Benefits | Social Security Administration#2_0,200,0,175,e5,5,0.0,1.0,1.0,1.0,4,7
+b09922c61586b9398efe4bd77271deef_1,Benefits Planner: Disability | How You Qualify | Social Security Administration#2_0,200,0,0,bm25,5,0.0,1.0,1.0,1.0,2,8
+b09922c61586b9398efe4bd77271deef_1,Benefits Planner: Disability | How You Qualify | Social Security Administration#2_0,200,0,0,e5,5,0.0,0.5,0.6309297535714575,1.0,2,8
+b09922c61586b9398efe4bd77271deef_1,Benefits Planner: Disability | How You Qualify | Social Security Administration#2_0,200,0,25,bm25,5,0.0,1.0,1.0,1.0,3,8
+b09922c61586b9398efe4bd77271deef_1,Benefits Planner: Disability | How You Qualify | Social Security Administration#2_0,200,0,25,e5,5,0.0,0.5,0.6309297535714575,1.0,3,8
+b09922c61586b9398efe4bd77271deef_1,Benefits Planner: Disability | How You Qualify | Social Security Administration#2_0,200,0,50,bm25,5,0.0,1.0,0.5,1.0,3,8
+b09922c61586b9398efe4bd77271deef_1,Benefits Planner: Disability | How You Qualify | Social Security Administration#2_0,200,0,50,e5,5,0.0,0.5,1.0,1.0,3,8
+b09922c61586b9398efe4bd77271deef_1,Benefits Planner: Disability | How You Qualify | Social Security Administration#2_0,200,0,75,bm25,5,0.3125,0.2,0.6264404637844624,1.0,2,8
+b09922c61586b9398efe4bd77271deef_1,Benefits Planner: Disability | How You Qualify | Social Security Administration#2_0,200,0,75,e5,5,0.3125,0.5,0.504761855984463,0.6875,2,8
+b09922c61586b9398efe4bd77271deef_1,Benefits Planner: Disability | How You Qualify | Social Security Administration#2_0,200,0,100,bm25,5,0.0,0.2,0.38685280723454163,1.0,2,8
+b09922c61586b9398efe4bd77271deef_1,Benefits Planner: Disability | How You Qualify | Social Security Administration#2_0,200,0,100,e5,5,0.0,0.3333333333333333,0.43067655807339306,1.0,2,8
+b09922c61586b9398efe4bd77271deef_1,Benefits Planner: Disability | How You Qualify | Social Security Administration#2_0,200,0,125,bm25,5,0.0,0.16666666666666666,0.38685280723454163,1.0,2,8
+b09922c61586b9398efe4bd77271deef_1,Benefits Planner: Disability | How You Qualify | Social Security Administration#2_0,200,0,125,e5,5,0.0,0.5,0.6309297535714575,1.0,2,8
+b09922c61586b9398efe4bd77271deef_1,Benefits Planner: Disability | How You Qualify | Social Security Administration#2_0,200,0,150,bm25,5,0.0,0.16666666666666666,0.0,0.0,2,8
+b09922c61586b9398efe4bd77271deef_1,Benefits Planner: Disability | How You Qualify | Social Security Administration#2_0,200,0,150,e5,5,0.0,0.5,1.0,1.0,2,8
+b09922c61586b9398efe4bd77271deef_1,Benefits Planner: Disability | How You Qualify | Social Security Administration#2_0,200,0,175,bm25,5,0.0,1.0,1.0,1.0,2,8
+b09922c61586b9398efe4bd77271deef_1,Benefits Planner: Disability | How You Qualify | Social Security Administration#2_0,200,0,175,e5,5,0.0,0.5,0.5,1.0,2,8
+e8e7ac1b799ac6a132bd803307d4b707_1,Appeal A Decision | Social Security Administration#2_0,200,0,0,bm25,5,0.0,1.0,1.0,1.0,1,3
+e8e7ac1b799ac6a132bd803307d4b707_1,Appeal A Decision | Social Security Administration#2_0,200,0,0,e5,5,0.0,1.0,1.0,1.0,1,3
+e8e7ac1b799ac6a132bd803307d4b707_1,Appeal A Decision | Social Security Administration#2_0,200,0,25,bm25,5,0.0,1.0,1.0,1.0,2,3
+e8e7ac1b799ac6a132bd803307d4b707_1,Appeal A Decision | Social Security Administration#2_0,200,0,25,e5,5,0.0,1.0,1.0,1.0,2,3
+e8e7ac1b799ac6a132bd803307d4b707_1,Appeal A Decision | Social Security Administration#2_0,200,0,50,bm25,5,0.0,1.0,1.0,1.0,2,3
+e8e7ac1b799ac6a132bd803307d4b707_1,Appeal A Decision | Social Security Administration#2_0,200,0,50,e5,5,0.0,1.0,1.0,1.0,2,3
+e8e7ac1b799ac6a132bd803307d4b707_1,Appeal A Decision | Social Security Administration#2_0,200,0,75,bm25,5,0.0,1.0,1.0,1.0,2,3
+e8e7ac1b799ac6a132bd803307d4b707_1,Appeal A Decision | Social Security Administration#2_0,200,0,75,e5,5,0.0,1.0,1.0,1.0,2,3
+e8e7ac1b799ac6a132bd803307d4b707_1,Appeal A Decision | Social Security Administration#2_0,200,0,100,bm25,5,0.17391304347826086,1.0,0.9803514961923935,1.0,2,3
+e8e7ac1b799ac6a132bd803307d4b707_1,Appeal A Decision | Social Security Administration#2_0,200,0,100,e5,5,0.17391304347826086,1.0,1.0,1.0,2,3
+e8e7ac1b799ac6a132bd803307d4b707_1,Appeal A Decision | Social Security Administration#2_0,200,0,125,bm25,5,0.28260869565217395,0.25,0.7977630793995495,1.0,1,3
+e8e7ac1b799ac6a132bd803307d4b707_1,Appeal A Decision | Social Security Administration#2_0,200,0,125,e5,5,0.28260869565217395,1.0,1.0,1.0,1,3
+e8e7ac1b799ac6a132bd803307d4b707_1,Appeal A Decision | Social Security Administration#2_0,200,0,150,bm25,5,0.0,0.3333333333333333,1.0,1.0,1,3
+e8e7ac1b799ac6a132bd803307d4b707_1,Appeal A Decision | Social Security Administration#2_0,200,0,150,e5,5,0.0,1.0,1.0,1.0,1,3
+e8e7ac1b799ac6a132bd803307d4b707_1,Appeal A Decision | Social Security Administration#2_0,200,0,175,bm25,5,0.0,0.5,0.6309297535714575,1.0,1,3
+e8e7ac1b799ac6a132bd803307d4b707_1,Appeal A Decision | Social Security Administration#2_0,200,0,175,e5,5,0.0,1.0,1.0,1.0,1,3
+fd2aab8d7ff4e0f04ca343879df5df1b_1,Benefits Planner: Retirement | You Can Apply For Retirement Benefits Or Medicare | Social Security Administration#2_0,200,0,0,bm25,5,0.0,1.0,1.0,1.0,1,2
+fd2aab8d7ff4e0f04ca343879df5df1b_1,Benefits Planner: Retirement | You Can Apply For Retirement Benefits Or Medicare | Social Security Administration#2_0,200,0,0,e5,5,0.0,0.5,0.6309297535714575,1.0,1,2
+fd2aab8d7ff4e0f04ca343879df5df1b_1,Benefits Planner: Retirement | You Can Apply For Retirement Benefits Or Medicare | Social Security Administration#2_0,200,0,25,bm25,5,0.43333333333333335,1.0,0.9346697430170148,1.0,2,2
+fd2aab8d7ff4e0f04ca343879df5df1b_1,Benefits Planner: Retirement | You Can Apply For Retirement Benefits Or Medicare | Social Security Administration#2_0,200,0,25,e5,5,0.43333333333333335,0.5,0.6574080826347042,1.0,2,2
+fd2aab8d7ff4e0f04ca343879df5df1b_1,Benefits Planner: Retirement | You Can Apply For Retirement Benefits Or Medicare | Social Security Administration#2_0,200,0,50,bm25,5,0.0,0.5,0.5,1.0,1,2
+fd2aab8d7ff4e0f04ca343879df5df1b_1,Benefits Planner: Retirement | You Can Apply For Retirement Benefits Or Medicare | Social Security Administration#2_0,200,0,50,e5,5,0.0,0.5,0.6309297535714575,1.0,1,2
+fd2aab8d7ff4e0f04ca343879df5df1b_1,Benefits Planner: Retirement | You Can Apply For Retirement Benefits Or Medicare | Social Security Administration#2_0,200,0,75,bm25,5,0.0,0.3333333333333333,0.5,1.0,1,2
+fd2aab8d7ff4e0f04ca343879df5df1b_1,Benefits Planner: Retirement | You Can Apply For Retirement Benefits Or Medicare | Social Security Administration#2_0,200,0,75,e5,5,0.0,0.5,0.5,1.0,1,2
+fd2aab8d7ff4e0f04ca343879df5df1b_1,Benefits Planner: Retirement | You Can Apply For Retirement Benefits Or Medicare | Social Security Administration#2_0,200,0,100,bm25,5,0.0,0.3333333333333333,0.5,1.0,1,2
+fd2aab8d7ff4e0f04ca343879df5df1b_1,Benefits Planner: Retirement | You Can Apply For Retirement Benefits Or Medicare | Social Security Administration#2_0,200,0,100,e5,5,0.0,0.5,0.5,1.0,1,2
+fd2aab8d7ff4e0f04ca343879df5df1b_1,Benefits Planner: Retirement | You Can Apply For Retirement Benefits Or Medicare | Social Security Administration#2_0,200,0,125,bm25,5,0.0,1.0,0.6309297535714575,1.0,1,2
+fd2aab8d7ff4e0f04ca343879df5df1b_1,Benefits Planner: Retirement | You Can Apply For Retirement Benefits Or Medicare | Social Security Administration#2_0,200,0,125,e5,5,0.0,0.5,0.6309297535714575,1.0,1,2
+fd2aab8d7ff4e0f04ca343879df5df1b_1,Benefits Planner: Retirement | You Can Apply For Retirement Benefits Or Medicare | Social Security Administration#2_0,200,0,150,bm25,5,0.0,1.0,1.0,1.0,1,2
+fd2aab8d7ff4e0f04ca343879df5df1b_1,Benefits Planner: Retirement | You Can Apply For Retirement Benefits Or Medicare | Social Security Administration#2_0,200,0,150,e5,5,0.0,0.5,0.6309297535714575,1.0,1,2
+fd2aab8d7ff4e0f04ca343879df5df1b_1,Benefits Planner: Retirement | You Can Apply For Retirement Benefits Or Medicare | Social Security Administration#2_0,200,0,175,bm25,5,0.0,1.0,1.0,1.0,1,2
+fd2aab8d7ff4e0f04ca343879df5df1b_1,Benefits Planner: Retirement | You Can Apply For Retirement Benefits Or Medicare | Social Security Administration#2_0,200,0,175,e5,5,0.0,0.5,0.6309297535714575,1.0,1,2
+e6e7406882ff44ee12c2c9f5d638af42_1,Benefits Planner: Retirement | You Can Apply For Retirement Benefits Or Medicare | Social Security Administration#2_0,200,0,0,bm25,5,0.0,0.5,0.6309297535714575,1.0,1,2
+e6e7406882ff44ee12c2c9f5d638af42_1,Benefits Planner: Retirement | You Can Apply For Retirement Benefits Or Medicare | Social Security Administration#2_0,200,0,0,e5,5,0.0,0.5,0.6309297535714575,1.0,1,2
+e6e7406882ff44ee12c2c9f5d638af42_1,Benefits Planner: Retirement | You Can Apply For Retirement Benefits Or Medicare | Social Security Administration#2_0,200,0,25,bm25,5,0.43333333333333335,0.5,0.9312746845705646,1.0,2,2
+e6e7406882ff44ee12c2c9f5d638af42_1,Benefits Planner: Retirement | You Can Apply For Retirement Benefits Or Medicare | Social Security Administration#2_0,200,0,25,e5,5,0.43333333333333335,1.0,0.6817887762841416,1.0,2,2
+e6e7406882ff44ee12c2c9f5d638af42_1,Benefits Planner: Retirement | You Can Apply For Retirement Benefits Or Medicare | Social Security Administration#2_0,200,0,50,bm25,5,0.0,0.5,0.5,1.0,1,2
+e6e7406882ff44ee12c2c9f5d638af42_1,Benefits Planner: Retirement | You Can Apply For Retirement Benefits Or Medicare | Social Security Administration#2_0,200,0,50,e5,5,0.0,0.5,0.6309297535714575,1.0,1,2
+e6e7406882ff44ee12c2c9f5d638af42_1,Benefits Planner: Retirement | You Can Apply For Retirement Benefits Or Medicare | Social Security Administration#2_0,200,0,75,bm25,5,0.0,0.5,0.5,1.0,1,2
+e6e7406882ff44ee12c2c9f5d638af42_1,Benefits Planner: Retirement | You Can Apply For Retirement Benefits Or Medicare | Social Security Administration#2_0,200,0,75,e5,5,0.0,0.5,0.5,1.0,1,2
+e6e7406882ff44ee12c2c9f5d638af42_1,Benefits Planner: Retirement | You Can Apply For Retirement Benefits Or Medicare | Social Security Administration#2_0,200,0,100,bm25,5,0.0,0.3333333333333333,0.5,1.0,1,2
+e6e7406882ff44ee12c2c9f5d638af42_1,Benefits Planner: Retirement | You Can Apply For Retirement Benefits Or Medicare | Social Security Administration#2_0,200,0,100,e5,5,0.0,0.5,0.5,1.0,1,2
+e6e7406882ff44ee12c2c9f5d638af42_1,Benefits Planner: Retirement | You Can Apply For Retirement Benefits Or Medicare | Social Security Administration#2_0,200,0,125,bm25,5,0.0,0.5,0.6309297535714575,1.0,1,2
+e6e7406882ff44ee12c2c9f5d638af42_1,Benefits Planner: Retirement | You Can Apply For Retirement Benefits Or Medicare | Social Security Administration#2_0,200,0,125,e5,5,0.0,0.5,0.6309297535714575,1.0,1,2
+e6e7406882ff44ee12c2c9f5d638af42_1,Benefits Planner: Retirement | You Can Apply For Retirement Benefits Or Medicare | Social Security Administration#2_0,200,0,150,bm25,5,0.0,0.5,0.6309297535714575,1.0,1,2
+e6e7406882ff44ee12c2c9f5d638af42_1,Benefits Planner: Retirement | You Can Apply For Retirement Benefits Or Medicare | Social Security Administration#2_0,200,0,150,e5,5,0.0,0.5,0.6309297535714575,1.0,1,2
+e6e7406882ff44ee12c2c9f5d638af42_1,Benefits Planner: Retirement | You Can Apply For Retirement Benefits Or Medicare | Social Security Administration#2_0,200,0,175,bm25,5,0.0,0.5,0.6309297535714575,1.0,1,2
+e6e7406882ff44ee12c2c9f5d638af42_1,Benefits Planner: Retirement | You Can Apply For Retirement Benefits Or Medicare | Social Security Administration#2_0,200,0,175,e5,5,0.0,0.5,0.6309297535714575,1.0,1,2
+1d26c96e113baf84f7fa410a4d574cd3_1,Benefits Planner: Retirement | Applying for Medicare Only | Social Security Administration#2_0,200,0,0,bm25,5,0.1842105263157895,1.0,0.9789267529093131,1.0,2,2
+1d26c96e113baf84f7fa410a4d574cd3_1,Benefits Planner: Retirement | Applying for Medicare Only | Social Security Administration#2_0,200,0,0,e5,5,0.1842105263157895,0.5,0.6361774259386594,1.0,2,2
+1d26c96e113baf84f7fa410a4d574cd3_1,Benefits Planner: Retirement | Applying for Medicare Only | Social Security Administration#2_0,200,0,25,bm25,5,0.1578947368421053,0.3333333333333333,0.5279813812062887,1.0,2,2
+1d26c96e113baf84f7fa410a4d574cd3_1,Benefits Planner: Retirement | Applying for Medicare Only | Social Security Administration#2_0,200,0,25,e5,5,0.1578947368421053,0.3333333333333333,0.487851916303739,1.0,2,2
+1d26c96e113baf84f7fa410a4d574cd3_1,Benefits Planner: Retirement | Applying for Medicare Only | Social Security Administration#2_0,200,0,50,bm25,5,0.0,0.5,0.5,1.0,2,2
+1d26c96e113baf84f7fa410a4d574cd3_1,Benefits Planner: Retirement | Applying for Medicare Only | Social Security Administration#2_0,200,0,50,e5,5,0.0,0.3333333333333333,0.43067655807339306,1.0,2,2
+1d26c96e113baf84f7fa410a4d574cd3_1,Benefits Planner: Retirement | Applying for Medicare Only | Social Security Administration#2_0,200,0,75,bm25,5,0.0,0.5,0.5,1.0,2,2
+1d26c96e113baf84f7fa410a4d574cd3_1,Benefits Planner: Retirement | Applying for Medicare Only | Social Security Administration#2_0,200,0,75,e5,5,0.0,0.5,0.5,1.0,2,2
+1d26c96e113baf84f7fa410a4d574cd3_1,Benefits Planner: Retirement | Applying for Medicare Only | Social Security Administration#2_0,200,0,100,bm25,5,0.0,0.5,0.43067655807339306,1.0,2,2
+1d26c96e113baf84f7fa410a4d574cd3_1,Benefits Planner: Retirement | Applying for Medicare Only | Social Security Administration#2_0,200,0,100,e5,5,0.0,0.5,0.6309297535714575,1.0,2,2
+1d26c96e113baf84f7fa410a4d574cd3_1,Benefits Planner: Retirement | Applying for Medicare Only | Social Security Administration#2_0,200,0,125,bm25,5,0.0,1.0,1.0,1.0,2,2
+1d26c96e113baf84f7fa410a4d574cd3_1,Benefits Planner: Retirement | Applying for Medicare Only | Social Security Administration#2_0,200,0,125,e5,5,0.0,1.0,0.6309297535714575,1.0,2,2
+1d26c96e113baf84f7fa410a4d574cd3_1,Benefits Planner: Retirement | Applying for Medicare Only | Social Security Administration#2_0,200,0,150,bm25,5,0.0,1.0,1.0,1.0,2,2
+1d26c96e113baf84f7fa410a4d574cd3_1,Benefits Planner: Retirement | Applying for Medicare Only | Social Security Administration#2_0,200,0,150,e5,5,0.0,1.0,1.0,1.0,2,2
+1d26c96e113baf84f7fa410a4d574cd3_1,Benefits Planner: Retirement | Applying for Medicare Only | Social Security Administration#2_0,200,0,175,bm25,5,0.0,1.0,1.0,1.0,2,2
+1d26c96e113baf84f7fa410a4d574cd3_1,Benefits Planner: Retirement | Applying for Medicare Only | Social Security Administration#2_0,200,0,175,e5,5,0.0,1.0,1.0,1.0,2,2
+e00cf70da5905f9cd93ce847fb7dd865_1,Manage Your Retirement Benefits | SSA#1_0,200,0,0,bm25,5,0.0,0.25,0.43067655807339306,1.0,3,4
+e00cf70da5905f9cd93ce847fb7dd865_1,Manage Your Retirement Benefits | SSA#1_0,200,0,0,e5,5,0.0,0.5,0.6309297535714575,1.0,3,4
+e00cf70da5905f9cd93ce847fb7dd865_1,Manage Your Retirement Benefits | SSA#1_0,200,0,25,bm25,5,0.0,0.25,0.6309297535714575,1.0,4,4
+e00cf70da5905f9cd93ce847fb7dd865_1,Manage Your Retirement Benefits | SSA#1_0,200,0,25,e5,5,0.0,1.0,1.0,1.0,4,4
+e00cf70da5905f9cd93ce847fb7dd865_1,Manage Your Retirement Benefits | SSA#1_0,200,0,50,bm25,5,0.0,0.25,0.38685280723454163,1.0,4,4
+e00cf70da5905f9cd93ce847fb7dd865_1,Manage Your Retirement Benefits | SSA#1_0,200,0,50,e5,5,0.0,1.0,1.0,1.0,4,4
+e00cf70da5905f9cd93ce847fb7dd865_1,Manage Your Retirement Benefits | SSA#1_0,200,0,75,bm25,5,0.0,0.25,0.38685280723454163,1.0,4,4
+e00cf70da5905f9cd93ce847fb7dd865_1,Manage Your Retirement Benefits | SSA#1_0,200,0,75,e5,5,0.0,1.0,1.0,1.0,4,4
+e00cf70da5905f9cd93ce847fb7dd865_1,Manage Your Retirement Benefits | SSA#1_0,200,0,100,bm25,5,0.5,1.0,0.38685280723454163,0.5,3,4
+e00cf70da5905f9cd93ce847fb7dd865_1,Manage Your Retirement Benefits | SSA#1_0,200,0,100,e5,5,0.5,0.3333333333333333,0.6934264036172708,1.0,3,4
+e00cf70da5905f9cd93ce847fb7dd865_1,Manage Your Retirement Benefits | SSA#1_0,200,0,125,bm25,5,0.0,0.25,0.5,1.0,3,4
+e00cf70da5905f9cd93ce847fb7dd865_1,Manage Your Retirement Benefits | SSA#1_0,200,0,125,e5,5,0.0,0.3333333333333333,0.5,1.0,3,4
+e00cf70da5905f9cd93ce847fb7dd865_1,Manage Your Retirement Benefits | SSA#1_0,200,0,150,bm25,5,0.0,0.2,0.38685280723454163,1.0,3,4
+e00cf70da5905f9cd93ce847fb7dd865_1,Manage Your Retirement Benefits | SSA#1_0,200,0,150,e5,5,0.0,0.3333333333333333,0.5,1.0,3,4
+e00cf70da5905f9cd93ce847fb7dd865_1,Manage Your Retirement Benefits | SSA#1_0,200,0,175,bm25,5,0.0,0.2,0.38685280723454163,1.0,3,4
+e00cf70da5905f9cd93ce847fb7dd865_1,Manage Your Retirement Benefits | SSA#1_0,200,0,175,e5,5,0.0,0.5,1.0,1.0,3,4
+68cfebd48e9648cf138535d374e6a5d5_1,Manage Your Retirement Benefits | SSA#1_0,200,0,0,bm25,5,0.0,0.5,0.6309297535714575,1.0,2,4
+68cfebd48e9648cf138535d374e6a5d5_1,Manage Your Retirement Benefits | SSA#1_0,200,0,0,e5,5,0.0,0.3333333333333333,0.5,1.0,2,4
+68cfebd48e9648cf138535d374e6a5d5_1,Manage Your Retirement Benefits | SSA#1_0,200,0,25,bm25,5,0.0,0.5,0.38685280723454163,1.0,3,4
+68cfebd48e9648cf138535d374e6a5d5_1,Manage Your Retirement Benefits | SSA#1_0,200,0,25,e5,5,0.0,0.3333333333333333,0.38685280723454163,1.0,3,4
+68cfebd48e9648cf138535d374e6a5d5_1,Manage Your Retirement Benefits | SSA#1_0,200,0,50,bm25,5,0.0,0.5,0.43067655807339306,1.0,3,4
+68cfebd48e9648cf138535d374e6a5d5_1,Manage Your Retirement Benefits | SSA#1_0,200,0,50,e5,5,0.0,0.3333333333333333,0.43067655807339306,1.0,3,4
+68cfebd48e9648cf138535d374e6a5d5_1,Manage Your Retirement Benefits | SSA#1_0,200,0,75,bm25,5,0.0,0.5,0.43067655807339306,1.0,3,4
+68cfebd48e9648cf138535d374e6a5d5_1,Manage Your Retirement Benefits | SSA#1_0,200,0,75,e5,5,0.0,0.5,0.5,1.0,3,4
+68cfebd48e9648cf138535d374e6a5d5_1,Manage Your Retirement Benefits | SSA#1_0,200,0,100,bm25,5,0.0,0.5,0.5,1.0,3,4
+68cfebd48e9648cf138535d374e6a5d5_1,Manage Your Retirement Benefits | SSA#1_0,200,0,100,e5,5,0.0,0.5,0.5,1.0,3,4
+68cfebd48e9648cf138535d374e6a5d5_1,Manage Your Retirement Benefits | SSA#1_0,200,0,125,bm25,5,0.0,0.5,0.5,1.0,3,4
+68cfebd48e9648cf138535d374e6a5d5_1,Manage Your Retirement Benefits | SSA#1_0,200,0,125,e5,5,0.0,0.3333333333333333,0.5,1.0,3,4
+68cfebd48e9648cf138535d374e6a5d5_1,Manage Your Retirement Benefits | SSA#1_0,200,0,150,bm25,5,0.05555555555555558,0.2,0.39743767439284283,1.0,3,4
+68cfebd48e9648cf138535d374e6a5d5_1,Manage Your Retirement Benefits | SSA#1_0,200,0,150,e5,5,0.05555555555555558,0.5,0.5047651054645507,1.0,3,4
+68cfebd48e9648cf138535d374e6a5d5_1,Manage Your Retirement Benefits | SSA#1_0,200,0,175,bm25,5,0.0,0.5,0.5,1.0,2,4
+68cfebd48e9648cf138535d374e6a5d5_1,Manage Your Retirement Benefits | SSA#1_0,200,0,175,e5,5,0.0,0.3333333333333333,0.5,1.0,2,4
+a47b6e464742468a75d043ab055a76aa_1,Learn About Retirement Benefits | SSA#1_0,200,0,0,bm25,5,0.0,1.0,1.0,1.0,1,6
+a47b6e464742468a75d043ab055a76aa_1,Learn About Retirement Benefits | SSA#1_0,200,0,0,e5,5,0.0,0.5,0.6309297535714575,1.0,1,6
+a47b6e464742468a75d043ab055a76aa_1,Learn About Retirement Benefits | SSA#1_0,200,0,25,bm25,5,0.0,1.0,1.0,1.0,2,6
+a47b6e464742468a75d043ab055a76aa_1,Learn About Retirement Benefits | SSA#1_0,200,0,25,e5,5,0.0,0.5,0.6309297535714575,1.0,2,6
+a47b6e464742468a75d043ab055a76aa_1,Learn About Retirement Benefits | SSA#1_0,200,0,50,bm25,5,0.0,1.0,1.0,1.0,2,6
+a47b6e464742468a75d043ab055a76aa_1,Learn About Retirement Benefits | SSA#1_0,200,0,50,e5,5,0.0,1.0,1.0,1.0,2,6
+a47b6e464742468a75d043ab055a76aa_1,Learn About Retirement Benefits | SSA#1_0,200,0,75,bm25,5,0.0,1.0,1.0,1.0,2,6
+a47b6e464742468a75d043ab055a76aa_1,Learn About Retirement Benefits | SSA#1_0,200,0,75,e5,5,0.0,0.5,0.6309297535714575,1.0,2,6
+a47b6e464742468a75d043ab055a76aa_1,Learn About Retirement Benefits | SSA#1_0,200,0,100,bm25,5,0.17391304347826086,1.0,0.5711914133640237,0.8260869565217391,2,6
+a47b6e464742468a75d043ab055a76aa_1,Learn About Retirement Benefits | SSA#1_0,200,0,100,e5,5,0.17391304347826086,1.0,0.9699481930814017,1.0,2,6
+a47b6e464742468a75d043ab055a76aa_1,Learn About Retirement Benefits | SSA#1_0,200,0,125,bm25,5,0.0,0.5,0.6309297535714575,1.0,1,6
+a47b6e464742468a75d043ab055a76aa_1,Learn About Retirement Benefits | SSA#1_0,200,0,125,e5,5,0.0,0.25,0.43067655807339306,1.0,1,6
+a47b6e464742468a75d043ab055a76aa_1,Learn About Retirement Benefits | SSA#1_0,200,0,150,bm25,5,0.0,0.5,0.6309297535714575,1.0,1,6
+a47b6e464742468a75d043ab055a76aa_1,Learn About Retirement Benefits | SSA#1_0,200,0,150,e5,5,0.0,0.25,0.43067655807339306,1.0,1,6
+a47b6e464742468a75d043ab055a76aa_1,Learn About Retirement Benefits | SSA#1_0,200,0,175,bm25,5,0.0,0.5,0.6309297535714575,1.0,1,6
+a47b6e464742468a75d043ab055a76aa_1,Learn About Retirement Benefits | SSA#1_0,200,0,175,e5,5,0.0,0.2,0.43067655807339306,1.0,1,6
+0c6d43fcbf5c10e1b005fe741fea7aba_1,Learn About Retirement Benefits | SSA#1_0,200,0,0,bm25,5,0.0,0.5,0.6309297535714575,1.0,1,6
+0c6d43fcbf5c10e1b005fe741fea7aba_1,Learn About Retirement Benefits | SSA#1_0,200,0,0,e5,5,0.0,0.25,0.43067655807339306,1.0,1,6
+0c6d43fcbf5c10e1b005fe741fea7aba_1,Learn About Retirement Benefits | SSA#1_0,200,0,25,bm25,5,0.0,0.5,0.6309297535714575,1.0,2,6
+0c6d43fcbf5c10e1b005fe741fea7aba_1,Learn About Retirement Benefits | SSA#1_0,200,0,25,e5,5,0.0,0.5,0.5,1.0,2,6
+0c6d43fcbf5c10e1b005fe741fea7aba_1,Learn About Retirement Benefits | SSA#1_0,200,0,50,bm25,5,0.0,0.5,0.6309297535714575,1.0,2,6
+0c6d43fcbf5c10e1b005fe741fea7aba_1,Learn About Retirement Benefits | SSA#1_0,200,0,50,e5,5,0.0,0.5,0.6309297535714575,1.0,2,6
+0c6d43fcbf5c10e1b005fe741fea7aba_1,Learn About Retirement Benefits | SSA#1_0,200,0,75,bm25,5,0.0,0.5,0.6309297535714575,1.0,2,6
+0c6d43fcbf5c10e1b005fe741fea7aba_1,Learn About Retirement Benefits | SSA#1_0,200,0,75,e5,5,0.0,0.25,0.43067655807339306,1.0,2,6
+0c6d43fcbf5c10e1b005fe741fea7aba_1,Learn About Retirement Benefits | SSA#1_0,200,0,100,bm25,5,0.17391304347826086,0.5,0.602727536010945,1.0,2,6
+0c6d43fcbf5c10e1b005fe741fea7aba_1,Learn About Retirement Benefits | SSA#1_0,200,0,100,e5,5,0.17391304347826086,1.0,0.5473415145420527,1.0,2,6
+0c6d43fcbf5c10e1b005fe741fea7aba_1,Learn About Retirement Benefits | SSA#1_0,200,0,125,bm25,5,0.0,1.0,1.0,1.0,1,6
+0c6d43fcbf5c10e1b005fe741fea7aba_1,Learn About Retirement Benefits | SSA#1_0,200,0,125,e5,5,0.0,1.0,1.0,1.0,1,6
+0c6d43fcbf5c10e1b005fe741fea7aba_1,Learn About Retirement Benefits | SSA#1_0,200,0,150,bm25,5,0.0,1.0,1.0,1.0,1,6
+0c6d43fcbf5c10e1b005fe741fea7aba_1,Learn About Retirement Benefits | SSA#1_0,200,0,150,e5,5,0.0,0.25,0.43067655807339306,1.0,1,6
+0c6d43fcbf5c10e1b005fe741fea7aba_1,Learn About Retirement Benefits | SSA#1_0,200,0,175,bm25,5,0.0,0.5,0.6309297535714575,1.0,1,6
+0c6d43fcbf5c10e1b005fe741fea7aba_1,Learn About Retirement Benefits | SSA#1_0,200,0,175,e5,5,0.0,0.2,0.38685280723454163,1.0,1,6
+a9e6b11deba64bccfa874f154eef44b4_1,Benefits Planner: Retirement | Medicare Premiums | SSA#2_0,200,0,0,bm25,5,0.0,1.0,1.0,1.0,4,8
+a9e6b11deba64bccfa874f154eef44b4_1,Benefits Planner: Retirement | Medicare Premiums | SSA#2_0,200,0,0,e5,5,0.0,0.2,0.38685280723454163,1.0,4,8
+a9e6b11deba64bccfa874f154eef44b4_1,Benefits Planner: Retirement | Medicare Premiums | SSA#2_0,200,0,25,bm25,5,0.0,1.0,1.0,1.0,5,8
+a9e6b11deba64bccfa874f154eef44b4_1,Benefits Planner: Retirement | Medicare Premiums | SSA#2_0,200,0,25,e5,5,0.0,0.3333333333333333,0.6309297535714575,1.0,5,8
+a9e6b11deba64bccfa874f154eef44b4_1,Benefits Planner: Retirement | Medicare Premiums | SSA#2_0,200,0,50,bm25,5,0.0,1.0,0.6309297535714575,1.0,5,8
+a9e6b11deba64bccfa874f154eef44b4_1,Benefits Planner: Retirement | Medicare Premiums | SSA#2_0,200,0,50,e5,5,0.0,1.0,1.0,1.0,5,8
+a9e6b11deba64bccfa874f154eef44b4_1,Benefits Planner: Retirement | Medicare Premiums | SSA#2_0,200,0,75,bm25,5,0.0,1.0,0.6309297535714575,1.0,5,8
+a9e6b11deba64bccfa874f154eef44b4_1,Benefits Planner: Retirement | Medicare Premiums | SSA#2_0,200,0,75,e5,5,0.0,0.3333333333333333,0.43067655807339306,1.0,5,8
+a9e6b11deba64bccfa874f154eef44b4_1,Benefits Planner: Retirement | Medicare Premiums | SSA#2_0,200,0,100,bm25,5,0.1923076923076923,1.0,0.6364618537438949,1.0,4,8
+a9e6b11deba64bccfa874f154eef44b4_1,Benefits Planner: Retirement | Medicare Premiums | SSA#2_0,200,0,100,e5,5,0.1923076923076923,0.16666666666666666,0.16967444290617278,0.19230769230769232,4,8
+a9e6b11deba64bccfa874f154eef44b4_1,Benefits Planner: Retirement | Medicare Premiums | SSA#2_0,200,0,125,bm25,5,0.0,1.0,1.0,1.0,4,8
+a9e6b11deba64bccfa874f154eef44b4_1,Benefits Planner: Retirement | Medicare Premiums | SSA#2_0,200,0,125,e5,5,0.0,0.125,0.0,0.0,4,8
+a9e6b11deba64bccfa874f154eef44b4_1,Benefits Planner: Retirement | Medicare Premiums | SSA#2_0,200,0,150,bm25,5,0.0,1.0,1.0,1.0,4,8
+a9e6b11deba64bccfa874f154eef44b4_1,Benefits Planner: Retirement | Medicare Premiums | SSA#2_0,200,0,150,e5,5,0.0,0.125,0.0,0.0,4,8
+a9e6b11deba64bccfa874f154eef44b4_1,Benefits Planner: Retirement | Medicare Premiums | SSA#2_0,200,0,175,bm25,5,0.0,1.0,1.0,1.0,4,8
+a9e6b11deba64bccfa874f154eef44b4_1,Benefits Planner: Retirement | Medicare Premiums | SSA#2_0,200,0,175,e5,5,0.0,0.16666666666666666,0.0,0.0,4,8
+739518d13fc2a96c4ad09409fa8d3982_1,Benefits Planner: Retirement | Medicare Premiums | SSA#2_0,200,0,0,bm25,5,0.0,1.0,1.0,1.0,4,8
+739518d13fc2a96c4ad09409fa8d3982_1,Benefits Planner: Retirement | Medicare Premiums | SSA#2_0,200,0,0,e5,5,0.0,1.0,1.0,1.0,4,8
+739518d13fc2a96c4ad09409fa8d3982_1,Benefits Planner: Retirement | Medicare Premiums | SSA#2_0,200,0,25,bm25,5,0.0,1.0,1.0,1.0,5,8
+739518d13fc2a96c4ad09409fa8d3982_1,Benefits Planner: Retirement | Medicare Premiums | SSA#2_0,200,0,25,e5,5,0.0,1.0,1.0,1.0,5,8
+739518d13fc2a96c4ad09409fa8d3982_1,Benefits Planner: Retirement | Medicare Premiums | SSA#2_0,200,0,50,bm25,5,0.0,1.0,1.0,1.0,5,8
+739518d13fc2a96c4ad09409fa8d3982_1,Benefits Planner: Retirement | Medicare Premiums | SSA#2_0,200,0,50,e5,5,0.0,1.0,1.0,1.0,5,8
+739518d13fc2a96c4ad09409fa8d3982_1,Benefits Planner: Retirement | Medicare Premiums | SSA#2_0,200,0,75,bm25,5,0.0,1.0,1.0,1.0,5,8
+739518d13fc2a96c4ad09409fa8d3982_1,Benefits Planner: Retirement | Medicare Premiums | SSA#2_0,200,0,75,e5,5,0.0,1.0,1.0,1.0,5,8
+739518d13fc2a96c4ad09409fa8d3982_1,Benefits Planner: Retirement | Medicare Premiums | SSA#2_0,200,0,100,bm25,5,0.1923076923076923,1.0,0.9585863801040441,1.0,4,8
+739518d13fc2a96c4ad09409fa8d3982_1,Benefits Planner: Retirement | Medicare Premiums | SSA#2_0,200,0,100,e5,5,0.1923076923076923,0.5,0.7330614915862166,1.0,4,8
+739518d13fc2a96c4ad09409fa8d3982_1,Benefits Planner: Retirement | Medicare Premiums | SSA#2_0,200,0,125,bm25,5,0.0,1.0,1.0,1.0,4,8
+739518d13fc2a96c4ad09409fa8d3982_1,Benefits Planner: Retirement | Medicare Premiums | SSA#2_0,200,0,125,e5,5,0.0,0.5,0.6309297535714575,1.0,4,8
+739518d13fc2a96c4ad09409fa8d3982_1,Benefits Planner: Retirement | Medicare Premiums | SSA#2_0,200,0,150,bm25,5,0.0,1.0,1.0,1.0,4,8
+739518d13fc2a96c4ad09409fa8d3982_1,Benefits Planner: Retirement | Medicare Premiums | SSA#2_0,200,0,150,e5,5,0.0,0.5,0.6309297535714575,1.0,4,8
+739518d13fc2a96c4ad09409fa8d3982_1,Benefits Planner: Retirement | Medicare Premiums | SSA#2_0,200,0,175,bm25,5,0.0,1.0,1.0,1.0,4,8
+739518d13fc2a96c4ad09409fa8d3982_1,Benefits Planner: Retirement | Medicare Premiums | SSA#2_0,200,0,175,e5,5,0.0,0.5,0.6309297535714575,1.0,4,8
+247f23e580bce66d852b143a622f29d7_1,Apply for Retirement Benefits | SSA#1_0,200,0,0,bm25,5,0.0,1.0,1.0,1.0,6,8
+247f23e580bce66d852b143a622f29d7_1,Apply for Retirement Benefits | SSA#1_0,200,0,0,e5,5,0.0,0.25,0.43067655807339306,1.0,6,8
+247f23e580bce66d852b143a622f29d7_1,Apply for Retirement Benefits | SSA#1_0,200,0,25,bm25,5,0.0,1.0,1.0,1.0,7,8
+247f23e580bce66d852b143a622f29d7_1,Apply for Retirement Benefits | SSA#1_0,200,0,25,e5,5,0.0,0.25,0.0,0.0,7,8
+247f23e580bce66d852b143a622f29d7_1,Apply for Retirement Benefits | SSA#1_0,200,0,50,bm25,5,0.0,1.0,1.0,1.0,7,8
+247f23e580bce66d852b143a622f29d7_1,Apply for Retirement Benefits | SSA#1_0,200,0,50,e5,5,0.0,1.0,1.0,1.0,7,8
+247f23e580bce66d852b143a622f29d7_1,Apply for Retirement Benefits | SSA#1_0,200,0,75,bm25,5,0.0,1.0,1.0,1.0,7,8
+247f23e580bce66d852b143a622f29d7_1,Apply for Retirement Benefits | SSA#1_0,200,0,75,e5,5,0.0,1.0,1.0,1.0,7,8
+247f23e580bce66d852b143a622f29d7_1,Apply for Retirement Benefits | SSA#1_0,200,0,100,bm25,5,0.18181818181818177,1.0,0.6084314265742846,1.0,6,8
+247f23e580bce66d852b143a622f29d7_1,Apply for Retirement Benefits | SSA#1_0,200,0,100,e5,5,0.18181818181818177,0.25,0.5065921928546728,1.0,6,8
+247f23e580bce66d852b143a622f29d7_1,Apply for Retirement Benefits | SSA#1_0,200,0,125,bm25,5,0.0,1.0,0.6309297535714575,1.0,6,8
+247f23e580bce66d852b143a622f29d7_1,Apply for Retirement Benefits | SSA#1_0,200,0,125,e5,5,0.0,0.25,0.43067655807339306,1.0,6,8
+247f23e580bce66d852b143a622f29d7_1,Apply for Retirement Benefits | SSA#1_0,200,0,150,bm25,5,0.0,1.0,1.0,1.0,6,8
+247f23e580bce66d852b143a622f29d7_1,Apply for Retirement Benefits | SSA#1_0,200,0,150,e5,5,0.0,0.25,0.43067655807339306,1.0,6,8
+247f23e580bce66d852b143a622f29d7_1,Apply for Retirement Benefits | SSA#1_0,200,0,175,bm25,5,0.0,1.0,1.0,1.0,6,8
+247f23e580bce66d852b143a622f29d7_1,Apply for Retirement Benefits | SSA#1_0,200,0,175,e5,5,0.0,0.25,0.43067655807339306,1.0,6,8
+0f20051cca23859b571386e82fff9ac8_1,Apply for Retirement Benefits | SSA#1_0,200,0,0,bm25,5,0.0,0.25,0.43067655807339306,1.0,2,8
+0f20051cca23859b571386e82fff9ac8_1,Apply for Retirement Benefits | SSA#1_0,200,0,0,e5,5,0.0,0.25,0.43067655807339306,1.0,2,8
+0f20051cca23859b571386e82fff9ac8_1,Apply for Retirement Benefits | SSA#1_0,200,0,25,bm25,5,0.0,0.25,0.5,1.0,3,8
+0f20051cca23859b571386e82fff9ac8_1,Apply for Retirement Benefits | SSA#1_0,200,0,25,e5,5,0.0,0.25,0.38685280723454163,1.0,3,8
+0f20051cca23859b571386e82fff9ac8_1,Apply for Retirement Benefits | SSA#1_0,200,0,50,bm25,5,0.0,0.2,0.0,0.0,3,8
+0f20051cca23859b571386e82fff9ac8_1,Apply for Retirement Benefits | SSA#1_0,200,0,50,e5,5,0.0,0.25,0.38685280723454163,1.0,3,8
+0f20051cca23859b571386e82fff9ac8_1,Apply for Retirement Benefits | SSA#1_0,200,0,75,bm25,5,0.0,0.2,0.0,0.0,3,8
+0f20051cca23859b571386e82fff9ac8_1,Apply for Retirement Benefits | SSA#1_0,200,0,75,e5,5,0.0,0.16666666666666666,0.0,0.0,3,8
+0f20051cca23859b571386e82fff9ac8_1,Apply for Retirement Benefits | SSA#1_0,200,0,100,bm25,5,0.33333333333333337,0.3333333333333333,0.4932289931363552,0.6666666666666666,2,8
+0f20051cca23859b571386e82fff9ac8_1,Apply for Retirement Benefits | SSA#1_0,200,0,100,e5,5,0.33333333333333337,0.125,0.0,0.0,2,8
+0f20051cca23859b571386e82fff9ac8_1,Apply for Retirement Benefits | SSA#1_0,200,0,125,bm25,5,0.0,0.3333333333333333,0.5,1.0,2,8
+0f20051cca23859b571386e82fff9ac8_1,Apply for Retirement Benefits | SSA#1_0,200,0,125,e5,5,0.0,0.14285714285714285,0.0,0.0,2,8
+0f20051cca23859b571386e82fff9ac8_1,Apply for Retirement Benefits | SSA#1_0,200,0,150,bm25,5,0.0,0.25,0.5,1.0,2,8
+0f20051cca23859b571386e82fff9ac8_1,Apply for Retirement Benefits | SSA#1_0,200,0,150,e5,5,0.0,0.25,0.0,0.0,2,8
+0f20051cca23859b571386e82fff9ac8_1,Apply for Retirement Benefits | SSA#1_0,200,0,175,bm25,5,0.0,0.25,0.43067655807339306,1.0,2,8
+0f20051cca23859b571386e82fff9ac8_1,Apply for Retirement Benefits | SSA#1_0,200,0,175,e5,5,0.0,0.3333333333333333,0.43067655807339306,1.0,2,8
+22198e14bb6cd2a93ec1f6540101934b_1,Careers And Employment | Veterans Affairs#1_0,200,0,0,bm25,5,0.0,0.3333333333333333,0.5,1.0,2,4
+22198e14bb6cd2a93ec1f6540101934b_1,Careers And Employment | Veterans Affairs#1_0,200,0,0,e5,5,0.0,1.0,1.0,1.0,2,4
+22198e14bb6cd2a93ec1f6540101934b_1,Careers And Employment | Veterans Affairs#1_0,200,0,25,bm25,5,0.0,0.3333333333333333,0.43067655807339306,1.0,3,4
+22198e14bb6cd2a93ec1f6540101934b_1,Careers And Employment | Veterans Affairs#1_0,200,0,25,e5,5,0.0,1.0,1.0,1.0,3,4
+22198e14bb6cd2a93ec1f6540101934b_1,Careers And Employment | Veterans Affairs#1_0,200,0,50,bm25,5,0.0,0.3333333333333333,0.43067655807339306,1.0,3,4
+22198e14bb6cd2a93ec1f6540101934b_1,Careers And Employment | Veterans Affairs#1_0,200,0,50,e5,5,0.0,1.0,1.0,1.0,3,4
+22198e14bb6cd2a93ec1f6540101934b_1,Careers And Employment | Veterans Affairs#1_0,200,0,75,bm25,5,0.0,0.3333333333333333,0.43067655807339306,1.0,3,4
+22198e14bb6cd2a93ec1f6540101934b_1,Careers And Employment | Veterans Affairs#1_0,200,0,75,e5,5,0.0,1.0,1.0,1.0,3,4
+22198e14bb6cd2a93ec1f6540101934b_1,Careers And Employment | Veterans Affairs#1_0,200,0,100,bm25,5,0.0,0.3333333333333333,0.43067655807339306,1.0,3,4
+22198e14bb6cd2a93ec1f6540101934b_1,Careers And Employment | Veterans Affairs#1_0,200,0,100,e5,5,0.0,1.0,1.0,1.0,3,4
+22198e14bb6cd2a93ec1f6540101934b_1,Careers And Employment | Veterans Affairs#1_0,200,0,125,bm25,5,0.0,0.3333333333333333,0.43067655807339306,1.0,3,4
+22198e14bb6cd2a93ec1f6540101934b_1,Careers And Employment | Veterans Affairs#1_0,200,0,125,e5,5,0.0,1.0,1.0,1.0,3,4
+22198e14bb6cd2a93ec1f6540101934b_1,Careers And Employment | Veterans Affairs#1_0,200,0,150,bm25,5,0.43243243243243246,0.3333333333333333,0.5442408515368897,1.0,3,4
+22198e14bb6cd2a93ec1f6540101934b_1,Careers And Employment | Veterans Affairs#1_0,200,0,150,e5,5,0.43243243243243246,1.0,0.6816380002634715,1.0,3,4
+22198e14bb6cd2a93ec1f6540101934b_1,Careers And Employment | Veterans Affairs#1_0,200,0,175,bm25,5,0.0,0.3333333333333333,0.5,1.0,2,4
+22198e14bb6cd2a93ec1f6540101934b_1,Careers And Employment | Veterans Affairs#1_0,200,0,175,e5,5,0.0,1.0,1.0,1.0,2,4
+ea559c251050aba66145ed885fc95dc1_1,Change Your GI Bill School Or Program | Veterans Affairs#1_0,200,0,0,bm25,5,0.0,1.0,1.0,1.0,1,2
+ea559c251050aba66145ed885fc95dc1_1,Change Your GI Bill School Or Program | Veterans Affairs#1_0,200,0,0,e5,5,0.0,1.0,1.0,1.0,1,2
+ea559c251050aba66145ed885fc95dc1_1,Change Your GI Bill School Or Program | Veterans Affairs#1_0,200,0,25,bm25,5,0.0,1.0,1.0,1.0,2,2
+ea559c251050aba66145ed885fc95dc1_1,Change Your GI Bill School Or Program | Veterans Affairs#1_0,200,0,25,e5,5,0.0,1.0,1.0,1.0,2,2
+ea559c251050aba66145ed885fc95dc1_1,Change Your GI Bill School Or Program | Veterans Affairs#1_0,200,0,50,bm25,5,0.0,1.0,1.0,1.0,2,2
+ea559c251050aba66145ed885fc95dc1_1,Change Your GI Bill School Or Program | Veterans Affairs#1_0,200,0,50,e5,5,0.0,1.0,1.0,1.0,2,2
+ea559c251050aba66145ed885fc95dc1_1,Change Your GI Bill School Or Program | Veterans Affairs#1_0,200,0,75,bm25,5,0.2727272727272727,0.5,0.6578872583750204,1.0,1,2
+ea559c251050aba66145ed885fc95dc1_1,Change Your GI Bill School Or Program | Veterans Affairs#1_0,200,0,75,e5,5,0.2727272727272727,1.0,0.5834331632307671,1.0,1,2
+ea559c251050aba66145ed885fc95dc1_1,Change Your GI Bill School Or Program | Veterans Affairs#1_0,200,0,100,bm25,5,0.0,1.0,0.6309297535714575,1.0,1,2
+ea559c251050aba66145ed885fc95dc1_1,Change Your GI Bill School Or Program | Veterans Affairs#1_0,200,0,100,e5,5,0.0,1.0,0.5,1.0,1,2
+ea559c251050aba66145ed885fc95dc1_1,Change Your GI Bill School Or Program | Veterans Affairs#1_0,200,0,125,bm25,5,0.0,1.0,0.5,1.0,1,2
+ea559c251050aba66145ed885fc95dc1_1,Change Your GI Bill School Or Program | Veterans Affairs#1_0,200,0,125,e5,5,0.0,1.0,0.6309297535714575,1.0,1,2
+ea559c251050aba66145ed885fc95dc1_1,Change Your GI Bill School Or Program | Veterans Affairs#1_0,200,0,150,bm25,5,0.0,1.0,1.0,1.0,1,2
+ea559c251050aba66145ed885fc95dc1_1,Change Your GI Bill School Or Program | Veterans Affairs#1_0,200,0,150,e5,5,0.0,1.0,0.6309297535714575,1.0,1,2
+ea559c251050aba66145ed885fc95dc1_1,Change Your GI Bill School Or Program | Veterans Affairs#1_0,200,0,175,bm25,5,0.0,1.0,1.0,1.0,1,2
+ea559c251050aba66145ed885fc95dc1_1,Change Your GI Bill School Or Program | Veterans Affairs#1_0,200,0,175,e5,5,0.0,1.0,1.0,1.0,1,2
+e8b67b06f57ae86344dcf9f6ff9cac43_1,VA Mental Health Services | Veterans Affairs#1_0,200,0,0,bm25,5,0.0,1.0,1.0,1.0,10,11
+e8b67b06f57ae86344dcf9f6ff9cac43_1,VA Mental Health Services | Veterans Affairs#1_0,200,0,0,e5,5,0.0,1.0,1.0,1.0,10,11
+e8b67b06f57ae86344dcf9f6ff9cac43_1,VA Mental Health Services | Veterans Affairs#1_0,200,0,25,bm25,5,0.0,1.0,1.0,1.0,11,11
+e8b67b06f57ae86344dcf9f6ff9cac43_1,VA Mental Health Services | Veterans Affairs#1_0,200,0,25,e5,5,0.0,1.0,1.0,1.0,11,11
+e8b67b06f57ae86344dcf9f6ff9cac43_1,VA Mental Health Services | Veterans Affairs#1_0,200,0,50,bm25,5,0.16666666666666663,1.0,1.0,1.0,10,11
+e8b67b06f57ae86344dcf9f6ff9cac43_1,VA Mental Health Services | Veterans Affairs#1_0,200,0,50,e5,5,0.16666666666666663,1.0,0.7167364349613432,1.0,10,11
+e8b67b06f57ae86344dcf9f6ff9cac43_1,VA Mental Health Services | Veterans Affairs#1_0,200,0,75,bm25,5,0.0,1.0,1.0,1.0,10,11
+e8b67b06f57ae86344dcf9f6ff9cac43_1,VA Mental Health Services | Veterans Affairs#1_0,200,0,75,e5,5,0.0,1.0,1.0,1.0,10,11
+e8b67b06f57ae86344dcf9f6ff9cac43_1,VA Mental Health Services | Veterans Affairs#1_0,200,0,100,bm25,5,0.0,1.0,1.0,1.0,10,11
+e8b67b06f57ae86344dcf9f6ff9cac43_1,VA Mental Health Services | Veterans Affairs#1_0,200,0,100,e5,5,0.0,1.0,1.0,1.0,10,11
+e8b67b06f57ae86344dcf9f6ff9cac43_1,VA Mental Health Services | Veterans Affairs#1_0,200,0,125,bm25,5,0.0,1.0,1.0,1.0,10,11
+e8b67b06f57ae86344dcf9f6ff9cac43_1,VA Mental Health Services | Veterans Affairs#1_0,200,0,125,e5,5,0.0,1.0,0.6309297535714575,1.0,10,11
+e8b67b06f57ae86344dcf9f6ff9cac43_1,VA Mental Health Services | Veterans Affairs#1_0,200,0,150,bm25,5,0.0,1.0,1.0,1.0,10,11
+e8b67b06f57ae86344dcf9f6ff9cac43_1,VA Mental Health Services | Veterans Affairs#1_0,200,0,150,e5,5,0.0,1.0,1.0,1.0,10,11
+e8b67b06f57ae86344dcf9f6ff9cac43_1,VA Mental Health Services | Veterans Affairs#1_0,200,0,175,bm25,5,0.0,1.0,1.0,1.0,10,11
+e8b67b06f57ae86344dcf9f6ff9cac43_1,VA Mental Health Services | Veterans Affairs#1_0,200,0,175,e5,5,0.0,1.0,1.0,1.0,10,11
+f2cc5705bb7993aae03ffe0a59b09e2c_1,Substance Use Treatment For Veterans | Veterans Affairs#1_0,200,0,0,bm25,5,0.0,0.5,0.6309297535714575,1.0,1,4
+f2cc5705bb7993aae03ffe0a59b09e2c_1,Substance Use Treatment For Veterans | Veterans Affairs#1_0,200,0,0,e5,5,0.0,1.0,1.0,1.0,1,4
+f2cc5705bb7993aae03ffe0a59b09e2c_1,Substance Use Treatment For Veterans | Veterans Affairs#1_0,200,0,25,bm25,5,0.0,0.5,1.0,1.0,2,4
+f2cc5705bb7993aae03ffe0a59b09e2c_1,Substance Use Treatment For Veterans | Veterans Affairs#1_0,200,0,25,e5,5,0.0,0.5,0.5,1.0,2,4
+f2cc5705bb7993aae03ffe0a59b09e2c_1,Substance Use Treatment For Veterans | Veterans Affairs#1_0,200,0,50,bm25,5,0.0,0.5,0.6309297535714575,1.0,2,4
+f2cc5705bb7993aae03ffe0a59b09e2c_1,Substance Use Treatment For Veterans | Veterans Affairs#1_0,200,0,50,e5,5,0.0,0.5,0.5,1.0,2,4
+f2cc5705bb7993aae03ffe0a59b09e2c_1,Substance Use Treatment For Veterans | Veterans Affairs#1_0,200,0,75,bm25,5,0.0,1.0,0.6309297535714575,1.0,2,4
+f2cc5705bb7993aae03ffe0a59b09e2c_1,Substance Use Treatment For Veterans | Veterans Affairs#1_0,200,0,75,e5,5,0.0,0.5,0.6309297535714575,1.0,2,4
+f2cc5705bb7993aae03ffe0a59b09e2c_1,Substance Use Treatment For Veterans | Veterans Affairs#1_0,200,0,100,bm25,5,0.0,1.0,0.6309297535714575,1.0,2,4
+f2cc5705bb7993aae03ffe0a59b09e2c_1,Substance Use Treatment For Veterans | Veterans Affairs#1_0,200,0,100,e5,5,0.0,0.5,0.6309297535714575,1.0,2,4
+f2cc5705bb7993aae03ffe0a59b09e2c_1,Substance Use Treatment For Veterans | Veterans Affairs#1_0,200,0,125,bm25,5,0.0,0.5,0.6309297535714575,1.0,2,4
+f2cc5705bb7993aae03ffe0a59b09e2c_1,Substance Use Treatment For Veterans | Veterans Affairs#1_0,200,0,125,e5,5,0.0,0.5,0.6309297535714575,1.0,2,4
+f2cc5705bb7993aae03ffe0a59b09e2c_1,Substance Use Treatment For Veterans | Veterans Affairs#1_0,200,0,150,bm25,5,0.0,0.5,0.6309297535714575,1.0,2,4
+f2cc5705bb7993aae03ffe0a59b09e2c_1,Substance Use Treatment For Veterans | Veterans Affairs#1_0,200,0,150,e5,5,0.0,0.5,0.6309297535714575,1.0,2,4
+f2cc5705bb7993aae03ffe0a59b09e2c_1,Substance Use Treatment For Veterans | Veterans Affairs#1_0,200,0,175,bm25,5,0.16666666666666663,0.5,0.544970511571141,1.0,2,4
+f2cc5705bb7993aae03ffe0a59b09e2c_1,Substance Use Treatment For Veterans | Veterans Affairs#1_0,200,0,175,e5,5,0.16666666666666663,0.5,0.645459860482838,1.0,2,4
+7b770908dd0467b13e35f043a00962f1_1,VA Education Benefits | Veterans Affairs#2_0,200,0,0,bm25,5,0.0,1.0,1.0,1.0,2,3
+7b770908dd0467b13e35f043a00962f1_1,VA Education Benefits | Veterans Affairs#2_0,200,0,0,e5,5,0.0,0.25,0.43067655807339306,1.0,2,3
+7b770908dd0467b13e35f043a00962f1_1,VA Education Benefits | Veterans Affairs#2_0,200,0,25,bm25,5,0.0,1.0,1.0,1.0,3,3
+7b770908dd0467b13e35f043a00962f1_1,VA Education Benefits | Veterans Affairs#2_0,200,0,25,e5,5,0.0,0.3333333333333333,0.5,1.0,3,3
+7b770908dd0467b13e35f043a00962f1_1,VA Education Benefits | Veterans Affairs#2_0,200,0,50,bm25,5,0.125,0.5,0.6412822558650546,1.0,2,3
+7b770908dd0467b13e35f043a00962f1_1,VA Education Benefits | Veterans Affairs#2_0,200,0,50,e5,5,0.125,0.25,0.45386163516139155,1.0,2,3
+7b770908dd0467b13e35f043a00962f1_1,VA Education Benefits | Veterans Affairs#2_0,200,0,75,bm25,5,0.0,0.5,0.6309297535714575,1.0,2,3
+7b770908dd0467b13e35f043a00962f1_1,VA Education Benefits | Veterans Affairs#2_0,200,0,75,e5,5,0.0,0.25,0.43067655807339306,1.0,2,3
+7b770908dd0467b13e35f043a00962f1_1,VA Education Benefits | Veterans Affairs#2_0,200,0,100,bm25,5,0.0,1.0,0.6309297535714575,1.0,2,3
+7b770908dd0467b13e35f043a00962f1_1,VA Education Benefits | Veterans Affairs#2_0,200,0,100,e5,5,0.0,0.25,0.43067655807339306,1.0,2,3
+7b770908dd0467b13e35f043a00962f1_1,VA Education Benefits | Veterans Affairs#2_0,200,0,125,bm25,5,0.0,1.0,0.6309297535714575,1.0,2,3
+7b770908dd0467b13e35f043a00962f1_1,VA Education Benefits | Veterans Affairs#2_0,200,0,125,e5,5,0.0,0.25,0.43067655807339306,1.0,2,3
+7b770908dd0467b13e35f043a00962f1_1,VA Education Benefits | Veterans Affairs#2_0,200,0,150,bm25,5,0.0,1.0,1.0,1.0,2,3
+7b770908dd0467b13e35f043a00962f1_1,VA Education Benefits | Veterans Affairs#2_0,200,0,150,e5,5,0.0,0.25,0.43067655807339306,1.0,2,3
+7b770908dd0467b13e35f043a00962f1_1,VA Education Benefits | Veterans Affairs#2_0,200,0,175,bm25,5,0.0,1.0,1.0,1.0,2,3
+7b770908dd0467b13e35f043a00962f1_1,VA Education Benefits | Veterans Affairs#2_0,200,0,175,e5,5,0.0,0.25,0.43067655807339306,1.0,2,3
+bafcf3050a42230f4772da5489349de5_1,VA Education Benefits | Veterans Affairs#2_0,200,0,0,bm25,5,0.0,1.0,1.0,1.0,2,3
+bafcf3050a42230f4772da5489349de5_1,VA Education Benefits | Veterans Affairs#2_0,200,0,0,e5,5,0.0,0.25,0.43067655807339306,1.0,2,3
+bafcf3050a42230f4772da5489349de5_1,VA Education Benefits | Veterans Affairs#2_0,200,0,25,bm25,5,0.0,1.0,1.0,1.0,3,3
+bafcf3050a42230f4772da5489349de5_1,VA Education Benefits | Veterans Affairs#2_0,200,0,25,e5,5,0.0,0.3333333333333333,0.5,1.0,3,3
+bafcf3050a42230f4772da5489349de5_1,VA Education Benefits | Veterans Affairs#2_0,200,0,50,bm25,5,0.125,0.5,0.6412822558650546,1.0,2,3
+bafcf3050a42230f4772da5489349de5_1,VA Education Benefits | Veterans Affairs#2_0,200,0,50,e5,5,0.125,0.25,0.45386163516139155,1.0,2,3
+bafcf3050a42230f4772da5489349de5_1,VA Education Benefits | Veterans Affairs#2_0,200,0,75,bm25,5,0.0,0.5,0.6309297535714575,1.0,2,3
+bafcf3050a42230f4772da5489349de5_1,VA Education Benefits | Veterans Affairs#2_0,200,0,75,e5,5,0.0,0.25,0.43067655807339306,1.0,2,3
+bafcf3050a42230f4772da5489349de5_1,VA Education Benefits | Veterans Affairs#2_0,200,0,100,bm25,5,0.0,0.5,0.6309297535714575,1.0,2,3
+bafcf3050a42230f4772da5489349de5_1,VA Education Benefits | Veterans Affairs#2_0,200,0,100,e5,5,0.0,0.25,0.43067655807339306,1.0,2,3
+bafcf3050a42230f4772da5489349de5_1,VA Education Benefits | Veterans Affairs#2_0,200,0,125,bm25,5,0.0,0.5,0.6309297535714575,1.0,2,3
+bafcf3050a42230f4772da5489349de5_1,VA Education Benefits | Veterans Affairs#2_0,200,0,125,e5,5,0.0,0.25,0.5,1.0,2,3
+bafcf3050a42230f4772da5489349de5_1,VA Education Benefits | Veterans Affairs#2_0,200,0,150,bm25,5,0.0,1.0,1.0,1.0,2,3
+bafcf3050a42230f4772da5489349de5_1,VA Education Benefits | Veterans Affairs#2_0,200,0,150,e5,5,0.0,0.3333333333333333,0.43067655807339306,1.0,2,3
+bafcf3050a42230f4772da5489349de5_1,VA Education Benefits | Veterans Affairs#2_0,200,0,175,bm25,5,0.0,1.0,1.0,1.0,2,3
+bafcf3050a42230f4772da5489349de5_1,VA Education Benefits | Veterans Affairs#2_0,200,0,175,e5,5,0.0,0.3333333333333333,0.5,1.0,2,3
+7c51db0698fd5e89b493724a36c86f1e_1,Your VA Primary Care Provider | Veterans Affairs#1_0,200,0,0,bm25,5,0.0,0.3333333333333333,0.5,1.0,1,3
+7c51db0698fd5e89b493724a36c86f1e_1,Your VA Primary Care Provider | Veterans Affairs#1_0,200,0,0,e5,5,0.0,0.5,0.6309297535714575,1.0,1,3
+7c51db0698fd5e89b493724a36c86f1e_1,Your VA Primary Care Provider | Veterans Affairs#1_0,200,0,25,bm25,5,0.0,0.3333333333333333,0.6309297535714575,1.0,2,3
+7c51db0698fd5e89b493724a36c86f1e_1,Your VA Primary Care Provider | Veterans Affairs#1_0,200,0,25,e5,5,0.0,1.0,1.0,1.0,2,3
+7c51db0698fd5e89b493724a36c86f1e_1,Your VA Primary Care Provider | Veterans Affairs#1_0,200,0,50,bm25,5,0.0,0.3333333333333333,1.0,1.0,2,3
+7c51db0698fd5e89b493724a36c86f1e_1,Your VA Primary Care Provider | Veterans Affairs#1_0,200,0,50,e5,5,0.0,1.0,1.0,1.0,2,3
+7c51db0698fd5e89b493724a36c86f1e_1,Your VA Primary Care Provider | Veterans Affairs#1_0,200,0,75,bm25,5,0.26086956521739135,0.3333333333333333,0.5203170670081199,1.0,1,3
+7c51db0698fd5e89b493724a36c86f1e_1,Your VA Primary Care Provider | Veterans Affairs#1_0,200,0,75,e5,5,0.26086956521739135,1.0,1.0,1.0,1,3
+7c51db0698fd5e89b493724a36c86f1e_1,Your VA Primary Care Provider | Veterans Affairs#1_0,200,0,100,bm25,5,0.0,0.3333333333333333,0.43067655807339306,1.0,1,3
+7c51db0698fd5e89b493724a36c86f1e_1,Your VA Primary Care Provider | Veterans Affairs#1_0,200,0,100,e5,5,0.0,1.0,1.0,1.0,1,3
+7c51db0698fd5e89b493724a36c86f1e_1,Your VA Primary Care Provider | Veterans Affairs#1_0,200,0,125,bm25,5,0.0,0.3333333333333333,0.43067655807339306,1.0,1,3
+7c51db0698fd5e89b493724a36c86f1e_1,Your VA Primary Care Provider | Veterans Affairs#1_0,200,0,125,e5,5,0.0,1.0,1.0,1.0,1,3
+7c51db0698fd5e89b493724a36c86f1e_1,Your VA Primary Care Provider | Veterans Affairs#1_0,200,0,150,bm25,5,0.0,0.3333333333333333,0.43067655807339306,1.0,1,3
+7c51db0698fd5e89b493724a36c86f1e_1,Your VA Primary Care Provider | Veterans Affairs#1_0,200,0,150,e5,5,0.0,0.5,1.0,1.0,1,3
+7c51db0698fd5e89b493724a36c86f1e_1,Your VA Primary Care Provider | Veterans Affairs#1_0,200,0,175,bm25,5,0.0,0.3333333333333333,0.5,1.0,1,3
+7c51db0698fd5e89b493724a36c86f1e_1,Your VA Primary Care Provider | Veterans Affairs#1_0,200,0,175,e5,5,0.0,1.0,0.6309297535714575,1.0,1,3
+13f5099fe2dc8875b44e6b15ad7c2dd1_1,About VA Health Benefits | Veterans Affairs#1_0,200,0,0,bm25,5,0.0,0.3333333333333333,0.5,1.0,1,7
+13f5099fe2dc8875b44e6b15ad7c2dd1_1,About VA Health Benefits | Veterans Affairs#1_0,200,0,0,e5,5,0.0,0.25,0.43067655807339306,1.0,1,7
+13f5099fe2dc8875b44e6b15ad7c2dd1_1,About VA Health Benefits | Veterans Affairs#1_0,200,0,25,bm25,5,0.0,0.3333333333333333,0.5,1.0,2,7
+13f5099fe2dc8875b44e6b15ad7c2dd1_1,About VA Health Benefits | Veterans Affairs#1_0,200,0,25,e5,5,0.0,0.3333333333333333,0.38685280723454163,1.0,2,7
+13f5099fe2dc8875b44e6b15ad7c2dd1_1,About VA Health Benefits | Veterans Affairs#1_0,200,0,50,bm25,5,0.0,0.3333333333333333,0.43067655807339306,1.0,2,7
+13f5099fe2dc8875b44e6b15ad7c2dd1_1,About VA Health Benefits | Veterans Affairs#1_0,200,0,50,e5,5,0.0,0.25,0.0,0.0,2,7
+13f5099fe2dc8875b44e6b15ad7c2dd1_1,About VA Health Benefits | Veterans Affairs#1_0,200,0,75,bm25,5,0.0,0.3333333333333333,0.43067655807339306,1.0,2,7
+13f5099fe2dc8875b44e6b15ad7c2dd1_1,About VA Health Benefits | Veterans Affairs#1_0,200,0,75,e5,5,0.0,1.0,0.5,1.0,2,7
+13f5099fe2dc8875b44e6b15ad7c2dd1_1,About VA Health Benefits | Veterans Affairs#1_0,200,0,100,bm25,5,0.10526315789473684,0.3333333333333333,0.9473494311521257,0.8947368421052632,1,7
+13f5099fe2dc8875b44e6b15ad7c2dd1_1,About VA Health Benefits | Veterans Affairs#1_0,200,0,100,e5,5,0.10526315789473684,1.0,0.9473494311521257,0.8947368421052632,1,7
+13f5099fe2dc8875b44e6b15ad7c2dd1_1,About VA Health Benefits | Veterans Affairs#1_0,200,0,125,bm25,5,0.0,0.3333333333333333,1.0,1.0,1,7
+13f5099fe2dc8875b44e6b15ad7c2dd1_1,About VA Health Benefits | Veterans Affairs#1_0,200,0,125,e5,5,0.0,0.3333333333333333,0.6309297535714575,1.0,1,7
+13f5099fe2dc8875b44e6b15ad7c2dd1_1,About VA Health Benefits | Veterans Affairs#1_0,200,0,150,bm25,5,0.0,0.3333333333333333,1.0,1.0,1,7
+13f5099fe2dc8875b44e6b15ad7c2dd1_1,About VA Health Benefits | Veterans Affairs#1_0,200,0,150,e5,5,0.0,0.3333333333333333,0.5,1.0,1,7
+13f5099fe2dc8875b44e6b15ad7c2dd1_1,About VA Health Benefits | Veterans Affairs#1_0,200,0,175,bm25,5,0.0,0.3333333333333333,1.0,1.0,1,7
+13f5099fe2dc8875b44e6b15ad7c2dd1_1,About VA Health Benefits | Veterans Affairs#1_0,200,0,175,e5,5,0.0,0.3333333333333333,0.5,1.0,1,7
+8613de835a0e7a5a32057670c5704ed4_1,Totally Disabled Or Terminally Ill Policyholders | Veterans Affairs#1_0,200,0,0,bm25,5,0.4651162790697675,1.0,0.9633545118148177,1.0,1,3
+8613de835a0e7a5a32057670c5704ed4_1,Totally Disabled Or Terminally Ill Policyholders | Veterans Affairs#1_0,200,0,0,e5,5,0.4651162790697675,1.0,0.9633545118148177,1.0,1,3
+8613de835a0e7a5a32057670c5704ed4_1,Totally Disabled Or Terminally Ill Policyholders | Veterans Affairs#1_0,200,0,25,bm25,5,0.0,1.0,1.0,1.0,1,3
+8613de835a0e7a5a32057670c5704ed4_1,Totally Disabled Or Terminally Ill Policyholders | Veterans Affairs#1_0,200,0,25,e5,5,0.0,1.0,0.6309297535714575,1.0,1,3
+8613de835a0e7a5a32057670c5704ed4_1,Totally Disabled Or Terminally Ill Policyholders | Veterans Affairs#1_0,200,0,50,bm25,5,0.0,1.0,1.0,1.0,1,3
+8613de835a0e7a5a32057670c5704ed4_1,Totally Disabled Or Terminally Ill Policyholders | Veterans Affairs#1_0,200,0,50,e5,5,0.0,1.0,1.0,1.0,1,3
+8613de835a0e7a5a32057670c5704ed4_1,Totally Disabled Or Terminally Ill Policyholders | Veterans Affairs#1_0,200,0,75,bm25,5,0.0,1.0,0.6309297535714575,1.0,1,3
+8613de835a0e7a5a32057670c5704ed4_1,Totally Disabled Or Terminally Ill Policyholders | Veterans Affairs#1_0,200,0,75,e5,5,0.0,1.0,1.0,1.0,1,3
+8613de835a0e7a5a32057670c5704ed4_1,Totally Disabled Or Terminally Ill Policyholders | Veterans Affairs#1_0,200,0,100,bm25,5,0.0,1.0,0.5,1.0,1,3
+8613de835a0e7a5a32057670c5704ed4_1,Totally Disabled Or Terminally Ill Policyholders | Veterans Affairs#1_0,200,0,100,e5,5,0.0,1.0,0.5,1.0,1,3
+8613de835a0e7a5a32057670c5704ed4_1,Totally Disabled Or Terminally Ill Policyholders | Veterans Affairs#1_0,200,0,125,bm25,5,0.0,1.0,1.0,1.0,1,3
+8613de835a0e7a5a32057670c5704ed4_1,Totally Disabled Or Terminally Ill Policyholders | Veterans Affairs#1_0,200,0,125,e5,5,0.0,1.0,1.0,1.0,1,3
+8613de835a0e7a5a32057670c5704ed4_1,Totally Disabled Or Terminally Ill Policyholders | Veterans Affairs#1_0,200,0,150,bm25,5,0.0,1.0,1.0,1.0,1,3
+8613de835a0e7a5a32057670c5704ed4_1,Totally Disabled Or Terminally Ill Policyholders | Veterans Affairs#1_0,200,0,150,e5,5,0.0,1.0,1.0,1.0,1,3
+8613de835a0e7a5a32057670c5704ed4_1,Totally Disabled Or Terminally Ill Policyholders | Veterans Affairs#1_0,200,0,175,bm25,5,0.0,1.0,1.0,1.0,1,3
+8613de835a0e7a5a32057670c5704ed4_1,Totally Disabled Or Terminally Ill Policyholders | Veterans Affairs#1_0,200,0,175,e5,5,0.0,1.0,1.0,1.0,1,3
+4f0752b0c40a04e3c52485df82b2e935_1,Eligibility For VA Health Care | Veterans Affairs#1_0,200,0,0,bm25,5,0.0,1.0,1.0,1.0,1,5
+4f0752b0c40a04e3c52485df82b2e935_1,Eligibility For VA Health Care | Veterans Affairs#1_0,200,0,0,e5,5,0.0,0.5,0.6309297535714575,1.0,1,5
+4f0752b0c40a04e3c52485df82b2e935_1,Eligibility For VA Health Care | Veterans Affairs#1_0,200,0,25,bm25,5,0.0,1.0,1.0,1.0,2,5
+4f0752b0c40a04e3c52485df82b2e935_1,Eligibility For VA Health Care | Veterans Affairs#1_0,200,0,25,e5,5,0.0,0.3333333333333333,0.5,1.0,2,5
+4f0752b0c40a04e3c52485df82b2e935_1,Eligibility For VA Health Care | Veterans Affairs#1_0,200,0,50,bm25,5,0.0,1.0,1.0,1.0,2,5
+4f0752b0c40a04e3c52485df82b2e935_1,Eligibility For VA Health Care | Veterans Affairs#1_0,200,0,50,e5,5,0.0,0.5,0.6309297535714575,1.0,2,5
+4f0752b0c40a04e3c52485df82b2e935_1,Eligibility For VA Health Care | Veterans Affairs#1_0,200,0,75,bm25,5,0.0,1.0,1.0,1.0,2,5
+4f0752b0c40a04e3c52485df82b2e935_1,Eligibility For VA Health Care | Veterans Affairs#1_0,200,0,75,e5,5,0.0,1.0,1.0,1.0,2,5
+4f0752b0c40a04e3c52485df82b2e935_1,Eligibility For VA Health Care | Veterans Affairs#1_0,200,0,100,bm25,5,0.32432432432432434,0.5,0.7281317816710834,1.0,2,5
+4f0752b0c40a04e3c52485df82b2e935_1,Eligibility For VA Health Care | Veterans Affairs#1_0,200,0,100,e5,5,0.32432432432432434,1.0,0.9563656605145987,1.0,2,5
+4f0752b0c40a04e3c52485df82b2e935_1,Eligibility For VA Health Care | Veterans Affairs#1_0,200,0,125,bm25,5,0.0,1.0,1.0,1.0,1,5
+4f0752b0c40a04e3c52485df82b2e935_1,Eligibility For VA Health Care | Veterans Affairs#1_0,200,0,125,e5,5,0.0,0.5,0.5,1.0,1,5
+4f0752b0c40a04e3c52485df82b2e935_1,Eligibility For VA Health Care | Veterans Affairs#1_0,200,0,150,bm25,5,0.0,1.0,1.0,1.0,1,5
+4f0752b0c40a04e3c52485df82b2e935_1,Eligibility For VA Health Care | Veterans Affairs#1_0,200,0,150,e5,5,0.0,0.5,0.6309297535714575,1.0,1,5
+4f0752b0c40a04e3c52485df82b2e935_1,Eligibility For VA Health Care | Veterans Affairs#1_0,200,0,175,bm25,5,0.0,1.0,1.0,1.0,1,5
+4f0752b0c40a04e3c52485df82b2e935_1,Eligibility For VA Health Care | Veterans Affairs#1_0,200,0,175,e5,5,0.0,0.5,0.6309297535714575,1.0,1,5
+c17a9f05b035ddc11c46cc33cb799985_1,Family Group Life Insurance (FSGLI) | Veterans Affairs#1_0,200,0,0,bm25,5,0.0,0.3333333333333333,0.5,1.0,3,6
+c17a9f05b035ddc11c46cc33cb799985_1,Family Group Life Insurance (FSGLI) | Veterans Affairs#1_0,200,0,0,e5,5,0.0,0.5,0.6309297535714575,1.0,3,6
+c17a9f05b035ddc11c46cc33cb799985_1,Family Group Life Insurance (FSGLI) | Veterans Affairs#1_0,200,0,25,bm25,5,0.0,0.3333333333333333,0.43067655807339306,1.0,4,6
+c17a9f05b035ddc11c46cc33cb799985_1,Family Group Life Insurance (FSGLI) | Veterans Affairs#1_0,200,0,25,e5,5,0.0,1.0,1.0,1.0,4,6
+c17a9f05b035ddc11c46cc33cb799985_1,Family Group Life Insurance (FSGLI) | Veterans Affairs#1_0,200,0,50,bm25,5,0.0,0.3333333333333333,0.38685280723454163,1.0,4,6
+c17a9f05b035ddc11c46cc33cb799985_1,Family Group Life Insurance (FSGLI) | Veterans Affairs#1_0,200,0,50,e5,5,0.0,0.5,1.0,1.0,4,6
+c17a9f05b035ddc11c46cc33cb799985_1,Family Group Life Insurance (FSGLI) | Veterans Affairs#1_0,200,0,75,bm25,5,0.0,0.25,0.38685280723454163,1.0,4,6
+c17a9f05b035ddc11c46cc33cb799985_1,Family Group Life Insurance (FSGLI) | Veterans Affairs#1_0,200,0,75,e5,5,0.0,1.0,1.0,1.0,4,6
+c17a9f05b035ddc11c46cc33cb799985_1,Family Group Life Insurance (FSGLI) | Veterans Affairs#1_0,200,0,100,bm25,5,0.0,0.3333333333333333,0.38685280723454163,1.0,4,6
+c17a9f05b035ddc11c46cc33cb799985_1,Family Group Life Insurance (FSGLI) | Veterans Affairs#1_0,200,0,100,e5,5,0.0,0.5,1.0,1.0,4,6
+c17a9f05b035ddc11c46cc33cb799985_1,Family Group Life Insurance (FSGLI) | Veterans Affairs#1_0,200,0,125,bm25,5,0.0,0.3333333333333333,0.5,1.0,4,6
+c17a9f05b035ddc11c46cc33cb799985_1,Family Group Life Insurance (FSGLI) | Veterans Affairs#1_0,200,0,125,e5,5,0.0,1.0,1.0,1.0,4,6
+c17a9f05b035ddc11c46cc33cb799985_1,Family Group Life Insurance (FSGLI) | Veterans Affairs#1_0,200,0,150,bm25,5,0.3571428571428571,0.14285714285714285,0.19013822651022164,0.35714285714285715,4,6
+c17a9f05b035ddc11c46cc33cb799985_1,Family Group Life Insurance (FSGLI) | Veterans Affairs#1_0,200,0,150,e5,5,0.3571428571428571,0.2,0.7076217626708076,1.0,4,6
+c17a9f05b035ddc11c46cc33cb799985_1,Family Group Life Insurance (FSGLI) | Veterans Affairs#1_0,200,0,175,bm25,5,0.0,0.3333333333333333,0.5,1.0,3,6
+c17a9f05b035ddc11c46cc33cb799985_1,Family Group Life Insurance (FSGLI) | Veterans Affairs#1_0,200,0,175,e5,5,0.0,0.5,1.0,1.0,3,6
+ec489ea81e49c23eda3254fdc44f5f8d_1,Family Group Life Insurance (FSGLI) | Veterans Affairs#1_0,200,0,0,bm25,5,0.0,0.5,0.6309297535714575,1.0,3,6
+ec489ea81e49c23eda3254fdc44f5f8d_1,Family Group Life Insurance (FSGLI) | Veterans Affairs#1_0,200,0,0,e5,5,0.0,0.5,0.6309297535714575,1.0,3,6
+ec489ea81e49c23eda3254fdc44f5f8d_1,Family Group Life Insurance (FSGLI) | Veterans Affairs#1_0,200,0,25,bm25,5,0.0,0.5,0.6309297535714575,1.0,4,6
+ec489ea81e49c23eda3254fdc44f5f8d_1,Family Group Life Insurance (FSGLI) | Veterans Affairs#1_0,200,0,25,e5,5,0.0,1.0,1.0,1.0,4,6
+ec489ea81e49c23eda3254fdc44f5f8d_1,Family Group Life Insurance (FSGLI) | Veterans Affairs#1_0,200,0,50,bm25,5,0.0,0.5,1.0,1.0,4,6
+ec489ea81e49c23eda3254fdc44f5f8d_1,Family Group Life Insurance (FSGLI) | Veterans Affairs#1_0,200,0,50,e5,5,0.0,1.0,1.0,1.0,4,6
+ec489ea81e49c23eda3254fdc44f5f8d_1,Family Group Life Insurance (FSGLI) | Veterans Affairs#1_0,200,0,75,bm25,5,0.0,0.5,1.0,1.0,4,6
+ec489ea81e49c23eda3254fdc44f5f8d_1,Family Group Life Insurance (FSGLI) | Veterans Affairs#1_0,200,0,75,e5,5,0.0,1.0,1.0,1.0,4,6
+ec489ea81e49c23eda3254fdc44f5f8d_1,Family Group Life Insurance (FSGLI) | Veterans Affairs#1_0,200,0,100,bm25,5,0.0,0.5,1.0,1.0,4,6
+ec489ea81e49c23eda3254fdc44f5f8d_1,Family Group Life Insurance (FSGLI) | Veterans Affairs#1_0,200,0,100,e5,5,0.0,1.0,1.0,1.0,4,6
+ec489ea81e49c23eda3254fdc44f5f8d_1,Family Group Life Insurance (FSGLI) | Veterans Affairs#1_0,200,0,125,bm25,5,0.0,0.5,0.6309297535714575,1.0,4,6
+ec489ea81e49c23eda3254fdc44f5f8d_1,Family Group Life Insurance (FSGLI) | Veterans Affairs#1_0,200,0,125,e5,5,0.0,1.0,1.0,1.0,4,6
+ec489ea81e49c23eda3254fdc44f5f8d_1,Family Group Life Insurance (FSGLI) | Veterans Affairs#1_0,200,0,150,bm25,5,0.3571428571428571,0.2,0.5339638206106945,1.0,4,6
+ec489ea81e49c23eda3254fdc44f5f8d_1,Family Group Life Insurance (FSGLI) | Veterans Affairs#1_0,200,0,150,e5,5,0.3571428571428571,0.2,0.5339638206106945,1.0,4,6
+ec489ea81e49c23eda3254fdc44f5f8d_1,Family Group Life Insurance (FSGLI) | Veterans Affairs#1_0,200,0,175,bm25,5,0.0,0.5,0.6309297535714575,1.0,3,6
+ec489ea81e49c23eda3254fdc44f5f8d_1,Family Group Life Insurance (FSGLI) | Veterans Affairs#1_0,200,0,175,e5,5,0.0,0.5,1.0,1.0,3,6
+8e491749cbdbf0dfb902f91299a9e330_1,Family Group Life Insurance (FSGLI) | Veterans Affairs#1_0,200,0,0,bm25,5,0.0,0.5,0.6309297535714575,1.0,3,6
+8e491749cbdbf0dfb902f91299a9e330_1,Family Group Life Insurance (FSGLI) | Veterans Affairs#1_0,200,0,0,e5,5,0.0,0.5,0.6309297535714575,1.0,3,6
+8e491749cbdbf0dfb902f91299a9e330_1,Family Group Life Insurance (FSGLI) | Veterans Affairs#1_0,200,0,25,bm25,5,0.0,0.5,0.6309297535714575,1.0,4,6
+8e491749cbdbf0dfb902f91299a9e330_1,Family Group Life Insurance (FSGLI) | Veterans Affairs#1_0,200,0,25,e5,5,0.0,1.0,1.0,1.0,4,6
+8e491749cbdbf0dfb902f91299a9e330_1,Family Group Life Insurance (FSGLI) | Veterans Affairs#1_0,200,0,50,bm25,5,0.0,0.5,1.0,1.0,4,6
+8e491749cbdbf0dfb902f91299a9e330_1,Family Group Life Insurance (FSGLI) | Veterans Affairs#1_0,200,0,50,e5,5,0.0,1.0,1.0,1.0,4,6
+8e491749cbdbf0dfb902f91299a9e330_1,Family Group Life Insurance (FSGLI) | Veterans Affairs#1_0,200,0,75,bm25,5,0.0,0.5,1.0,1.0,4,6
+8e491749cbdbf0dfb902f91299a9e330_1,Family Group Life Insurance (FSGLI) | Veterans Affairs#1_0,200,0,75,e5,5,0.0,1.0,1.0,1.0,4,6
+8e491749cbdbf0dfb902f91299a9e330_1,Family Group Life Insurance (FSGLI) | Veterans Affairs#1_0,200,0,100,bm25,5,0.0,0.5,1.0,1.0,4,6
+8e491749cbdbf0dfb902f91299a9e330_1,Family Group Life Insurance (FSGLI) | Veterans Affairs#1_0,200,0,100,e5,5,0.0,1.0,1.0,1.0,4,6
+8e491749cbdbf0dfb902f91299a9e330_1,Family Group Life Insurance (FSGLI) | Veterans Affairs#1_0,200,0,125,bm25,5,0.0,0.5,0.6309297535714575,1.0,4,6
+8e491749cbdbf0dfb902f91299a9e330_1,Family Group Life Insurance (FSGLI) | Veterans Affairs#1_0,200,0,125,e5,5,0.0,1.0,1.0,1.0,4,6
+8e491749cbdbf0dfb902f91299a9e330_1,Family Group Life Insurance (FSGLI) | Veterans Affairs#1_0,200,0,150,bm25,5,0.3571428571428571,0.2,0.5339638206106945,1.0,4,6
+8e491749cbdbf0dfb902f91299a9e330_1,Family Group Life Insurance (FSGLI) | Veterans Affairs#1_0,200,0,150,e5,5,0.3571428571428571,0.2,0.5339638206106945,1.0,4,6
+8e491749cbdbf0dfb902f91299a9e330_1,Family Group Life Insurance (FSGLI) | Veterans Affairs#1_0,200,0,175,bm25,5,0.0,0.5,0.6309297535714575,1.0,3,6
+8e491749cbdbf0dfb902f91299a9e330_1,Family Group Life Insurance (FSGLI) | Veterans Affairs#1_0,200,0,175,e5,5,0.0,0.5,1.0,1.0,3,6
+626ada2cf6acf4ee7dc1b94c70c4a51c_1,Family Group Life Insurance (FSGLI) | Veterans Affairs#1_0,200,0,0,bm25,5,0.0,0.3333333333333333,0.5,1.0,3,6
+626ada2cf6acf4ee7dc1b94c70c4a51c_1,Family Group Life Insurance (FSGLI) | Veterans Affairs#1_0,200,0,0,e5,5,0.0,0.5,0.6309297535714575,1.0,3,6
+626ada2cf6acf4ee7dc1b94c70c4a51c_1,Family Group Life Insurance (FSGLI) | Veterans Affairs#1_0,200,0,25,bm25,5,0.0,0.3333333333333333,0.5,1.0,4,6
+626ada2cf6acf4ee7dc1b94c70c4a51c_1,Family Group Life Insurance (FSGLI) | Veterans Affairs#1_0,200,0,25,e5,5,0.0,0.5,1.0,1.0,4,6
+626ada2cf6acf4ee7dc1b94c70c4a51c_1,Family Group Life Insurance (FSGLI) | Veterans Affairs#1_0,200,0,50,bm25,5,0.0,0.3333333333333333,0.5,1.0,4,6
+626ada2cf6acf4ee7dc1b94c70c4a51c_1,Family Group Life Insurance (FSGLI) | Veterans Affairs#1_0,200,0,50,e5,5,0.0,0.5,1.0,1.0,4,6
+626ada2cf6acf4ee7dc1b94c70c4a51c_1,Family Group Life Insurance (FSGLI) | Veterans Affairs#1_0,200,0,75,bm25,5,0.0,0.3333333333333333,0.6309297535714575,1.0,4,6
+626ada2cf6acf4ee7dc1b94c70c4a51c_1,Family Group Life Insurance (FSGLI) | Veterans Affairs#1_0,200,0,75,e5,5,0.0,1.0,1.0,1.0,4,6
+626ada2cf6acf4ee7dc1b94c70c4a51c_1,Family Group Life Insurance (FSGLI) | Veterans Affairs#1_0,200,0,100,bm25,5,0.0,0.3333333333333333,0.6309297535714575,1.0,4,6
+626ada2cf6acf4ee7dc1b94c70c4a51c_1,Family Group Life Insurance (FSGLI) | Veterans Affairs#1_0,200,0,100,e5,5,0.0,0.5,1.0,1.0,4,6
+626ada2cf6acf4ee7dc1b94c70c4a51c_1,Family Group Life Insurance (FSGLI) | Veterans Affairs#1_0,200,0,125,bm25,5,0.0,0.3333333333333333,0.5,1.0,4,6
+626ada2cf6acf4ee7dc1b94c70c4a51c_1,Family Group Life Insurance (FSGLI) | Veterans Affairs#1_0,200,0,125,e5,5,0.0,1.0,1.0,1.0,4,6
+626ada2cf6acf4ee7dc1b94c70c4a51c_1,Family Group Life Insurance (FSGLI) | Veterans Affairs#1_0,200,0,150,bm25,5,0.3571428571428571,0.16666666666666666,0.19013822651022164,0.35714285714285715,4,6
+626ada2cf6acf4ee7dc1b94c70c4a51c_1,Family Group Life Insurance (FSGLI) | Veterans Affairs#1_0,200,0,150,e5,5,0.3571428571428571,0.2,0.5672730384435805,1.0,4,6
+626ada2cf6acf4ee7dc1b94c70c4a51c_1,Family Group Life Insurance (FSGLI) | Veterans Affairs#1_0,200,0,175,bm25,5,0.0,0.3333333333333333,0.5,1.0,3,6
+626ada2cf6acf4ee7dc1b94c70c4a51c_1,Family Group Life Insurance (FSGLI) | Veterans Affairs#1_0,200,0,175,e5,5,0.0,0.5,1.0,1.0,3,6
+ec376811d6d2e9b7b3c3775f18cbdcd7_1,Family Group Life Insurance (FSGLI) | Veterans Affairs#1_0,200,0,0,bm25,5,0.0,0.5,0.6309297535714575,1.0,3,6
+ec376811d6d2e9b7b3c3775f18cbdcd7_1,Family Group Life Insurance (FSGLI) | Veterans Affairs#1_0,200,0,0,e5,5,0.0,0.5,0.6309297535714575,1.0,3,6
+ec376811d6d2e9b7b3c3775f18cbdcd7_1,Family Group Life Insurance (FSGLI) | Veterans Affairs#1_0,200,0,25,bm25,5,0.0,0.5,0.6309297535714575,1.0,4,6
+ec376811d6d2e9b7b3c3775f18cbdcd7_1,Family Group Life Insurance (FSGLI) | Veterans Affairs#1_0,200,0,25,e5,5,0.0,0.5,1.0,1.0,4,6
+ec376811d6d2e9b7b3c3775f18cbdcd7_1,Family Group Life Insurance (FSGLI) | Veterans Affairs#1_0,200,0,50,bm25,5,0.0,0.5,0.6309297535714575,1.0,4,6
+ec376811d6d2e9b7b3c3775f18cbdcd7_1,Family Group Life Insurance (FSGLI) | Veterans Affairs#1_0,200,0,50,e5,5,0.0,0.5,1.0,1.0,4,6
+ec376811d6d2e9b7b3c3775f18cbdcd7_1,Family Group Life Insurance (FSGLI) | Veterans Affairs#1_0,200,0,75,bm25,5,0.0,0.5,0.6309297535714575,1.0,4,6
+ec376811d6d2e9b7b3c3775f18cbdcd7_1,Family Group Life Insurance (FSGLI) | Veterans Affairs#1_0,200,0,75,e5,5,0.0,1.0,1.0,1.0,4,6
+ec376811d6d2e9b7b3c3775f18cbdcd7_1,Family Group Life Insurance (FSGLI) | Veterans Affairs#1_0,200,0,100,bm25,5,0.0,0.5,1.0,1.0,4,6
+ec376811d6d2e9b7b3c3775f18cbdcd7_1,Family Group Life Insurance (FSGLI) | Veterans Affairs#1_0,200,0,100,e5,5,0.0,0.5,1.0,1.0,4,6
+ec376811d6d2e9b7b3c3775f18cbdcd7_1,Family Group Life Insurance (FSGLI) | Veterans Affairs#1_0,200,0,125,bm25,5,0.0,0.5,0.6309297535714575,1.0,4,6
+ec376811d6d2e9b7b3c3775f18cbdcd7_1,Family Group Life Insurance (FSGLI) | Veterans Affairs#1_0,200,0,125,e5,5,0.0,1.0,1.0,1.0,4,6
+ec376811d6d2e9b7b3c3775f18cbdcd7_1,Family Group Life Insurance (FSGLI) | Veterans Affairs#1_0,200,0,150,bm25,5,0.3571428571428571,0.2,0.5339638206106945,1.0,4,6
+ec376811d6d2e9b7b3c3775f18cbdcd7_1,Family Group Life Insurance (FSGLI) | Veterans Affairs#1_0,200,0,150,e5,5,0.3571428571428571,0.2,0.5672730384435805,1.0,4,6
+ec376811d6d2e9b7b3c3775f18cbdcd7_1,Family Group Life Insurance (FSGLI) | Veterans Affairs#1_0,200,0,175,bm25,5,0.0,0.5,0.6309297535714575,1.0,3,6
+ec376811d6d2e9b7b3c3775f18cbdcd7_1,Family Group Life Insurance (FSGLI) | Veterans Affairs#1_0,200,0,175,e5,5,0.0,0.5,1.0,1.0,3,6
+1aa5fa5d561dff7aece0eb49f312af87_1,Family Group Life Insurance (FSGLI) | Veterans Affairs#1_0,200,0,0,bm25,5,0.0,0.3333333333333333,0.5,1.0,3,6
+1aa5fa5d561dff7aece0eb49f312af87_1,Family Group Life Insurance (FSGLI) | Veterans Affairs#1_0,200,0,0,e5,5,0.0,0.3333333333333333,0.5,1.0,3,6
+1aa5fa5d561dff7aece0eb49f312af87_1,Family Group Life Insurance (FSGLI) | Veterans Affairs#1_0,200,0,25,bm25,5,0.0,0.3333333333333333,0.5,1.0,4,6
+1aa5fa5d561dff7aece0eb49f312af87_1,Family Group Life Insurance (FSGLI) | Veterans Affairs#1_0,200,0,25,e5,5,0.0,0.5,1.0,1.0,4,6
+1aa5fa5d561dff7aece0eb49f312af87_1,Family Group Life Insurance (FSGLI) | Veterans Affairs#1_0,200,0,50,bm25,5,0.0,0.3333333333333333,0.43067655807339306,1.0,4,6
+1aa5fa5d561dff7aece0eb49f312af87_1,Family Group Life Insurance (FSGLI) | Veterans Affairs#1_0,200,0,50,e5,5,0.0,0.3333333333333333,1.0,1.0,4,6
+1aa5fa5d561dff7aece0eb49f312af87_1,Family Group Life Insurance (FSGLI) | Veterans Affairs#1_0,200,0,75,bm25,5,0.0,0.3333333333333333,0.38685280723454163,1.0,4,6
+1aa5fa5d561dff7aece0eb49f312af87_1,Family Group Life Insurance (FSGLI) | Veterans Affairs#1_0,200,0,75,e5,5,0.0,0.5,1.0,1.0,4,6
+1aa5fa5d561dff7aece0eb49f312af87_1,Family Group Life Insurance (FSGLI) | Veterans Affairs#1_0,200,0,100,bm25,5,0.0,0.3333333333333333,0.43067655807339306,1.0,4,6
+1aa5fa5d561dff7aece0eb49f312af87_1,Family Group Life Insurance (FSGLI) | Veterans Affairs#1_0,200,0,100,e5,5,0.0,0.3333333333333333,1.0,1.0,4,6
+1aa5fa5d561dff7aece0eb49f312af87_1,Family Group Life Insurance (FSGLI) | Veterans Affairs#1_0,200,0,125,bm25,5,0.0,0.25,0.38685280723454163,1.0,4,6
+1aa5fa5d561dff7aece0eb49f312af87_1,Family Group Life Insurance (FSGLI) | Veterans Affairs#1_0,200,0,125,e5,5,0.0,1.0,1.0,1.0,4,6
+1aa5fa5d561dff7aece0eb49f312af87_1,Family Group Life Insurance (FSGLI) | Veterans Affairs#1_0,200,0,150,bm25,5,0.3571428571428571,0.14285714285714285,0.14711101337615276,0.35714285714285715,4,6
+1aa5fa5d561dff7aece0eb49f312af87_1,Family Group Life Insurance (FSGLI) | Veterans Affairs#1_0,200,0,150,e5,5,0.3571428571428571,0.16666666666666666,0.5339638206106945,1.0,4,6
+1aa5fa5d561dff7aece0eb49f312af87_1,Family Group Life Insurance (FSGLI) | Veterans Affairs#1_0,200,0,175,bm25,5,0.0,0.3333333333333333,0.43067655807339306,1.0,3,6
+1aa5fa5d561dff7aece0eb49f312af87_1,Family Group Life Insurance (FSGLI) | Veterans Affairs#1_0,200,0,175,e5,5,0.0,0.3333333333333333,0.6309297535714575,1.0,3,6
+1333848d61e359b78c9d42740497b4c3_1,Family Group Life Insurance (FSGLI) | Veterans Affairs#1_0,200,0,0,bm25,5,0.0,0.5,0.6309297535714575,1.0,3,6
+1333848d61e359b78c9d42740497b4c3_1,Family Group Life Insurance (FSGLI) | Veterans Affairs#1_0,200,0,0,e5,5,0.0,0.5,0.6309297535714575,1.0,3,6
+1333848d61e359b78c9d42740497b4c3_1,Family Group Life Insurance (FSGLI) | Veterans Affairs#1_0,200,0,25,bm25,5,0.0,0.5,0.6309297535714575,1.0,4,6
+1333848d61e359b78c9d42740497b4c3_1,Family Group Life Insurance (FSGLI) | Veterans Affairs#1_0,200,0,25,e5,5,0.0,1.0,1.0,1.0,4,6
+1333848d61e359b78c9d42740497b4c3_1,Family Group Life Insurance (FSGLI) | Veterans Affairs#1_0,200,0,50,bm25,5,0.0,0.5,1.0,1.0,4,6
+1333848d61e359b78c9d42740497b4c3_1,Family Group Life Insurance (FSGLI) | Veterans Affairs#1_0,200,0,50,e5,5,0.0,1.0,1.0,1.0,4,6
+1333848d61e359b78c9d42740497b4c3_1,Family Group Life Insurance (FSGLI) | Veterans Affairs#1_0,200,0,75,bm25,5,0.0,0.5,1.0,1.0,4,6
+1333848d61e359b78c9d42740497b4c3_1,Family Group Life Insurance (FSGLI) | Veterans Affairs#1_0,200,0,75,e5,5,0.0,1.0,1.0,1.0,4,6
+1333848d61e359b78c9d42740497b4c3_1,Family Group Life Insurance (FSGLI) | Veterans Affairs#1_0,200,0,100,bm25,5,0.0,0.5,1.0,1.0,4,6
+1333848d61e359b78c9d42740497b4c3_1,Family Group Life Insurance (FSGLI) | Veterans Affairs#1_0,200,0,100,e5,5,0.0,1.0,1.0,1.0,4,6
+1333848d61e359b78c9d42740497b4c3_1,Family Group Life Insurance (FSGLI) | Veterans Affairs#1_0,200,0,125,bm25,5,0.0,0.5,0.6309297535714575,1.0,4,6
+1333848d61e359b78c9d42740497b4c3_1,Family Group Life Insurance (FSGLI) | Veterans Affairs#1_0,200,0,125,e5,5,0.0,1.0,1.0,1.0,4,6
+1333848d61e359b78c9d42740497b4c3_1,Family Group Life Insurance (FSGLI) | Veterans Affairs#1_0,200,0,150,bm25,5,0.3571428571428571,0.2,0.5339638206106945,1.0,4,6
+1333848d61e359b78c9d42740497b4c3_1,Family Group Life Insurance (FSGLI) | Veterans Affairs#1_0,200,0,150,e5,5,0.3571428571428571,0.2,0.5339638206106945,1.0,4,6
+1333848d61e359b78c9d42740497b4c3_1,Family Group Life Insurance (FSGLI) | Veterans Affairs#1_0,200,0,175,bm25,5,0.0,0.5,0.6309297535714575,1.0,3,6
+1333848d61e359b78c9d42740497b4c3_1,Family Group Life Insurance (FSGLI) | Veterans Affairs#1_0,200,0,175,e5,5,0.0,0.5,1.0,1.0,3,6
+5d049b102eefd688ae47e32182512988_1,Family Group Life Insurance (FSGLI) | Veterans Affairs#1_0,200,0,0,bm25,5,0.0,0.5,0.6309297535714575,1.0,3,6
+5d049b102eefd688ae47e32182512988_1,Family Group Life Insurance (FSGLI) | Veterans Affairs#1_0,200,0,0,e5,5,0.0,0.5,0.6309297535714575,1.0,3,6
+5d049b102eefd688ae47e32182512988_1,Family Group Life Insurance (FSGLI) | Veterans Affairs#1_0,200,0,25,bm25,5,0.0,0.5,0.6309297535714575,1.0,4,6
+5d049b102eefd688ae47e32182512988_1,Family Group Life Insurance (FSGLI) | Veterans Affairs#1_0,200,0,25,e5,5,0.0,1.0,1.0,1.0,4,6
+5d049b102eefd688ae47e32182512988_1,Family Group Life Insurance (FSGLI) | Veterans Affairs#1_0,200,0,50,bm25,5,0.0,0.5,1.0,1.0,4,6
+5d049b102eefd688ae47e32182512988_1,Family Group Life Insurance (FSGLI) | Veterans Affairs#1_0,200,0,50,e5,5,0.0,1.0,1.0,1.0,4,6
+5d049b102eefd688ae47e32182512988_1,Family Group Life Insurance (FSGLI) | Veterans Affairs#1_0,200,0,75,bm25,5,0.0,0.5,1.0,1.0,4,6
+5d049b102eefd688ae47e32182512988_1,Family Group Life Insurance (FSGLI) | Veterans Affairs#1_0,200,0,75,e5,5,0.0,1.0,1.0,1.0,4,6
+5d049b102eefd688ae47e32182512988_1,Family Group Life Insurance (FSGLI) | Veterans Affairs#1_0,200,0,100,bm25,5,0.0,0.5,1.0,1.0,4,6
+5d049b102eefd688ae47e32182512988_1,Family Group Life Insurance (FSGLI) | Veterans Affairs#1_0,200,0,100,e5,5,0.0,1.0,1.0,1.0,4,6
+5d049b102eefd688ae47e32182512988_1,Family Group Life Insurance (FSGLI) | Veterans Affairs#1_0,200,0,125,bm25,5,0.0,0.5,0.6309297535714575,1.0,4,6
+5d049b102eefd688ae47e32182512988_1,Family Group Life Insurance (FSGLI) | Veterans Affairs#1_0,200,0,125,e5,5,0.0,1.0,1.0,1.0,4,6
+5d049b102eefd688ae47e32182512988_1,Family Group Life Insurance (FSGLI) | Veterans Affairs#1_0,200,0,150,bm25,5,0.3571428571428571,0.2,0.5339638206106945,1.0,4,6
+5d049b102eefd688ae47e32182512988_1,Family Group Life Insurance (FSGLI) | Veterans Affairs#1_0,200,0,150,e5,5,0.3571428571428571,0.2,0.5339638206106945,1.0,4,6
+5d049b102eefd688ae47e32182512988_1,Family Group Life Insurance (FSGLI) | Veterans Affairs#1_0,200,0,175,bm25,5,0.0,0.5,0.6309297535714575,1.0,3,6
+5d049b102eefd688ae47e32182512988_1,Family Group Life Insurance (FSGLI) | Veterans Affairs#1_0,200,0,175,e5,5,0.0,0.5,1.0,1.0,3,6
+57ad097416ada328974c93a2d80a7994_1,Family Group Life Insurance (FSGLI) | Veterans Affairs#1_0,200,0,0,bm25,5,0.0,1.0,1.0,1.0,3,6
+57ad097416ada328974c93a2d80a7994_1,Family Group Life Insurance (FSGLI) | Veterans Affairs#1_0,200,0,0,e5,5,0.0,0.5,0.6309297535714575,1.0,3,6
+57ad097416ada328974c93a2d80a7994_1,Family Group Life Insurance (FSGLI) | Veterans Affairs#1_0,200,0,25,bm25,5,0.0,1.0,1.0,1.0,4,6
+57ad097416ada328974c93a2d80a7994_1,Family Group Life Insurance (FSGLI) | Veterans Affairs#1_0,200,0,25,e5,5,0.0,0.5,1.0,1.0,4,6
+57ad097416ada328974c93a2d80a7994_1,Family Group Life Insurance (FSGLI) | Veterans Affairs#1_0,200,0,50,bm25,5,0.0,1.0,1.0,1.0,4,6
+57ad097416ada328974c93a2d80a7994_1,Family Group Life Insurance (FSGLI) | Veterans Affairs#1_0,200,0,50,e5,5,0.0,0.5,1.0,1.0,4,6
+57ad097416ada328974c93a2d80a7994_1,Family Group Life Insurance (FSGLI) | Veterans Affairs#1_0,200,0,75,bm25,5,0.0,1.0,1.0,1.0,4,6
+57ad097416ada328974c93a2d80a7994_1,Family Group Life Insurance (FSGLI) | Veterans Affairs#1_0,200,0,75,e5,5,0.0,1.0,1.0,1.0,4,6
+57ad097416ada328974c93a2d80a7994_1,Family Group Life Insurance (FSGLI) | Veterans Affairs#1_0,200,0,100,bm25,5,0.0,1.0,1.0,1.0,4,6
+57ad097416ada328974c93a2d80a7994_1,Family Group Life Insurance (FSGLI) | Veterans Affairs#1_0,200,0,100,e5,5,0.0,0.5,1.0,1.0,4,6
+57ad097416ada328974c93a2d80a7994_1,Family Group Life Insurance (FSGLI) | Veterans Affairs#1_0,200,0,125,bm25,5,0.0,0.3333333333333333,0.6309297535714575,1.0,4,6
+57ad097416ada328974c93a2d80a7994_1,Family Group Life Insurance (FSGLI) | Veterans Affairs#1_0,200,0,125,e5,5,0.0,1.0,1.0,1.0,4,6
+57ad097416ada328974c93a2d80a7994_1,Family Group Life Insurance (FSGLI) | Veterans Affairs#1_0,200,0,150,bm25,5,0.3571428571428571,0.16666666666666666,0.2399277287932162,0.35714285714285715,4,6
+57ad097416ada328974c93a2d80a7994_1,Family Group Life Insurance (FSGLI) | Veterans Affairs#1_0,200,0,150,e5,5,0.3571428571428571,0.2,0.5672730384435805,1.0,4,6
+57ad097416ada328974c93a2d80a7994_1,Family Group Life Insurance (FSGLI) | Veterans Affairs#1_0,200,0,175,bm25,5,0.0,1.0,0.6309297535714575,1.0,3,6
+57ad097416ada328974c93a2d80a7994_1,Family Group Life Insurance (FSGLI) | Veterans Affairs#1_0,200,0,175,e5,5,0.0,0.5,1.0,1.0,3,6
+913fc40ef28cd20797d12c65407fe2bd_1,Family Group Life Insurance (FSGLI) | Veterans Affairs#1_0,200,0,0,bm25,5,0.0,0.5,0.6309297535714575,1.0,3,6
+913fc40ef28cd20797d12c65407fe2bd_1,Family Group Life Insurance (FSGLI) | Veterans Affairs#1_0,200,0,0,e5,5,0.0,1.0,1.0,1.0,3,6
+913fc40ef28cd20797d12c65407fe2bd_1,Family Group Life Insurance (FSGLI) | Veterans Affairs#1_0,200,0,25,bm25,5,0.0,0.5,1.0,1.0,4,6
+913fc40ef28cd20797d12c65407fe2bd_1,Family Group Life Insurance (FSGLI) | Veterans Affairs#1_0,200,0,25,e5,5,0.0,1.0,1.0,1.0,4,6
+913fc40ef28cd20797d12c65407fe2bd_1,Family Group Life Insurance (FSGLI) | Veterans Affairs#1_0,200,0,50,bm25,5,0.0,0.5,1.0,1.0,4,6
+913fc40ef28cd20797d12c65407fe2bd_1,Family Group Life Insurance (FSGLI) | Veterans Affairs#1_0,200,0,50,e5,5,0.0,1.0,1.0,1.0,4,6
+913fc40ef28cd20797d12c65407fe2bd_1,Family Group Life Insurance (FSGLI) | Veterans Affairs#1_0,200,0,75,bm25,5,0.0,0.5,1.0,1.0,4,6
+913fc40ef28cd20797d12c65407fe2bd_1,Family Group Life Insurance (FSGLI) | Veterans Affairs#1_0,200,0,75,e5,5,0.0,1.0,1.0,1.0,4,6
+913fc40ef28cd20797d12c65407fe2bd_1,Family Group Life Insurance (FSGLI) | Veterans Affairs#1_0,200,0,100,bm25,5,0.0,0.5,1.0,1.0,4,6
+913fc40ef28cd20797d12c65407fe2bd_1,Family Group Life Insurance (FSGLI) | Veterans Affairs#1_0,200,0,100,e5,5,0.0,1.0,1.0,1.0,4,6
+913fc40ef28cd20797d12c65407fe2bd_1,Family Group Life Insurance (FSGLI) | Veterans Affairs#1_0,200,0,125,bm25,5,0.0,0.5,1.0,1.0,4,6
+913fc40ef28cd20797d12c65407fe2bd_1,Family Group Life Insurance (FSGLI) | Veterans Affairs#1_0,200,0,125,e5,5,0.0,1.0,1.0,1.0,4,6
+913fc40ef28cd20797d12c65407fe2bd_1,Family Group Life Insurance (FSGLI) | Veterans Affairs#1_0,200,0,150,bm25,5,0.3571428571428571,0.2,0.4841743183276998,1.0,4,6
+913fc40ef28cd20797d12c65407fe2bd_1,Family Group Life Insurance (FSGLI) | Veterans Affairs#1_0,200,0,150,e5,5,0.3571428571428571,0.5,0.6696904372792157,1.0,4,6
+913fc40ef28cd20797d12c65407fe2bd_1,Family Group Life Insurance (FSGLI) | Veterans Affairs#1_0,200,0,175,bm25,5,0.0,0.3333333333333333,0.5,1.0,3,6
+913fc40ef28cd20797d12c65407fe2bd_1,Family Group Life Insurance (FSGLI) | Veterans Affairs#1_0,200,0,175,e5,5,0.0,0.5,1.0,1.0,3,6
+e103a4eb423f789dde1552b2120572f8_1,VA Nursing Homes And Assisted Living | Veterans Affairs#1_0,200,0,0,bm25,5,0.33333333333333337,0.16666666666666666,0.34591892421460524,0.3333333333333333,1,5
+e103a4eb423f789dde1552b2120572f8_1,VA Nursing Homes And Assisted Living | Veterans Affairs#1_0,200,0,0,e5,5,0.33333333333333337,0.16666666666666666,0.21825054161042456,0.3333333333333333,1,5
+e103a4eb423f789dde1552b2120572f8_1,VA Nursing Homes And Assisted Living | Veterans Affairs#1_0,200,0,25,bm25,5,0.0,1.0,1.0,1.0,1,5
+e103a4eb423f789dde1552b2120572f8_1,VA Nursing Homes And Assisted Living | Veterans Affairs#1_0,200,0,25,e5,5,0.0,0.3333333333333333,0.38685280723454163,1.0,1,5
+e103a4eb423f789dde1552b2120572f8_1,VA Nursing Homes And Assisted Living | Veterans Affairs#1_0,200,0,50,bm25,5,0.0,1.0,1.0,1.0,1,5
+e103a4eb423f789dde1552b2120572f8_1,VA Nursing Homes And Assisted Living | Veterans Affairs#1_0,200,0,50,e5,5,0.0,0.2,0.0,0.0,1,5
+e103a4eb423f789dde1552b2120572f8_1,VA Nursing Homes And Assisted Living | Veterans Affairs#1_0,200,0,75,bm25,5,0.0,1.0,1.0,1.0,1,5
+e103a4eb423f789dde1552b2120572f8_1,VA Nursing Homes And Assisted Living | Veterans Affairs#1_0,200,0,75,e5,5,0.0,0.5,0.6309297535714575,1.0,1,5
+e103a4eb423f789dde1552b2120572f8_1,VA Nursing Homes And Assisted Living | Veterans Affairs#1_0,200,0,100,bm25,5,0.0,1.0,1.0,1.0,1,5
+e103a4eb423f789dde1552b2120572f8_1,VA Nursing Homes And Assisted Living | Veterans Affairs#1_0,200,0,100,e5,5,0.0,0.5,0.6309297535714575,1.0,1,5
+e103a4eb423f789dde1552b2120572f8_1,VA Nursing Homes And Assisted Living | Veterans Affairs#1_0,200,0,125,bm25,5,0.0,1.0,1.0,1.0,1,5
+e103a4eb423f789dde1552b2120572f8_1,VA Nursing Homes And Assisted Living | Veterans Affairs#1_0,200,0,125,e5,5,0.0,0.5,1.0,1.0,1,5
+e103a4eb423f789dde1552b2120572f8_1,VA Nursing Homes And Assisted Living | Veterans Affairs#1_0,200,0,150,bm25,5,0.0,0.5,0.43067655807339306,1.0,1,5
+e103a4eb423f789dde1552b2120572f8_1,VA Nursing Homes And Assisted Living | Veterans Affairs#1_0,200,0,150,e5,5,0.0,0.25,0.5,1.0,1,5
+e103a4eb423f789dde1552b2120572f8_1,VA Nursing Homes And Assisted Living | Veterans Affairs#1_0,200,0,175,bm25,5,0.0,0.25,0.38685280723454163,1.0,1,5
+e103a4eb423f789dde1552b2120572f8_1,VA Nursing Homes And Assisted Living | Veterans Affairs#1_0,200,0,175,e5,5,0.0,0.16666666666666666,0.0,0.0,1,5
+e5bb2d25f30c3eb7627b3ca4a69f4196_1,Eligibility For VA Vocational Rehab And Employment | Veterans Affairs#1_0,200,0,0,bm25,5,0.0,0.5,0.6309297535714575,1.0,1,5
+e5bb2d25f30c3eb7627b3ca4a69f4196_1,Eligibility For VA Vocational Rehab And Employment | Veterans Affairs#1_0,200,0,0,e5,5,0.0,0.2,0.38685280723454163,1.0,1,5
+e5bb2d25f30c3eb7627b3ca4a69f4196_1,Eligibility For VA Vocational Rehab And Employment | Veterans Affairs#1_0,200,0,25,bm25,5,0.0,0.5,1.0,1.0,2,5
+e5bb2d25f30c3eb7627b3ca4a69f4196_1,Eligibility For VA Vocational Rehab And Employment | Veterans Affairs#1_0,200,0,25,e5,5,0.0,0.2,0.38685280723454163,1.0,2,5
+e5bb2d25f30c3eb7627b3ca4a69f4196_1,Eligibility For VA Vocational Rehab And Employment | Veterans Affairs#1_0,200,0,50,bm25,5,0.0,0.5,1.0,1.0,2,5
+e5bb2d25f30c3eb7627b3ca4a69f4196_1,Eligibility For VA Vocational Rehab And Employment | Veterans Affairs#1_0,200,0,50,e5,5,0.0,0.2,0.43067655807339306,1.0,2,5
+e5bb2d25f30c3eb7627b3ca4a69f4196_1,Eligibility For VA Vocational Rehab And Employment | Veterans Affairs#1_0,200,0,75,bm25,5,0.3846153846153846,1.0,0.9448056932429467,1.0,1,5
+e5bb2d25f30c3eb7627b3ca4a69f4196_1,Eligibility For VA Vocational Rehab And Employment | Veterans Affairs#1_0,200,0,75,e5,5,0.3846153846153846,0.5,0.46311971028002635,0.6153846153846154,1,5
+e5bb2d25f30c3eb7627b3ca4a69f4196_1,Eligibility For VA Vocational Rehab And Employment | Veterans Affairs#1_0,200,0,100,bm25,5,0.0,0.25,0.6309297535714575,1.0,1,5
+e5bb2d25f30c3eb7627b3ca4a69f4196_1,Eligibility For VA Vocational Rehab And Employment | Veterans Affairs#1_0,200,0,100,e5,5,0.0,0.2,0.6309297535714575,1.0,1,5
+e5bb2d25f30c3eb7627b3ca4a69f4196_1,Eligibility For VA Vocational Rehab And Employment | Veterans Affairs#1_0,200,0,125,bm25,5,0.0,0.25,0.6309297535714575,1.0,1,5
+e5bb2d25f30c3eb7627b3ca4a69f4196_1,Eligibility For VA Vocational Rehab And Employment | Veterans Affairs#1_0,200,0,125,e5,5,0.0,0.2,0.5,1.0,1,5
+e5bb2d25f30c3eb7627b3ca4a69f4196_1,Eligibility For VA Vocational Rehab And Employment | Veterans Affairs#1_0,200,0,150,bm25,5,0.0,0.5,0.6309297535714575,1.0,1,5
+e5bb2d25f30c3eb7627b3ca4a69f4196_1,Eligibility For VA Vocational Rehab And Employment | Veterans Affairs#1_0,200,0,150,e5,5,0.0,0.3333333333333333,0.5,1.0,1,5
+e5bb2d25f30c3eb7627b3ca4a69f4196_1,Eligibility For VA Vocational Rehab And Employment | Veterans Affairs#1_0,200,0,175,bm25,5,0.0,0.5,0.6309297535714575,1.0,1,5
+e5bb2d25f30c3eb7627b3ca4a69f4196_1,Eligibility For VA Vocational Rehab And Employment | Veterans Affairs#1_0,200,0,175,e5,5,0.0,0.2,0.38685280723454163,1.0,1,5
+19f79cabaf7b97ad5906c990af54adb6_1,Preparing for College | Federal Student Aid#1_0,200,0,0,bm25,5,0.0,0.5,0.6309297535714575,1.0,1,2
+19f79cabaf7b97ad5906c990af54adb6_1,Preparing for College | Federal Student Aid#1_0,200,0,0,e5,5,0.0,0.5,0.6309297535714575,1.0,1,2
+19f79cabaf7b97ad5906c990af54adb6_1,Preparing for College | Federal Student Aid#1_0,200,0,25,bm25,5,0.0,0.5,0.6309297535714575,1.0,2,2
+19f79cabaf7b97ad5906c990af54adb6_1,Preparing for College | Federal Student Aid#1_0,200,0,25,e5,5,0.0,1.0,1.0,1.0,2,2
+19f79cabaf7b97ad5906c990af54adb6_1,Preparing for College | Federal Student Aid#1_0,200,0,50,bm25,5,0.0,0.5,0.6309297535714575,1.0,2,2
+19f79cabaf7b97ad5906c990af54adb6_1,Preparing for College | Federal Student Aid#1_0,200,0,50,e5,5,0.0,0.5,1.0,1.0,2,2
+19f79cabaf7b97ad5906c990af54adb6_1,Preparing for College | Federal Student Aid#1_0,200,0,75,bm25,5,0.0,0.5,0.6309297535714575,1.0,2,2
+19f79cabaf7b97ad5906c990af54adb6_1,Preparing for College | Federal Student Aid#1_0,200,0,75,e5,5,0.0,1.0,1.0,1.0,2,2
+19f79cabaf7b97ad5906c990af54adb6_1,Preparing for College | Federal Student Aid#1_0,200,0,100,bm25,5,0.5,1.0,0.6934264036172708,1.0,1,2
+19f79cabaf7b97ad5906c990af54adb6_1,Preparing for College | Federal Student Aid#1_0,200,0,100,e5,5,0.5,0.5,1.0,1.0,1,2
+19f79cabaf7b97ad5906c990af54adb6_1,Preparing for College | Federal Student Aid#1_0,200,0,125,bm25,5,0.0,1.0,0.6309297535714575,1.0,1,2
+19f79cabaf7b97ad5906c990af54adb6_1,Preparing for College | Federal Student Aid#1_0,200,0,125,e5,5,0.0,1.0,1.0,1.0,1,2
+19f79cabaf7b97ad5906c990af54adb6_1,Preparing for College | Federal Student Aid#1_0,200,0,150,bm25,5,0.0,0.5,0.6309297535714575,1.0,1,2
+19f79cabaf7b97ad5906c990af54adb6_1,Preparing for College | Federal Student Aid#1_0,200,0,150,e5,5,0.0,0.5,1.0,1.0,1,2
+19f79cabaf7b97ad5906c990af54adb6_1,Preparing for College | Federal Student Aid#1_0,200,0,175,bm25,5,0.0,0.5,0.6309297535714575,1.0,1,2
+19f79cabaf7b97ad5906c990af54adb6_1,Preparing for College | Federal Student Aid#1_0,200,0,175,e5,5,0.0,0.5,1.0,1.0,1,2
+6c00f80fa975923b3af5df055f965f2b_1,IT Standards Library | Federal Student Aid#1_0,200,0,0,bm25,5,0.0,0.3333333333333333,0.5,1.0,1,5
+6c00f80fa975923b3af5df055f965f2b_1,IT Standards Library | Federal Student Aid#1_0,200,0,0,e5,5,0.0,0.2,0.38685280723454163,1.0,1,5
+6c00f80fa975923b3af5df055f965f2b_1,IT Standards Library | Federal Student Aid#1_0,200,0,25,bm25,5,0.0,0.3333333333333333,0.6309297535714575,1.0,2,5
+6c00f80fa975923b3af5df055f965f2b_1,IT Standards Library | Federal Student Aid#1_0,200,0,25,e5,5,0.0,0.25,0.38685280723454163,1.0,2,5
+6c00f80fa975923b3af5df055f965f2b_1,IT Standards Library | Federal Student Aid#1_0,200,0,50,bm25,5,0.0,0.3333333333333333,0.5,1.0,2,5
+6c00f80fa975923b3af5df055f965f2b_1,IT Standards Library | Federal Student Aid#1_0,200,0,50,e5,5,0.0,0.2,0.38685280723454163,1.0,2,5
+6c00f80fa975923b3af5df055f965f2b_1,IT Standards Library | Federal Student Aid#1_0,200,0,75,bm25,5,0.0,0.5,0.5,1.0,2,5
+6c00f80fa975923b3af5df055f965f2b_1,IT Standards Library | Federal Student Aid#1_0,200,0,75,e5,5,0.0,0.2,0.43067655807339306,1.0,2,5
+6c00f80fa975923b3af5df055f965f2b_1,IT Standards Library | Federal Student Aid#1_0,200,0,100,bm25,5,0.1707317073170732,0.25,0.497788321210625,1.0,2,5
+6c00f80fa975923b3af5df055f965f2b_1,IT Standards Library | Federal Student Aid#1_0,200,0,100,e5,5,0.1707317073170732,0.5,0.5462960589415025,1.0,2,5
+6c00f80fa975923b3af5df055f965f2b_1,IT Standards Library | Federal Student Aid#1_0,200,0,125,bm25,5,0.2195121951219512,0.3333333333333333,0.523050771799693,1.0,1,5
+6c00f80fa975923b3af5df055f965f2b_1,IT Standards Library | Federal Student Aid#1_0,200,0,125,e5,5,0.2195121951219512,0.5,0.6374529816048445,1.0,1,5
+6c00f80fa975923b3af5df055f965f2b_1,IT Standards Library | Federal Student Aid#1_0,200,0,150,bm25,5,0.0,0.25,0.5,1.0,1,5
+6c00f80fa975923b3af5df055f965f2b_1,IT Standards Library | Federal Student Aid#1_0,200,0,150,e5,5,0.0,0.3333333333333333,0.6309297535714575,1.0,1,5
+6c00f80fa975923b3af5df055f965f2b_1,IT Standards Library | Federal Student Aid#1_0,200,0,175,bm25,5,0.0,0.25,0.5,1.0,1,5
+6c00f80fa975923b3af5df055f965f2b_1,IT Standards Library | Federal Student Aid#1_0,200,0,175,e5,5,0.0,0.2,0.38685280723454163,1.0,1,5
+971be81a501acb52e143a12890772498_1,Income-Driven Repayment Plans | Federal Student Aid#1_0,200,0,0,bm25,5,0.0,1.0,1.0,1.0,12,16
+971be81a501acb52e143a12890772498_1,Income-Driven Repayment Plans | Federal Student Aid#1_0,200,0,0,e5,5,0.0,1.0,1.0,1.0,12,16
+971be81a501acb52e143a12890772498_1,Income-Driven Repayment Plans | Federal Student Aid#1_0,200,0,25,bm25,5,0.125,0.3333333333333333,0.45386163516139155,1.0,13,16
+971be81a501acb52e143a12890772498_1,Income-Driven Repayment Plans | Federal Student Aid#1_0,200,0,25,e5,5,0.125,1.0,0.9867018357966015,1.0,13,16
+971be81a501acb52e143a12890772498_1,Income-Driven Repayment Plans | Federal Student Aid#1_0,200,0,50,bm25,5,0.0,0.5,0.5,1.0,12,16
+971be81a501acb52e143a12890772498_1,Income-Driven Repayment Plans | Federal Student Aid#1_0,200,0,50,e5,5,0.0,0.2,0.38685280723454163,1.0,12,16
+971be81a501acb52e143a12890772498_1,Income-Driven Repayment Plans | Federal Student Aid#1_0,200,0,75,bm25,5,0.0,1.0,0.5,1.0,12,16
+971be81a501acb52e143a12890772498_1,Income-Driven Repayment Plans | Federal Student Aid#1_0,200,0,75,e5,5,0.0,1.0,0.43067655807339306,1.0,12,16
+971be81a501acb52e143a12890772498_1,Income-Driven Repayment Plans | Federal Student Aid#1_0,200,0,100,bm25,5,0.0,1.0,0.5,1.0,12,16
+971be81a501acb52e143a12890772498_1,Income-Driven Repayment Plans | Federal Student Aid#1_0,200,0,100,e5,5,0.0,1.0,0.5,1.0,12,16
+971be81a501acb52e143a12890772498_1,Income-Driven Repayment Plans | Federal Student Aid#1_0,200,0,125,bm25,5,0.0,1.0,0.5,1.0,12,16
+971be81a501acb52e143a12890772498_1,Income-Driven Repayment Plans | Federal Student Aid#1_0,200,0,125,e5,5,0.0,1.0,0.5,1.0,12,16
+971be81a501acb52e143a12890772498_1,Income-Driven Repayment Plans | Federal Student Aid#1_0,200,0,150,bm25,5,0.0,1.0,1.0,1.0,12,16
+971be81a501acb52e143a12890772498_1,Income-Driven Repayment Plans | Federal Student Aid#1_0,200,0,150,e5,5,0.0,1.0,1.0,1.0,12,16
+971be81a501acb52e143a12890772498_1,Income-Driven Repayment Plans | Federal Student Aid#1_0,200,0,175,bm25,5,0.0,1.0,1.0,1.0,12,16
+971be81a501acb52e143a12890772498_1,Income-Driven Repayment Plans | Federal Student Aid#1_0,200,0,175,e5,5,0.0,1.0,1.0,1.0,12,16
+f63d9e4755ac164ba7d3309414fd030e_1,Income-Driven Repayment Plans | Federal Student Aid#1_0,200,0,0,bm25,5,0.0,1.0,1.0,1.0,12,16
+f63d9e4755ac164ba7d3309414fd030e_1,Income-Driven Repayment Plans | Federal Student Aid#1_0,200,0,0,e5,5,0.0,1.0,1.0,1.0,12,16
+f63d9e4755ac164ba7d3309414fd030e_1,Income-Driven Repayment Plans | Federal Student Aid#1_0,200,0,25,bm25,5,0.125,0.3333333333333333,0.5117017241239731,1.0,13,16
+f63d9e4755ac164ba7d3309414fd030e_1,Income-Driven Repayment Plans | Federal Student Aid#1_0,200,0,25,e5,5,0.125,1.0,0.9867018357966015,1.0,13,16
+f63d9e4755ac164ba7d3309414fd030e_1,Income-Driven Repayment Plans | Federal Student Aid#1_0,200,0,50,bm25,5,0.0,0.5,0.5,1.0,12,16
+f63d9e4755ac164ba7d3309414fd030e_1,Income-Driven Repayment Plans | Federal Student Aid#1_0,200,0,50,e5,5,0.0,0.2,0.38685280723454163,1.0,12,16
+f63d9e4755ac164ba7d3309414fd030e_1,Income-Driven Repayment Plans | Federal Student Aid#1_0,200,0,75,bm25,5,0.0,1.0,0.6309297535714575,1.0,12,16
+f63d9e4755ac164ba7d3309414fd030e_1,Income-Driven Repayment Plans | Federal Student Aid#1_0,200,0,75,e5,5,0.0,1.0,0.43067655807339306,1.0,12,16
+f63d9e4755ac164ba7d3309414fd030e_1,Income-Driven Repayment Plans | Federal Student Aid#1_0,200,0,100,bm25,5,0.0,1.0,0.5,1.0,12,16
+f63d9e4755ac164ba7d3309414fd030e_1,Income-Driven Repayment Plans | Federal Student Aid#1_0,200,0,100,e5,5,0.0,1.0,0.5,1.0,12,16
+f63d9e4755ac164ba7d3309414fd030e_1,Income-Driven Repayment Plans | Federal Student Aid#1_0,200,0,125,bm25,5,0.0,1.0,0.6309297535714575,1.0,12,16
+f63d9e4755ac164ba7d3309414fd030e_1,Income-Driven Repayment Plans | Federal Student Aid#1_0,200,0,125,e5,5,0.0,1.0,0.5,1.0,12,16
+f63d9e4755ac164ba7d3309414fd030e_1,Income-Driven Repayment Plans | Federal Student Aid#1_0,200,0,150,bm25,5,0.0,1.0,1.0,1.0,12,16
+f63d9e4755ac164ba7d3309414fd030e_1,Income-Driven Repayment Plans | Federal Student Aid#1_0,200,0,150,e5,5,0.0,1.0,1.0,1.0,12,16
+f63d9e4755ac164ba7d3309414fd030e_1,Income-Driven Repayment Plans | Federal Student Aid#1_0,200,0,175,bm25,5,0.0,1.0,1.0,1.0,12,16
+f63d9e4755ac164ba7d3309414fd030e_1,Income-Driven Repayment Plans | Federal Student Aid#1_0,200,0,175,e5,5,0.0,1.0,1.0,1.0,12,16
+0735a5d6c85ff0bf56b42544121b3d18_1,Teacher Loan Forgiveness | Federal Student Aid#1_0,200,0,0,bm25,5,0.0,0.16666666666666666,0.0,0.0,7,9
+0735a5d6c85ff0bf56b42544121b3d18_1,Teacher Loan Forgiveness | Federal Student Aid#1_0,200,0,0,e5,5,0.0,1.0,1.0,1.0,7,9
+0735a5d6c85ff0bf56b42544121b3d18_1,Teacher Loan Forgiveness | Federal Student Aid#1_0,200,0,25,bm25,5,0.0,0.16666666666666666,0.43067655807339306,1.0,8,9
+0735a5d6c85ff0bf56b42544121b3d18_1,Teacher Loan Forgiveness | Federal Student Aid#1_0,200,0,25,e5,5,0.0,1.0,1.0,1.0,8,9
+0735a5d6c85ff0bf56b42544121b3d18_1,Teacher Loan Forgiveness | Federal Student Aid#1_0,200,0,50,bm25,5,0.4,0.1,0.19183587621591291,0.4,7,9
+0735a5d6c85ff0bf56b42544121b3d18_1,Teacher Loan Forgiveness | Federal Student Aid#1_0,200,0,50,e5,5,0.4,1.0,0.6763312943000326,1.0,7,9
+0735a5d6c85ff0bf56b42544121b3d18_1,Teacher Loan Forgiveness | Federal Student Aid#1_0,200,0,75,bm25,5,0.0,0.1,0.0,0.0,7,9
+0735a5d6c85ff0bf56b42544121b3d18_1,Teacher Loan Forgiveness | Federal Student Aid#1_0,200,0,75,e5,5,0.0,0.5,0.6309297535714575,1.0,7,9
+0735a5d6c85ff0bf56b42544121b3d18_1,Teacher Loan Forgiveness | Federal Student Aid#1_0,200,0,100,bm25,5,0.0,0.125,0.43067655807339306,1.0,7,9
+0735a5d6c85ff0bf56b42544121b3d18_1,Teacher Loan Forgiveness | Federal Student Aid#1_0,200,0,100,e5,5,0.0,1.0,1.0,1.0,7,9
+0735a5d6c85ff0bf56b42544121b3d18_1,Teacher Loan Forgiveness | Federal Student Aid#1_0,200,0,125,bm25,5,0.0,0.125,0.43067655807339306,1.0,7,9
+0735a5d6c85ff0bf56b42544121b3d18_1,Teacher Loan Forgiveness | Federal Student Aid#1_0,200,0,125,e5,5,0.0,1.0,1.0,1.0,7,9
+0735a5d6c85ff0bf56b42544121b3d18_1,Teacher Loan Forgiveness | Federal Student Aid#1_0,200,0,150,bm25,5,0.0,0.16666666666666666,0.43067655807339306,1.0,7,9
+0735a5d6c85ff0bf56b42544121b3d18_1,Teacher Loan Forgiveness | Federal Student Aid#1_0,200,0,150,e5,5,0.0,1.0,1.0,1.0,7,9
+0735a5d6c85ff0bf56b42544121b3d18_1,Teacher Loan Forgiveness | Federal Student Aid#1_0,200,0,175,bm25,5,0.0,0.16666666666666666,0.43067655807339306,1.0,7,9
+0735a5d6c85ff0bf56b42544121b3d18_1,Teacher Loan Forgiveness | Federal Student Aid#1_0,200,0,175,e5,5,0.0,1.0,1.0,1.0,7,9
+d834d988bee2f91cd2494cb15d58ae4b_1,Questions and Answers About FAFSA® Completion Data | Federal Student Aid#1_0,200,0,0,bm25,5,0.0,0.14285714285714285,0.0,0.0,6,8
+d834d988bee2f91cd2494cb15d58ae4b_1,Questions and Answers About FAFSA® Completion Data | Federal Student Aid#1_0,200,0,0,e5,5,0.0,0.1111111111111111,0.0,0.0,6,8
+d834d988bee2f91cd2494cb15d58ae4b_1,Questions and Answers About FAFSA® Completion Data | Federal Student Aid#1_0,200,0,25,bm25,5,0.0,0.14285714285714285,0.0,0.0,7,8
+d834d988bee2f91cd2494cb15d58ae4b_1,Questions and Answers About FAFSA® Completion Data | Federal Student Aid#1_0,200,0,25,e5,5,0.0,0.1111111111111111,0.0,0.0,7,8
+d834d988bee2f91cd2494cb15d58ae4b_1,Questions and Answers About FAFSA® Completion Data | Federal Student Aid#1_0,200,0,50,bm25,5,0.0,0.16666666666666666,0.0,0.0,7,8
+d834d988bee2f91cd2494cb15d58ae4b_1,Questions and Answers About FAFSA® Completion Data | Federal Student Aid#1_0,200,0,50,e5,5,0.0,0.1111111111111111,0.0,0.0,7,8
+d834d988bee2f91cd2494cb15d58ae4b_1,Questions and Answers About FAFSA® Completion Data | Federal Student Aid#1_0,200,0,75,bm25,5,0.0,0.16666666666666666,0.0,0.0,7,8
+d834d988bee2f91cd2494cb15d58ae4b_1,Questions and Answers About FAFSA® Completion Data | Federal Student Aid#1_0,200,0,75,e5,5,0.0,0.1111111111111111,0.0,0.0,7,8
+d834d988bee2f91cd2494cb15d58ae4b_1,Questions and Answers About FAFSA® Completion Data | Federal Student Aid#1_0,200,0,100,bm25,5,0.4736842105263158,0.16666666666666666,0.0,0.0,6,8
+d834d988bee2f91cd2494cb15d58ae4b_1,Questions and Answers About FAFSA® Completion Data | Federal Student Aid#1_0,200,0,100,e5,5,0.4736842105263158,0.25,0.24846246202315458,0.5263157894736842,6,8
+d834d988bee2f91cd2494cb15d58ae4b_1,Questions and Answers About FAFSA® Completion Data | Federal Student Aid#1_0,200,0,125,bm25,5,0.0,0.1111111111111111,0.0,0.0,6,8
+d834d988bee2f91cd2494cb15d58ae4b_1,Questions and Answers About FAFSA® Completion Data | Federal Student Aid#1_0,200,0,125,e5,5,0.0,0.1111111111111111,0.0,0.0,6,8
+d834d988bee2f91cd2494cb15d58ae4b_1,Questions and Answers About FAFSA® Completion Data | Federal Student Aid#1_0,200,0,150,bm25,5,0.0,0.14285714285714285,0.0,0.0,6,8
+d834d988bee2f91cd2494cb15d58ae4b_1,Questions and Answers About FAFSA® Completion Data | Federal Student Aid#1_0,200,0,150,e5,5,0.0,0.1111111111111111,0.0,0.0,6,8
+d834d988bee2f91cd2494cb15d58ae4b_1,Questions and Answers About FAFSA® Completion Data | Federal Student Aid#1_0,200,0,175,bm25,5,0.0,0.14285714285714285,0.38685280723454163,1.0,6,8
+d834d988bee2f91cd2494cb15d58ae4b_1,Questions and Answers About FAFSA® Completion Data | Federal Student Aid#1_0,200,0,175,e5,5,0.0,0.1111111111111111,0.0,0.0,6,8
+a0e1e07dc2db74e11c15c3dcd37c2f3a_1,Reporting Parent Information | Federal Student Aid#1_0,200,0,0,bm25,5,0.0,0.5,0.6309297535714575,1.0,4,10
+a0e1e07dc2db74e11c15c3dcd37c2f3a_1,Reporting Parent Information | Federal Student Aid#1_0,200,0,0,e5,5,0.0,0.5,0.6309297535714575,1.0,4,10
+a0e1e07dc2db74e11c15c3dcd37c2f3a_1,Reporting Parent Information | Federal Student Aid#1_0,200,0,25,bm25,5,0.0,0.5,1.0,1.0,5,10
+a0e1e07dc2db74e11c15c3dcd37c2f3a_1,Reporting Parent Information | Federal Student Aid#1_0,200,0,25,e5,5,0.0,1.0,1.0,1.0,5,10
+a0e1e07dc2db74e11c15c3dcd37c2f3a_1,Reporting Parent Information | Federal Student Aid#1_0,200,0,50,bm25,5,0.0,0.5,1.0,1.0,5,10
+a0e1e07dc2db74e11c15c3dcd37c2f3a_1,Reporting Parent Information | Federal Student Aid#1_0,200,0,50,e5,5,0.0,1.0,1.0,1.0,5,10
+a0e1e07dc2db74e11c15c3dcd37c2f3a_1,Reporting Parent Information | Federal Student Aid#1_0,200,0,75,bm25,5,0.0,0.5,1.0,1.0,5,10
+a0e1e07dc2db74e11c15c3dcd37c2f3a_1,Reporting Parent Information | Federal Student Aid#1_0,200,0,75,e5,5,0.0,1.0,1.0,1.0,5,10
+a0e1e07dc2db74e11c15c3dcd37c2f3a_1,Reporting Parent Information | Federal Student Aid#1_0,200,0,100,bm25,5,0.21052631578947367,0.3333333333333333,0.49886961868051155,1.0,5,10
+a0e1e07dc2db74e11c15c3dcd37c2f3a_1,Reporting Parent Information | Federal Student Aid#1_0,200,0,100,e5,5,0.21052631578947367,0.25,0.43543862501232217,1.0,5,10
+a0e1e07dc2db74e11c15c3dcd37c2f3a_1,Reporting Parent Information | Federal Student Aid#1_0,200,0,125,bm25,5,0.0,0.5,1.0,1.0,4,10
+a0e1e07dc2db74e11c15c3dcd37c2f3a_1,Reporting Parent Information | Federal Student Aid#1_0,200,0,125,e5,5,0.0,0.3333333333333333,0.43067655807339306,1.0,4,10
+a0e1e07dc2db74e11c15c3dcd37c2f3a_1,Reporting Parent Information | Federal Student Aid#1_0,200,0,150,bm25,5,0.0,0.5,1.0,1.0,4,10
+a0e1e07dc2db74e11c15c3dcd37c2f3a_1,Reporting Parent Information | Federal Student Aid#1_0,200,0,150,e5,5,0.0,0.3333333333333333,0.6309297535714575,1.0,4,10
+a0e1e07dc2db74e11c15c3dcd37c2f3a_1,Reporting Parent Information | Federal Student Aid#1_0,200,0,175,bm25,5,0.0,0.5,0.6309297535714575,1.0,4,10
+a0e1e07dc2db74e11c15c3dcd37c2f3a_1,Reporting Parent Information | Federal Student Aid#1_0,200,0,175,e5,5,0.0,0.3333333333333333,0.6309297535714575,1.0,4,10
+f7f2505b361433d9ac4ae84a0d935b12_1,Reporting Parent Information | Federal Student Aid#1_0,200,0,0,bm25,5,0.0,0.2,0.38685280723454163,1.0,4,10
+f7f2505b361433d9ac4ae84a0d935b12_1,Reporting Parent Information | Federal Student Aid#1_0,200,0,0,e5,5,0.0,1.0,1.0,1.0,4,10
+f7f2505b361433d9ac4ae84a0d935b12_1,Reporting Parent Information | Federal Student Aid#1_0,200,0,25,bm25,5,0.0,0.2,0.43067655807339306,1.0,5,10
+f7f2505b361433d9ac4ae84a0d935b12_1,Reporting Parent Information | Federal Student Aid#1_0,200,0,25,e5,5,0.0,1.0,1.0,1.0,5,10
+f7f2505b361433d9ac4ae84a0d935b12_1,Reporting Parent Information | Federal Student Aid#1_0,200,0,50,bm25,5,0.0,0.2,0.5,1.0,5,10
+f7f2505b361433d9ac4ae84a0d935b12_1,Reporting Parent Information | Federal Student Aid#1_0,200,0,50,e5,5,0.0,1.0,1.0,1.0,5,10
+f7f2505b361433d9ac4ae84a0d935b12_1,Reporting Parent Information | Federal Student Aid#1_0,200,0,75,bm25,5,0.0,0.2,0.5,1.0,5,10
+f7f2505b361433d9ac4ae84a0d935b12_1,Reporting Parent Information | Federal Student Aid#1_0,200,0,75,e5,5,0.0,1.0,1.0,1.0,5,10
+f7f2505b361433d9ac4ae84a0d935b12_1,Reporting Parent Information | Federal Student Aid#1_0,200,0,100,bm25,5,0.21052631578947367,0.125,0.1197791195394155,0.21052631578947367,5,10
+f7f2505b361433d9ac4ae84a0d935b12_1,Reporting Parent Information | Federal Student Aid#1_0,200,0,100,e5,5,0.21052631578947367,0.3333333333333333,0.5135526711278031,1.0,5,10
+f7f2505b361433d9ac4ae84a0d935b12_1,Reporting Parent Information | Federal Student Aid#1_0,200,0,125,bm25,5,0.0,0.3333333333333333,0.6309297535714575,1.0,4,10
+f7f2505b361433d9ac4ae84a0d935b12_1,Reporting Parent Information | Federal Student Aid#1_0,200,0,125,e5,5,0.0,0.5,0.5,1.0,4,10
+f7f2505b361433d9ac4ae84a0d935b12_1,Reporting Parent Information | Federal Student Aid#1_0,200,0,150,bm25,5,0.0,0.3333333333333333,0.6309297535714575,1.0,4,10
+f7f2505b361433d9ac4ae84a0d935b12_1,Reporting Parent Information | Federal Student Aid#1_0,200,0,150,e5,5,0.0,1.0,1.0,1.0,4,10
+f7f2505b361433d9ac4ae84a0d935b12_1,Reporting Parent Information | Federal Student Aid#1_0,200,0,175,bm25,5,0.0,0.3333333333333333,0.6309297535714575,1.0,4,10
+f7f2505b361433d9ac4ae84a0d935b12_1,Reporting Parent Information | Federal Student Aid#1_0,200,0,175,e5,5,0.0,0.5,1.0,1.0,4,10
+27e50bdd1c70a004b359011e0f1d1c82_1,Student Loan Forbearance | Federal Student Aid#1_0,200,0,0,bm25,5,0.0,0.5,0.6309297535714575,1.0,2,5
+27e50bdd1c70a004b359011e0f1d1c82_1,Student Loan Forbearance | Federal Student Aid#1_0,200,0,0,e5,5,0.0,0.5,0.6309297535714575,1.0,2,5
+27e50bdd1c70a004b359011e0f1d1c82_1,Student Loan Forbearance | Federal Student Aid#1_0,200,0,25,bm25,5,0.0,0.5,1.0,1.0,3,5
+27e50bdd1c70a004b359011e0f1d1c82_1,Student Loan Forbearance | Federal Student Aid#1_0,200,0,25,e5,5,0.0,1.0,0.6309297535714575,1.0,3,5
+27e50bdd1c70a004b359011e0f1d1c82_1,Student Loan Forbearance | Federal Student Aid#1_0,200,0,50,bm25,5,0.0,1.0,1.0,1.0,3,5
+27e50bdd1c70a004b359011e0f1d1c82_1,Student Loan Forbearance | Federal Student Aid#1_0,200,0,50,e5,5,0.0,1.0,0.6309297535714575,1.0,3,5
+27e50bdd1c70a004b359011e0f1d1c82_1,Student Loan Forbearance | Federal Student Aid#1_0,200,0,75,bm25,5,0.0,1.0,1.0,1.0,3,5
+27e50bdd1c70a004b359011e0f1d1c82_1,Student Loan Forbearance | Federal Student Aid#1_0,200,0,75,e5,5,0.0,1.0,1.0,1.0,3,5
+27e50bdd1c70a004b359011e0f1d1c82_1,Student Loan Forbearance | Federal Student Aid#1_0,200,0,100,bm25,5,0.0,1.0,1.0,1.0,3,5
+27e50bdd1c70a004b359011e0f1d1c82_1,Student Loan Forbearance | Federal Student Aid#1_0,200,0,100,e5,5,0.0,1.0,1.0,1.0,3,5
+27e50bdd1c70a004b359011e0f1d1c82_1,Student Loan Forbearance | Federal Student Aid#1_0,200,0,125,bm25,5,0.5,0.5,1.0,1.0,2,5
+27e50bdd1c70a004b359011e0f1d1c82_1,Student Loan Forbearance | Federal Student Aid#1_0,200,0,125,e5,5,0.5,1.0,1.0,1.0,2,5
+27e50bdd1c70a004b359011e0f1d1c82_1,Student Loan Forbearance | Federal Student Aid#1_0,200,0,150,bm25,5,0.0,0.5,0.6309297535714575,1.0,2,5
+27e50bdd1c70a004b359011e0f1d1c82_1,Student Loan Forbearance | Federal Student Aid#1_0,200,0,150,e5,5,0.0,1.0,0.6309297535714575,1.0,2,5
+27e50bdd1c70a004b359011e0f1d1c82_1,Student Loan Forbearance | Federal Student Aid#1_0,200,0,175,bm25,5,0.0,0.5,0.5,1.0,2,5
+27e50bdd1c70a004b359011e0f1d1c82_1,Student Loan Forbearance | Federal Student Aid#1_0,200,0,175,e5,5,0.0,1.0,1.0,1.0,2,5
+6fbdf8511dc4efb77204e8572bd49b29_1,Receiving Financial Aid | Federal Student Aid#1_0,200,0,0,bm25,5,0.0,1.0,1.0,1.0,3,6
+6fbdf8511dc4efb77204e8572bd49b29_1,Receiving Financial Aid | Federal Student Aid#1_0,200,0,0,e5,5,0.0,0.5,0.6309297535714575,1.0,3,6
+6fbdf8511dc4efb77204e8572bd49b29_1,Receiving Financial Aid | Federal Student Aid#1_0,200,0,25,bm25,5,0.0,1.0,1.0,1.0,4,6
+6fbdf8511dc4efb77204e8572bd49b29_1,Receiving Financial Aid | Federal Student Aid#1_0,200,0,25,e5,5,0.0,0.5,1.0,1.0,4,6
+6fbdf8511dc4efb77204e8572bd49b29_1,Receiving Financial Aid | Federal Student Aid#1_0,200,0,50,bm25,5,0.0,1.0,1.0,1.0,4,6
+6fbdf8511dc4efb77204e8572bd49b29_1,Receiving Financial Aid | Federal Student Aid#1_0,200,0,50,e5,5,0.0,1.0,1.0,1.0,4,6
+6fbdf8511dc4efb77204e8572bd49b29_1,Receiving Financial Aid | Federal Student Aid#1_0,200,0,75,bm25,5,0.0,1.0,1.0,1.0,4,6
+6fbdf8511dc4efb77204e8572bd49b29_1,Receiving Financial Aid | Federal Student Aid#1_0,200,0,75,e5,5,0.0,1.0,1.0,1.0,4,6
+6fbdf8511dc4efb77204e8572bd49b29_1,Receiving Financial Aid | Federal Student Aid#1_0,200,0,100,bm25,5,0.0,1.0,0.6309297535714575,1.0,4,6
+6fbdf8511dc4efb77204e8572bd49b29_1,Receiving Financial Aid | Federal Student Aid#1_0,200,0,100,e5,5,0.0,0.3333333333333333,0.5,1.0,4,6
+6fbdf8511dc4efb77204e8572bd49b29_1,Receiving Financial Aid | Federal Student Aid#1_0,200,0,125,bm25,5,0.25,1.0,0.969079140778113,1.0,3,6
+6fbdf8511dc4efb77204e8572bd49b29_1,Receiving Financial Aid | Federal Student Aid#1_0,200,0,125,e5,5,0.25,0.3333333333333333,0.6386296840952426,1.0,3,6
+6fbdf8511dc4efb77204e8572bd49b29_1,Receiving Financial Aid | Federal Student Aid#1_0,200,0,150,bm25,5,0.0,1.0,1.0,1.0,3,6
+6fbdf8511dc4efb77204e8572bd49b29_1,Receiving Financial Aid | Federal Student Aid#1_0,200,0,150,e5,5,0.0,0.25,0.43067655807339306,1.0,3,6
+6fbdf8511dc4efb77204e8572bd49b29_1,Receiving Financial Aid | Federal Student Aid#1_0,200,0,175,bm25,5,0.0,1.0,1.0,1.0,3,6
+6fbdf8511dc4efb77204e8572bd49b29_1,Receiving Financial Aid | Federal Student Aid#1_0,200,0,175,e5,5,0.0,0.5,0.6309297535714575,1.0,3,6
+73b20dce5568dda77b8c981967ee0016_1,Receiving Financial Aid | Federal Student Aid#1_0,200,0,0,bm25,5,0.2142857142857143,0.3333333333333333,0.474984839821383,1.0,2,5
+73b20dce5568dda77b8c981967ee0016_1,Receiving Financial Aid | Federal Student Aid#1_0,200,0,0,e5,5,0.2142857142857143,0.5,0.6287520186465395,1.0,2,5
+73b20dce5568dda77b8c981967ee0016_1,Receiving Financial Aid | Federal Student Aid#1_0,200,0,25,bm25,5,0.0,0.5,0.5,1.0,2,5
+73b20dce5568dda77b8c981967ee0016_1,Receiving Financial Aid | Federal Student Aid#1_0,200,0,25,e5,5,0.0,0.5,0.43067655807339306,1.0,2,5
+73b20dce5568dda77b8c981967ee0016_1,Receiving Financial Aid | Federal Student Aid#1_0,200,0,50,bm25,5,0.0,0.5,0.6309297535714575,1.0,2,5
+73b20dce5568dda77b8c981967ee0016_1,Receiving Financial Aid | Federal Student Aid#1_0,200,0,50,e5,5,0.0,0.5,0.5,1.0,2,5
+73b20dce5568dda77b8c981967ee0016_1,Receiving Financial Aid | Federal Student Aid#1_0,200,0,75,bm25,5,0.0,1.0,0.5,1.0,2,5
+73b20dce5568dda77b8c981967ee0016_1,Receiving Financial Aid | Federal Student Aid#1_0,200,0,75,e5,5,0.0,0.5,0.5,1.0,2,5
+73b20dce5568dda77b8c981967ee0016_1,Receiving Financial Aid | Federal Student Aid#1_0,200,0,100,bm25,5,0.0,0.3333333333333333,0.5,1.0,2,5
+73b20dce5568dda77b8c981967ee0016_1,Receiving Financial Aid | Federal Student Aid#1_0,200,0,100,e5,5,0.0,0.5,0.6309297535714575,1.0,2,5
+73b20dce5568dda77b8c981967ee0016_1,Receiving Financial Aid | Federal Student Aid#1_0,200,0,125,bm25,5,0.0,0.3333333333333333,0.38685280723454163,1.0,2,5
+73b20dce5568dda77b8c981967ee0016_1,Receiving Financial Aid | Federal Student Aid#1_0,200,0,125,e5,5,0.0,0.3333333333333333,0.5,1.0,2,5
+73b20dce5568dda77b8c981967ee0016_1,Receiving Financial Aid | Federal Student Aid#1_0,200,0,150,bm25,5,0.0,0.3333333333333333,0.38685280723454163,1.0,2,5
+73b20dce5568dda77b8c981967ee0016_1,Receiving Financial Aid | Federal Student Aid#1_0,200,0,150,e5,5,0.0,0.3333333333333333,0.43067655807339306,1.0,2,5
+73b20dce5568dda77b8c981967ee0016_1,Receiving Financial Aid | Federal Student Aid#1_0,200,0,175,bm25,5,0.0,0.3333333333333333,0.5,1.0,2,5
+73b20dce5568dda77b8c981967ee0016_1,Receiving Financial Aid | Federal Student Aid#1_0,200,0,175,e5,5,0.0,1.0,1.0,1.0,2,5
