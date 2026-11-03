@@ -6,7 +6,7 @@ The central idea is that the same supporting evidence can fall fully inside one 
 
 The study uses annotated grounding spans from Doc2Dial as gold supporting evidence. Documents are split into fixed-size chunks under different boundary phases, and the resulting passages are ranked with BM25 and E5-base-v2.
 
-**Paper:** [Measuring the Effect of Shifted Chunk Boundaries on Evidence Retrieval](paper/paper.pdf)
+**Paper:** [Measuring the Effect of Shifted Chunk Boundaries on Evidence Retrieval](paper/cbr_paper.pdf)
 
 ## Research Question
 
@@ -77,7 +77,7 @@ A separate overlap experiment compares zero overlap with 40 words of overlap whi
 ```text
 .
 ├── paper/
-│   └── paper.pdf
+│   └── cbr_paper.pdf
 ├── results/
 │   ├── dataset_summary.json
 │   ├── error_cases.json
